@@ -93,6 +93,8 @@ def seo_fields(meta, body, lang):
     import difflib
     title = meta.get("title", "")
     seo_title = title if BRAND in title else f"{title} | {BRAND}"
+    if len(seo_title) > 60 and BRAND not in title:
+        seo_title = title  # the suffix would get cut off in search results anyway
     summary = (meta.get("summary") or "").strip()
     cjk = lang in CJK
     sep = "：" if cjk else (" : " if lang == "fr" else ": ")
@@ -279,11 +281,13 @@ def main():
             html = env.get_template("pages/legal.html").render(
                 t=t, lang=lang, languages=languages, all_languages=site["languages"],
                 page_key=doc.stem, page_path=path, url=url, lang_url=lang_url, news=news,
-                canonical=f"{site['site_url']}{url(path)}",
+                # Legal text is English-only, so translated copies point Google at the English page
+                canonical=f"{site['site_url']}{lang_url('en', path)}", no_alternates=True,
                 doc=meta, body=Markup(markdown.markdown(body, extensions=["tables"])),
             )
             out.write_text(html, encoding="utf-8")
-            sitemap.append(f"{site['site_url']}{url(path)}")
+            if code == "en":
+                sitemap.append(f"{site['site_url']}{url(path)}")
 
         if code == "en":
             html = env.get_template("pages/404.html").render(

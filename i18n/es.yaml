@@ -1,7 +1,7 @@
 # Textos en español del sitio web. Traducción de en.yaml.
 
 meta:
-  home_title: "Football League – Juego de fútbol gratis para móvil | iOS y Android"
+  home_title: "Football League – Fútbol gratis para móvil | iOS y Android"
   home_description: "Football League es un juego de fútbol gratis para iPhone y Android. Crea tu plantilla y juega el Modo Carrera. Football League 2027 llega muy pronto."
 
 nav:
@@ -113,7 +113,7 @@ footer:
   disclaimer: "Los nombres, logotipos y equipaciones de los clubes son marcas registradas de sus respectivos propietarios y se usan bajo licencia."
 
 shop:
-  meta_title: "Tienda oficial de Football League – Camisetas, sudaderas y más"
+  meta_title: "Tienda oficial de Football League – Camisetas y sudaderas"
   meta_description: "Camisetas de fútbol, sudaderas, chaquetas, ropa infantil y accesorios oficiales de Football League. Fabricados bajo pedido y con envío a todo el mundo."
   kicker: "Merchandising oficial"
   title_1: Viste
@@ -178,7 +178,7 @@ cookies:
   always_on: Siempre activas
 
 game_page:
-  meta_title: "Football League 2027 (FL27) – Novedades del juego de fútbol para móvil"
+  meta_title: "Football League 2027 – Novedades del juego de fútbol móvil"
   meta_description: "Football League 2027 (FL27): interfaz renovada, nueva página del Modo Carrera, gráficos de partido mejorados, estadio nuevo y desafíos diarios."
   kicker: "Novedades de esta temporada"
   title_1: La nueva temporada

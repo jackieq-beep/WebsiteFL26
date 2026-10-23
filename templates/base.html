@@ -7,10 +7,12 @@
   <meta name="description" content="{% block description %}{{ t.meta.home_description }}{% endblock %}">
   {% block robots %}{% endblock %}
   <link rel="canonical" href="{{ canonical }}">
+  {% if not no_alternates %}
   {% for l in languages %}
   <link rel="alternate" hreflang="{{ l.code }}" href="{{ site.site_url }}{{ lang_url(l.code, page_path) }}">
   {% endfor %}
   <link rel="alternate" hreflang="x-default" href="{{ site.site_url }}{{ lang_url('en', page_path) }}">
+  {% endif %}
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification }}">{% endif %}
   <meta name="theme-color" content="#121214">
   <meta property="og:type" content="{% block og_type %}website{% endblock %}">

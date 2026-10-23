@@ -1,7 +1,7 @@
 # Textos do site em português (Brasil).
 
 meta:
-  home_title: "Football League – Jogo de Futebol Grátis para Celular | iOS e Android"
+  home_title: "Football League – Futebol Grátis no Celular | iOS e Android"
   home_description: "Football League é um jogo de futebol grátis para iPhone e Android. Monte seu elenco e jogue o Modo Carreira. Football League 2027 chega em breve."
 
 nav:
@@ -178,7 +178,7 @@ cookies:
   always_on: Sempre ativos
 
 game_page:
-  meta_title: "Football League 2027 (FL27) – Novidades do Jogo de Futebol para Celular"
+  meta_title: "Football League 2027 – Novidades do Jogo de Futebol Mobile"
   meta_description: "Football League 2027 (FL27): interface renovada, nova página do Modo Carreira, visual de partida atualizado, estádio novo e desafios diários."
   kicker: "Novidades desta temporada"
   title_1: A nova temporada
