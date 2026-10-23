@@ -184,6 +184,14 @@ game_page:
   title_1: "新赛季"
   title_2: "从这里开始。"
   text: "Football League 2027（FL27）带来更简洁现代的外观、重新设计的生涯模式、升级的比赛画面、全新球场和新的每日挑战。"
+  facts_title: "Football League 2027 一览"
+  facts:
+    - { label: "平台", value: "iPhone、iPad 和 Android" }
+    - { label: "价格", value: "免费畅玩" }
+    - { label: "开发商", value: "Mobile Soccer" }
+    - { label: "离线游玩", value: "支持" }
+    - { label: "解说", value: "16 种语言" }
+    - { label: "玩家", value: "200 多个国家和地区，超 1 亿" }
   jump: "新内容一览"
   features:
     - key: ui
@@ -265,6 +273,14 @@ faq:
       a: "Football League 2027（FL27）即将登陆 iPhone 和 Android。关注我们的新闻页面、Instagram 或 Discord，或订阅新闻通讯，第一时间获取上线消息。"
     - q: "Football League 2027 有哪些新内容？"
       a: "FL27 带来焕新外观与主界面、全新生涯模式页面、包含全新进球时刻在内的升级比赛画面、全新球场，以及带奖励的新每日挑战。"
+    - q: "FL27 和 Football League 2027 是同一款游戏吗？"
+      a: "是的。FL27 是 Football League 2027 的简称，即 Mobile Soccer 出品的免费手机足球游戏 Football League 的 2027 版本。"
+    - q: "FL27 和 FL26 有什么不同？"
+      a: "FL27 带来焕新外观与主界面、全新生涯模式页面、包含全新进球时刻在内的升级比赛画面、全新球场，以及带奖励的新每日挑战。"
+    - q: "Football League 2027 支持 iPhone 和 Android 吗？"
+      a: "支持。Football League 已在 App Store 上架，支持 iPhone 和 iPad；也可在 Google Play 下载，支持 Android 手机和平板。"
+    - q: "Football League 是谁开发的？"
+      a: "Football League 由 Mobile Soccer 开发并发行，在 200 多个国家和地区拥有超过 1 亿玩家。"
     - q: "Football League 是免费的吗？"
       a: "是的。Football League 可在 iPhone、iPad 以及 Android 手机和平板上免费下载和游玩。"
     - q: "Football League 可以离线玩吗？"

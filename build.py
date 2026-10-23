@@ -306,6 +306,35 @@ def main():
         + "</urlset>\n",
         encoding="utf-8",
     )
+    # llms.txt: a plain-text summary of the site for AI search tools (https://llmstxt.org)
+    root = f"{site['site_url']}{base}"
+    page_notes = {
+        "game": f"What's new in {site['name']} ({site['short_name']})",
+        "news": "Updates, live events and announcements",
+        "shop": "Official Football League merchandise",
+        "media": "Press kit, logos and screenshots",
+        "contact": "Player support and partnerships",
+    }
+    lines = [
+        f"# {site['name']}", "",
+        f"> {english['meta']['home_description']}", "",
+        f"{site['name']} ({site['short_name']}) is the 2027 edition of {site['brand']}, a free mobile soccer game "
+        f"for iPhone, iPad and Android, developed and published by {site['company']}.", "",
+        "## Main pages", "",
+        f"- [Home]({root}/): {english['meta']['home_title']}",
+    ]
+    lines += [f"- [{n.get('label') or english['nav'].get(n['key'], n['key']).title()}]({root}/{n['path']}): {page_notes[n['key']]}"
+              for n in site["nav"] if n["key"] in page_notes]
+    lines += ["", "## Download", "",
+              f"- [Google Play]({site['stores']['google_play']})", f"- [App Store]({site['stores']['app_store']})",
+              "", "## Frequently asked questions", ""]
+    for f in english["faq"]["items"]:
+        lines += [f"### {f['q']}", "", f["a"], ""]
+    lines += ["## Latest news", ""]
+    lines += [f"- [{p['title']}]({root}/news/{p['slug']}/): {p.get('summary', '')}".rstrip(": ") for p in load_news("en")[:15]]
+    lines += ["", "## Optional", "", f"- [Sitemap]({root}/sitemap.xml)", f"- Business contact: {site['contact_email']}", ""]
+    (DIST / "llms.txt").write_text("\n".join(lines), encoding="utf-8")
+
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {site['site_url']}{base}/sitemap.xml\n")
     print(f"Built {len(sitemap)} pages into dist/ (base path: '{base or '/'}')")
 

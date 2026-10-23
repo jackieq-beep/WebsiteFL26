@@ -184,6 +184,14 @@ game_page:
   title_1: "La nouvelle saison"
   title_2: "commence ici."
   text: "Football League 2027 (FL27) apporte un look plus épuré et moderne, un mode Carrière repensé, des visuels de match améliorés, un nouveau stade et de nouveaux défis quotidiens."
+  facts_title: "Football League 2027 en bref"
+  facts:
+    - { label: "Plateformes", value: "iPhone, iPad et Android" }
+    - { label: "Prix", value: "Gratuit" }
+    - { label: "Développeur", value: "Mobile Soccer" }
+    - { label: "Jeu hors ligne", value: "Oui" }
+    - { label: "Commentaires", value: "16 langues" }
+    - { label: "Joueurs", value: "100 M+ dans 200+ pays" }
   jump: "Quoi de neuf"
   features:
     - key: ui
@@ -265,6 +273,14 @@ faq:
       a: "Football League 2027 (FL27) arrive bientôt sur iPhone et Android. Suis notre page Actus, Instagram ou Discord, ou inscris-toi à la newsletter, pour être prévenu dès sa sortie."
     - q: "Quoi de neuf dans Football League 2027 ?"
       a: "FL27 apporte un look et un écran d'accueil repensés, une nouvelle page pour le mode Carrière, des visuels de match améliorés avec un nouveau Moment But, un tout nouveau stade et de nouveaux défis quotidiens avec récompenses."
+    - q: "FL27, c'est la même chose que Football League 2027 ?"
+      a: "Oui. FL27 est le nom court de Football League 2027, l'édition 2027 de Football League, le jeu de foot mobile gratuit de Mobile Soccer."
+    - q: "Quelles différences entre FL27 et FL26 ?"
+      a: "FL27 apporte un look et un écran d'accueil repensés, une nouvelle page pour le mode Carrière, des visuels de match améliorés avec un nouveau Moment But, un tout nouveau stade et de nouveaux défis quotidiens avec récompenses."
+    - q: "Football League 2027 est-il disponible sur iPhone et Android ?"
+      a: "Oui. Football League est disponible sur l'App Store pour iPhone et iPad, et sur Google Play pour les téléphones et tablettes Android."
+    - q: "Qui développe Football League ?"
+      a: "Football League est développé et édité par Mobile Soccer. Plus de 100 millions de joueurs y jouent dans plus de 200 pays."
     - q: "Football League est-il gratuit ?"
       a: "Oui. Football League se télécharge et se joue gratuitement sur iPhone, iPad et sur les smartphones et tablettes Android."
     - q: "Peut-on jouer à Football League hors ligne ?"

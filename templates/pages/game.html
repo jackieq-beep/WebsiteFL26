@@ -16,6 +16,17 @@
   </div>
 </section>
 
+{% if t.game_page.facts %}
+<section class="game-facts" aria-labelledby="game-facts-title">
+  <div class="container">
+    <h2 class="kicker" id="game-facts-title">{{ t.game_page.facts_title }}</h2>
+    <dl class="facts-list">
+      {% for f in t.game_page.facts %}<div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>{% endfor %}
+    </dl>
+  </div>
+</section>
+{% endif %}
+
 <section class="game-features">
   <div class="container">
     {% for f in t.game_page.features %}

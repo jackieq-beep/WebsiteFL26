@@ -184,6 +184,14 @@ game_page:
   title_1: "Musim baru"
   title_2: "dimulai di sini."
   text: "Football League 2027 (FL27) hadir dengan tampilan yang lebih bersih dan modern, Mode Karier yang didesain ulang, visual pertandingan yang diperbarui, stadion baru, dan tantangan harian baru."
+  facts_title: "Sekilas Football League 2027"
+  facts:
+    - { label: "Platform", value: "iPhone, iPad & Android" }
+    - { label: "Harga", value: "Gratis" }
+    - { label: "Pengembang", value: "Mobile Soccer" }
+    - { label: "Main offline", value: "Ya" }
+    - { label: "Komentar", value: "16 bahasa" }
+    - { label: "Pemain", value: "100 jt+ di 200+ negara" }
   jump: "Apa yang baru"
   features:
     - key: ui
@@ -265,6 +273,14 @@ faq:
       a: "Football League 2027 (FL27) segera hadir di iPhone dan Android. Ikuti halaman Berita, Instagram, atau Discord kami, atau daftar newsletter, untuk tahu begitu game ini rilis."
     - q: "Apa yang baru di Football League 2027?"
       a: "FL27 menghadirkan tampilan dan layar utama baru, halaman Mode Karier baru, visual pertandingan yang diperbarui termasuk Goal Moment baru, stadion yang benar-benar baru, dan tantangan harian baru dengan hadiah."
+    - q: "Apakah FL27 sama dengan Football League 2027?"
+      a: "Ya. FL27 adalah nama singkat Football League 2027, edisi 2027 dari Football League, game sepak bola mobile gratis dari Mobile Soccer."
+    - q: "Apa bedanya FL27 dengan FL26?"
+      a: "FL27 menghadirkan tampilan dan layar utama baru, halaman Mode Karier baru, visual pertandingan yang diperbarui termasuk Goal Moment baru, stadion yang benar-benar baru, dan tantangan harian baru dengan hadiah."
+    - q: "Apakah Football League 2027 ada di iPhone dan Android?"
+      a: "Ya. Football League tersedia di App Store untuk iPhone dan iPad, serta di Google Play untuk ponsel dan tablet Android."
+    - q: "Siapa pembuat Football League?"
+      a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini dimainkan oleh lebih dari 100 juta orang di lebih dari 200 negara."
     - q: "Apakah Football League gratis?"
       a: "Ya. Football League gratis diunduh dan dimainkan di iPhone, iPad, serta ponsel dan tablet Android."
     - q: "Bisakah Football League dimainkan offline?"

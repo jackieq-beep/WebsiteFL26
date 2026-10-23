@@ -184,6 +184,14 @@ game_page:
   title_1: The new season
   title_2: starts here.
   text: "Football League 2027 (FL27) brings a cleaner, more modern look, a redesigned Career Mode, updated match visuals, a new stadium and new daily challenges."
+  facts_title: "Football League 2027 at a glance"
+  facts:
+    - { label: "Platforms", value: "iPhone, iPad & Android" }
+    - { label: "Price", value: "Free to play" }
+    - { label: "Developer", value: "Mobile Soccer" }
+    - { label: "Offline play", value: "Yes" }
+    - { label: "Commentary", value: "16 languages" }
+    - { label: "Players", value: "100M+ in 200+ countries" }
   jump: "What's new"
   features:
     - key: ui
@@ -265,6 +273,14 @@ faq:
       a: "Football League 2027 (FL27) is coming soon on iPhone and Android. Follow our News page, Instagram or Discord, or sign up to the newsletter, to hear the moment it launches."
     - q: "What's new in Football League 2027?"
       a: "FL27 brings a refreshed look and home screen, a new Career Mode page, updated match visuals including a new Goal Moment, a brand-new stadium, and new daily challenges with rewards."
+    - q: "Is FL27 the same as Football League 2027?"
+      a: "Yes. FL27 is the short name for Football League 2027, the 2027 edition of Football League, the free mobile soccer game from Mobile Soccer."
+    - q: "How is FL27 different from FL26?"
+      a: "FL27 brings a refreshed look and home screen, a new Career Mode page, updated match visuals including a new Goal Moment, a brand-new stadium, and new daily challenges with rewards."
+    - q: "Is Football League 2027 on iPhone and Android?"
+      a: "Yes. Football League is on the App Store for iPhone and iPad, and on Google Play for Android phones and tablets."
+    - q: "Who makes Football League?"
+      a: "Football League is developed and published by Mobile Soccer. It is played by over 100 million people in more than 200 countries."
     - q: "Is Football League free?"
       a: "Yes. Football League is free to download and play on iPhone, iPad and Android phones and tablets."
     - q: "Can I play Football League offline?"

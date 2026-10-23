@@ -942,6 +942,15 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .feature-jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 28px; }
 .feature-jump a { display: block; padding: 8px 14px; border: 1px solid rgba(255, 255, 255, .25); font-size: 14px; font-weight: 500; background: rgba(9, 9, 11, .4); }
 .feature-jump a:hover { border-color: var(--pink); color: #fff; }
+/* Game page: "at a glance" facts strip */
+.game-facts { border-block: 1px solid var(--line); background: var(--surface); padding-block: clamp(28px, 4vw, 44px); }
+.game-facts .kicker { margin-bottom: 18px; }
+.facts-list { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 20px 28px; margin: 0; }
+.facts-list div { border-inline-start: 2px solid var(--pink); padding-inline-start: 14px; }
+.facts-list dt { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+.facts-list dd { margin: 0; font-weight: 700; font-size: 16px; line-height: 1.3; }
+@media (max-width: 1080px) { .facts-list { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .facts-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 16px; } }
 .game-features { padding-block: clamp(48px, 7vw, 96px) 0; }
 .game-features .container { display: grid; gap: clamp(64px, 9vw, 120px); }
 .gf { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: clamp(28px, 5vw, 64px); align-items: center; scroll-margin-top: calc(var(--header-h) + 24px); }
