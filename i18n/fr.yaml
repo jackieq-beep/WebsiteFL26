@@ -1,7 +1,7 @@
 # Textes français du site.
 
 meta:
-  home_title: "Football League – Jeu de foot mobile gratuit | iOS & Android"
+  home_title: "Football League 2027 – Jeu de foot gratuit | iOS & Android"
   home_description: "Football League est un jeu de foot mobile gratuit sur iPhone et Android. Monte ton équipe et joue en mode Carrière. Football League 2027 arrive bientôt."
 
 nav:
@@ -21,7 +21,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "La nouvelle saison arrive bientôt"
+  eyebrow: "Football League 2027 arrive bientôt"
   title_1: "Le foot"
   title_2a: "vit"
   title_2b: "ici"
@@ -183,7 +183,7 @@ game_page:
   kicker: "Les nouveautés de la saison"
   title_1: "La nouvelle saison"
   title_2: "commence ici."
-  text: "FL27 apporte un look plus épuré et moderne, un mode Carrière repensé, des visuels de match améliorés, un nouveau stade et de nouveaux défis quotidiens."
+  text: "Football League 2027 (FL27) apporte un look plus épuré et moderne, un mode Carrière repensé, des visuels de match améliorés, un nouveau stade et de nouveaux défis quotidiens."
   jump: "Quoi de neuf"
   features:
     - key: ui

@@ -1,7 +1,7 @@
 # Teks bahasa Indonesia untuk situs web.
 
 meta:
-  home_title: "Football League – Game Sepak Bola Gratis | iOS & Android"
+  home_title: "Football League 2027 – Sepak Bola Gratis | iOS & Android"
   home_description: "Football League adalah game sepak bola mobile gratis untuk iPhone dan Android. Bangun skuad dan mainkan Mode Karier. Football League 2027 segera hadir."
 
 nav:
@@ -21,7 +21,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Musim baru segera hadir"
+  eyebrow: "Football League 2027 segera hadir"
   title_1: "Sepak bola"
   title_2a: "Hidup"
   title_2b: "Di Sini"
@@ -183,7 +183,7 @@ game_page:
   kicker: "Yang baru musim ini"
   title_1: "Musim baru"
   title_2: "dimulai di sini."
-  text: "FL27 hadir dengan tampilan yang lebih bersih dan modern, Mode Karier yang didesain ulang, visual pertandingan yang diperbarui, stadion baru, dan tantangan harian baru."
+  text: "Football League 2027 (FL27) hadir dengan tampilan yang lebih bersih dan modern, Mode Karier yang didesain ulang, visual pertandingan yang diperbarui, stadion baru, dan tantangan harian baru."
   jump: "Apa yang baru"
   features:
     - key: ui

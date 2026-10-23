@@ -1,7 +1,7 @@
 # 网站简体中文文本
 
 meta:
-  home_title: "Football League – 免费手机足球游戏 | iOS & Android"
+  home_title: "Football League 2027 – 免费手机足球游戏 | iOS & Android"
   home_description: "Football League 是一款适用于 iPhone 和 Android 的免费手机足球游戏。组建你的阵容，畅玩生涯模式，还有官方授权的 Manchester City，在线离线都能踢。Football League 2027 即将登场。"
 
 nav:
@@ -21,7 +21,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "新赛季即将登场"
+  eyebrow: "Football League 2027 即将登场"
   title_1: "足球"
   title_2a: "就在"
   title_2b: "这里"
@@ -183,7 +183,7 @@ game_page:
   kicker: "本赛季新内容"
   title_1: "新赛季"
   title_2: "从这里开始。"
-  text: "FL27 带来更简洁现代的外观、重新设计的生涯模式、升级的比赛画面、全新球场和新的每日挑战。"
+  text: "Football League 2027（FL27）带来更简洁现代的外观、重新设计的生涯模式、升级的比赛画面、全新球场和新的每日挑战。"
   jump: "新内容一览"
   features:
     - key: ui

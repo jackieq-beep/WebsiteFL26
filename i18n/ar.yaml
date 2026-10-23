@@ -1,7 +1,7 @@
 # نصوص الموقع باللغة العربية.
 
 meta:
-  home_title: "Football League – لعبة كرة قدم مجانية للجوال | iOS و Android"
+  home_title: "Football League 2027 – لعبة كرة قدم مجانية | iOS و Android"
   home_description: "Football League لعبة كرة قدم مجانية على الجوال لأجهزة iPhone و Android. كوّن تشكيلتك والعب وضع المسيرة. Football League 2027 قادمة قريبًا."
 
 nav:
@@ -21,7 +21,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "الموسم الجديد قادم قريبًا"
+  eyebrow: "Football League 2027 قادمة قريبًا"
   title_1: "كرة القدم"
   title_2a: "تعيش"
   title_2b: "هنا"
@@ -183,7 +183,7 @@ game_page:
   kicker: "ما الجديد هذا الموسم"
   title_1: "الموسم الجديد"
   title_2: "يبدأ هنا."
-  text: "تقدّم FL27 مظهرًا أنظف وأكثر عصرية، ووضع مسيرة بتصميم جديد، ورسومات مباريات محدّثة، وملعبًا جديدًا، وتحديات يومية جديدة."
+  text: "تقدّم Football League 2027 (FL27) مظهرًا أنظف وأكثر عصرية، ووضع مسيرة بتصميم جديد، ورسومات مباريات محدّثة، وملعبًا جديدًا، وتحديات يومية جديدة."
   jump: "ما الجديد"
   features:
     - key: ui

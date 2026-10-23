@@ -1,7 +1,7 @@
 # ウェブサイトの日本語テキスト
 
 meta:
-  home_title: "Football League – 無料モバイルサッカーゲーム | iOS & Android"
+  home_title: "Football League 2027 – 無料モバイルサッカーゲーム | iOS & Android"
   home_description: "Football Leagueは、iPhoneとAndroidで遊べる無料のモバイルサッカーゲーム。最強チームを作り、キャリアモードや公式ライセンスのマンチェスター・シティをオンラインでもオフラインでも楽しめます。Football League 2027、まもなく登場！"
 
 nav:
@@ -21,7 +21,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "新シーズンまもなく登場"
+  eyebrow: "Football League 2027 まもなく登場"
   title_1: サッカーの
   title_2a: すべてが、
   title_2b: ここに。
@@ -183,7 +183,7 @@ game_page:
   kicker: "今シーズンの新要素"
   title_1: 新シーズンは
   title_2: ここから始まる。
-  text: "FL27では、よりスッキリとモダンなデザイン、リデザインされたキャリアモード、アップデートされた試合ビジュアル、新スタジアム、新しいデイリーチャレンジが登場。"
+  text: "Football League 2027（FL27）では、よりスッキリとモダンなデザイン、リデザインされたキャリアモード、アップデートされた試合ビジュアル、新スタジアム、新しいデイリーチャレンジが登場。"
   jump: "新要素を見る"
   features:
     - key: ui
