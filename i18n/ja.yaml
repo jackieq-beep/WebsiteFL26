@@ -10,6 +10,7 @@ nav:
   news: ニュース
   shop: ショップ
   media: メディア
+  faq: "FAQ"
   community: コミュニティ
   contact: お問い合わせ
   play_now: 今すぐプレイ
@@ -283,6 +284,8 @@ faq:
       a: "Football LeagueはMobile Soccerが開発・配信しています。1億ダウンロードを突破し、30以上の主要市場でスポーツゲームのトップ10にランクインしています。"
     - q: "Football Leagueは無料ですか？"
       a: "はい。Football LeagueはiPhone、iPad、Androidのスマートフォン・タブレットで無料でダウンロードしてプレイできます。"
+    - q: "Football Leagueはオフラインで遊べますか？"
+      a: "はい。Football Leagueはインターネットに接続しなくてもオフラインで遊べるので、飛行機や電車の中、モバイルデータを使いたくないときにもプレイできます。オンライン機能を使うときはインターネットに接続してください。"
     - q: "Football Leagueにはどんなゲームモードがありますか？"
       a: "プレイヤーキャリア、リーグ、カップ、フレンドリーマッチに加え、デイリーチャレンジ、毎週のライブイベント、友だちと対戦できるローカルPvPがあります。"
     - q: "Football Leagueは友だちと遊べますか？"
@@ -365,3 +368,95 @@ media_page:
   beta_discord: "Discord に参加する"
   press_title: "プレス窓口"
   press_text: "取材、レビュー用コード、素材、提携のご相談はメールでお問い合わせください。"
+
+# Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
+faq_page:
+  meta_title: "Football League よくある質問 – 無料・オフラインで遊べるサッカーゲーム（iPhone・Android）"
+  meta_description: "無料サッカーゲーム「Football League」のよくある質問：オフラインプレイ、友だちとのローカルPvP、コントローラー対応、チーム、ゲームモード、FL27。"
+  kicker: "FAQ"
+  title_1: "よくある"
+  title_2: "質問。"
+  text: "料金、オフラインプレイ、友だちとの対戦、チーム、FL27まで。Football Leagueのすべてにお答えします。"
+  facts_title: "Football League早わかり"
+  toc: "このページの内容"
+  see_all: "すべての質問を見る"
+  facts:
+    - { label: "対応機種", value: "iPhone・iPad・Android" }
+    - { label: "価格", value: "基本プレイ無料（アプリ内課金あり）" }
+    - { label: "オフラインプレイ", value: "対応" }
+    - { label: "友だちと対戦", value: "ローカルPvP" }
+    - { label: "年齢区分", value: "4+（App Store）" }
+    - { label: "ダウンロード数", value: "1億以上" }
+  groups:
+    - id: basics
+      title: "基本情報"
+      items:
+        - id: what-is-football-league
+          q: "Football Leagueとはどんなゲームですか？"
+          a: "Football Leagueは、iPhone、iPad、Androidのスマートフォン・タブレットで遊べる無料のサッカーゲームで、Mobile Soccerが開発・配信しています。1億ダウンロードを突破し、30以上の市場でスポーツゲームのトップ10にランクインしています。Football League 2027（FL27）はその2027年版です。"
+        - id: is-football-league-free
+          q: "Football Leagueは無料ですか？"
+          a: "はい。Football LeagueはiPhone、iPad、Androidで無料でダウンロードしてプレイできます。コインパック、公式クラブユニフォーム、広告を非表示にする買い切りアイテムなどのアプリ内課金もありますが、購入しなくてもプレイできます。"
+        - id: iphone-and-android
+          q: "Football League 2027はiPhoneとAndroidで遊べますか？"
+          a: "はい。Football LeagueはiPhone・iPad向けにApp Storeで、Androidのスマートフォン・タブレット向けにGoogle Playで配信しています。"
+        - id: is-football-league-suitable-for-kids
+          q: "Football Leagueは子どもでも遊べますか？"
+          a: "Football LeagueはApp Storeで4+に区分されており、すべての年齢の方が遊べます。保護者の方はスマートフォンの設定でアプリ内課金をオフにできます。"
+        - id: who-makes-football-league
+          q: "Football Leagueの開発元はどこですか？"
+          a: "Football LeagueはMobile Soccerが開発・配信しています。1億ダウンロードを突破し、30以上の主要市場でスポーツゲームのトップ10にランクインしています。"
+    - id: playing
+      title: "遊び方"
+      items:
+        - id: can-you-play-football-league-offline
+          q: "Football Leagueはオフラインで遊べますか？"
+          a: "はい。Football Leagueはインターネットに接続しなくてもオフラインで遊べるので、飛行機や電車の中、モバイルデータを使いたくないときにもプレイできます。オンライン機能を使うときはインターネットに接続してください。"
+        - id: play-with-friends
+          q: "Football Leagueは友だちと遊べますか？"
+          a: "はい。ローカルPvPで友だちと直接対戦できます。"
+        - id: game-modes
+          q: "Football Leagueにはどんなゲームモードがありますか？"
+          a: "プレイヤーキャリア、リーグ、カップ、フレンドリーマッチに加え、デイリーチャレンジ、毎週のライブイベント、友だちと対戦できるローカルPvPがあります。"
+        - id: career-mode
+          q: "Football Leagueにキャリアモードはありますか？"
+          a: "はい。キャリアモードはFootball League 2027の主役です。プレイヤーキャリアを築き、新しいトレーニングと移籍システム、シーズン終了報酬のあるリーグ戦に挑みましょう。"
+        - id: controller-support
+          q: "Football Leagueはコントローラーで遊べますか？"
+          a: "はい。Football Leagueはゲームコントローラーに対応しています。タッチ操作でも、カスタム操作モードを選べます。"
+        - id: live-events
+          q: "Football Leagueにライブイベントはありますか？"
+          a: "はい。毎週新しいライブイベントやチャレンジが登場し、ユニフォーム、選手、コインなどの限定報酬を獲得できます。開催中のイベントはニュースページでチェックしてください。"
+        - id: commentary-languages
+          q: "実況は何か国語に対応していますか？"
+          a: "Football Leagueの試合実況は16言語に対応。200以上の国と地域で1億ダウンロードを突破しています。"
+    - id: teams
+      title: "チームと大会"
+      items:
+        - id: teams-and-players
+          q: "Football Leagueにはどれくらいのチームや選手がいますか？"
+          a: "Football Leagueには40,000人以上の選手、1,500のクラブ、150の代表チームが登場します。マンチェスター・シティとASモナコは公式ライセンスを取得しています。"
+        - id: leagues-and-cups
+          q: "Football Leagueではどんなリーグやカップ戦を遊べますか？"
+          a: "ヨーロッパ、南北アメリカ、アジア、アフリカのクラブリーグに参加したり、オリジナルのカスタムリーグを作ったりできます。大陸別のクラブカップ戦や、グループステージから決勝まで戦う代表チームの国際大会もあります。"
+    - id: fl27
+      title: "Football League 2027（FL27）"
+      items:
+        - id: fl27-release-date
+          q: "Football League 2027はいつリリースされますか？"
+          a: "Football League 2027（FL27）はiPhoneとAndroid向けにまもなく登場します。ニュースページ、Instagram、Discordをフォローするか、ニュースレターに登録して、リリース情報をいち早く受け取ってください。"
+        - id: whats-new-in-fl27
+          q: "Football League 2027の新要素は？"
+          a: "FL27の主役はキャリアモード。新しい見た目、白熱のリーグ戦、新しいトレーニングと移籍システム、シーズン終了報酬が登場します。さらに、改良された衝突の物理挙動、磨きのかかったGKセーブ、最新鋭のまったく新しいスタジアムも加わります。"
+        - id: fl27-meaning
+          q: "FL27とFootball League 2027は同じですか？"
+          a: "はい。FL27はFootball League 2027の略称で、Mobile Soccerが提供する無料モバイルサッカーゲーム「Football League」の2027年版です。"
+        - id: fl27-vs-fl26
+          q: "FL27はFL26と何が違いますか？"
+          a: "FL27では、白熱のリーグ戦、新しいトレーニングと移籍システム、シーズン終了報酬を備えたキャリアモードにリニューアル。さらに、改良された衝突の物理挙動、磨きのかかったGKセーブ、まったく新しいスタジアム、よりスッキリとモダンなデザインが加わります。"
+    - id: help
+      title: "ヘルプ"
+      items:
+        - id: player-support
+          q: "ゲーム、アカウント、購入について困ったときは？"
+          a: "プレイヤーサポート（footballleague2023@gmail.com）までメールでお問い合わせいただくか、Discordのコミュニティで質問してください。"

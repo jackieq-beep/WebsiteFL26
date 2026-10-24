@@ -10,6 +10,7 @@ nav:
   news: "Berita"
   shop: "Toko"
   media: "Media"
+  faq: "FAQ"
   community: "Komunitas"
   contact: "Kontak"
   play_now: "Main Sekarang"
@@ -283,6 +284,8 @@ faq:
       a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini sudah diunduh lebih dari 100 juta kali dan masuk 10 besar game olahraga di lebih dari 30 pasar utama."
     - q: "Apakah Football League gratis?"
       a: "Ya. Football League gratis diunduh dan dimainkan di iPhone, iPad, serta ponsel dan tablet Android."
+    - q: "Bisakah main Football League secara offline?"
+      a: "Bisa. Kamu bisa main Football League secara offline tanpa koneksi internet, jadi tetap bisa dimainkan di pesawat, di kereta, atau saat tidak ingin memakai kuota. Sambungkan ke internet saat ingin memakai fitur online game."
     - q: "Mode permainan apa saja yang ada di Football League?"
       a: "Karier Pemain, Liga, Piala, dan Laga Persahabatan, ditambah tantangan harian, event live setiap minggu, dan PvP lokal untuk duel langsung dengan teman."
     - q: "Bisakah main Football League bareng teman?"
@@ -365,3 +368,95 @@ media_page:
   beta_discord: "Gabung Discord kami"
   press_title: "Kontak pers"
   press_text: "Untuk wawancara, kode review, aset, atau kerja sama, kirim email kepada kami."
+
+# Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
+faq_page:
+  meta_title: "FAQ Football League – Game Sepak Bola Gratis & Offline untuk iPhone dan Android"
+  meta_description: "Jawaban seputar Football League, game sepak bola gratis untuk iPhone dan Android: main offline, PvP lokal dengan teman, kontroler, tim, mode permainan, dan FL27."
+  kicker: "FAQ"
+  title_1: "Pertanyaan,"
+  title_2: "terjawab."
+  text: "Semua tentang Football League: harga, main offline, duel dengan teman, tim, dan FL27."
+  facts_title: "Sekilas Football League"
+  toc: "Di halaman ini"
+  see_all: "Lihat semua pertanyaan"
+  facts:
+    - { label: "Platform", value: "iPhone, iPad & Android" }
+    - { label: "Harga", value: "Gratis, ada pembelian opsional" }
+    - { label: "Main offline", value: "Bisa" }
+    - { label: "Main bareng teman", value: "PvP lokal" }
+    - { label: "Rating usia", value: "4+ (App Store)" }
+    - { label: "Unduhan", value: "100 jt+" }
+  groups:
+    - id: basics
+      title: "Dasar"
+      items:
+        - id: what-is-football-league
+          q: "Apa itu Football League?"
+          a: "Football League adalah game sepak bola gratis untuk iPhone, iPad, serta ponsel dan tablet Android, yang dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini sudah diunduh lebih dari 100 juta kali dan masuk 10 besar game olahraga di lebih dari 30 pasar. Football League 2027 (FL27) adalah edisi 2027."
+        - id: is-football-league-free
+          q: "Apakah Football League gratis?"
+          a: "Ya. Football League gratis diunduh dan dimainkan di iPhone, iPad, dan Android. Ada pembelian dalam aplikasi yang bersifat opsional, seperti paket koin, jersey klub resmi, dan pembelian sekali bayar untuk menghapus iklan, tapi kamu tidak perlu membeli apa pun untuk bermain."
+        - id: iphone-and-android
+          q: "Apakah Football League 2027 ada di iPhone dan Android?"
+          a: "Ya. Football League tersedia di App Store untuk iPhone dan iPad, serta di Google Play untuk ponsel dan tablet Android."
+        - id: is-football-league-suitable-for-kids
+          q: "Apakah Football League cocok untuk anak-anak?"
+          a: "Football League punya rating 4+ di App Store, jadi cocok untuk semua umur. Orang tua bisa menonaktifkan pembelian dalam aplikasi di pengaturan ponsel."
+        - id: who-makes-football-league
+          q: "Siapa pembuat Football League?"
+          a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini sudah diunduh lebih dari 100 juta kali dan masuk 10 besar game olahraga di lebih dari 30 pasar utama."
+    - id: playing
+      title: "Cara bermain"
+      items:
+        - id: can-you-play-football-league-offline
+          q: "Bisakah main Football League secara offline?"
+          a: "Bisa. Kamu bisa main Football League secara offline tanpa koneksi internet, jadi tetap bisa dimainkan di pesawat, di kereta, atau saat tidak ingin memakai kuota. Sambungkan ke internet saat ingin memakai fitur online game."
+        - id: play-with-friends
+          q: "Bisakah main Football League bareng teman?"
+          a: "Bisa. PvP lokal memungkinkan kamu duel langsung dengan teman."
+        - id: game-modes
+          q: "Mode permainan apa saja yang ada di Football League?"
+          a: "Karier Pemain, Liga, Piala, dan Laga Persahabatan, ditambah tantangan harian, event live setiap minggu, dan PvP lokal untuk duel langsung dengan teman."
+        - id: career-mode
+          q: "Apakah Football League punya mode karier?"
+          a: "Ya. Mode Karier adalah pusat Football League 2027. Bangun Karier Pemain-mu, lalu bertanding di liga dengan sistem latihan dan transfer baru serta hadiah akhir musim."
+        - id: controller-support
+          q: "Bisakah main Football League pakai kontroler?"
+          a: "Bisa. Football League mendukung kontroler game. Di layar sentuh, kamu juga bisa memilih berbagai mode kontrol kustom."
+        - id: live-events
+          q: "Apakah ada event live di Football League?"
+          a: "Ada. Event live dan tantangan baru hadir setiap minggu, dengan hadiah eksklusif seperti jersey, pemain, dan koin. Cek halaman Berita untuk melihat event yang sedang berlangsung."
+        - id: commentary-languages
+          q: "Komentar pertandingan tersedia dalam bahasa apa saja?"
+          a: "Football League punya komentar pertandingan dalam 16 bahasa dan lebih dari 100 juta unduhan di lebih dari 200 negara."
+    - id: teams
+      title: "Tim & kompetisi"
+      items:
+        - id: teams-and-players
+          q: "Ada berapa tim dan pemain di Football League?"
+          a: "Football League punya lebih dari 40.000 pemain, 1.500 klub, dan 150 tim nasional. Manchester City dan AS Monaco berlisensi resmi."
+        - id: leagues-and-cups
+          q: "Liga dan piala apa saja yang bisa dimainkan di Football League?"
+          a: "Kamu bisa memainkan liga klub dari Eropa, Amerika, Asia, dan Afrika, atau membuat liga kustom sendiri. Ada juga piala klub tingkat benua dan turnamen internasional untuk tim nasional, dengan fase grup dan babak gugur sampai final."
+    - id: fl27
+      title: "Football League 2027 (FL27)"
+      items:
+        - id: fl27-release-date
+          q: "Kapan Football League 2027 rilis?"
+          a: "Football League 2027 (FL27) segera hadir di iPhone dan Android. Ikuti halaman Berita, Instagram, atau Discord kami, atau daftar newsletter, untuk tahu begitu game ini rilis."
+        - id: whats-new-in-fl27
+          q: "Apa yang baru di Football League 2027?"
+          a: "FL27 menjadikan Mode Karier sebagai pusatnya dengan tampilan baru, liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim. FL27 juga menghadirkan fisika tabrakan yang lebih baik, penyelamatan kiper yang lebih halus, dan stadion baru yang canggih."
+        - id: fl27-meaning
+          q: "Apakah FL27 sama dengan Football League 2027?"
+          a: "Ya. FL27 adalah nama singkat Football League 2027, edisi 2027 dari Football League, game sepak bola mobile gratis dari Mobile Soccer."
+        - id: fl27-vs-fl26
+          q: "Apa bedanya FL27 dengan FL26?"
+          a: "FL27 menambahkan Mode Karier yang didesain ulang dengan liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim, plus fisika tabrakan yang lebih baik, penyelamatan kiper yang lebih halus, stadion baru, dan tampilan yang lebih bersih dan modern."
+    - id: help
+      title: "Bantuan"
+      items:
+        - id: player-support
+          q: "Bagaimana cara mendapat bantuan soal game, akun, atau pembelian?"
+          a: "Kirim email ke tim dukungan pemain kami di footballleague2023@gmail.com, atau tanya komunitas di Discord kami."

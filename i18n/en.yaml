@@ -10,6 +10,7 @@ nav:
   news: News
   shop: Shop
   media: Media
+  faq: "FAQ"
   community: Community
   contact: Contact
   play_now: Play Now
@@ -283,6 +284,8 @@ faq:
       a: "Football League is developed and published by Mobile Soccer. It has more than 100 million downloads and ranks among the top 10 sports games in over 30 major markets."
     - q: "Is Football League free?"
       a: "Yes. Football League is free to download and play on iPhone, iPad and Android phones and tablets."
+    - q: "Can you play Football League offline?"
+      a: "Yes. You can play Football League offline, without an internet connection, so it works on a plane, on the subway or whenever you don't want to use mobile data. Connect to the internet when you want to use the game's online features."
     - q: "What game modes are in Football League?"
       a: "Player Career, Leagues, Cups and Friendlies, plus daily challenges, weekly live events and local PvP to go head-to-head with friends."
     - q: "Can I play Football League with friends?"
@@ -365,3 +368,95 @@ media_page:
   beta_discord: "Join our Discord"
   press_title: "Press contact"
   press_text: "For interviews, review codes, assets or partnership enquiries, email us."
+
+# Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
+faq_page:
+  meta_title: "Football League FAQ – Free Offline Soccer Game for iPhone & Android"
+  meta_description: "Answers about Football League, the free soccer game for iPhone and Android: offline play, local PvP with friends, controllers, teams, game modes and FL27."
+  kicker: "FAQ"
+  title_1: "Questions,"
+  title_2: "answered."
+  text: "Everything about Football League: price, offline play, matches with friends, teams and FL27."
+  facts_title: "Football League at a glance"
+  toc: "On this page"
+  see_all: "See all questions"
+  facts:
+    - { label: "Platforms", value: "iPhone, iPad & Android" }
+    - { label: "Price", value: "Free, optional in-app purchases" }
+    - { label: "Offline play", value: "Yes" }
+    - { label: "Play with friends", value: "Local PvP" }
+    - { label: "Age rating", value: "4+ (App Store)" }
+    - { label: "Downloads", value: "100M+" }
+  groups:
+    - id: basics
+      title: "The basics"
+      items:
+        - id: what-is-football-league
+          q: "What is Football League?"
+          a: "Football League is a free soccer (football) game for iPhone, iPad and Android phones and tablets, developed and published by Mobile Soccer. It has more than 100 million downloads and ranks among the top 10 sports games in over 30 markets. Football League 2027 (FL27) is the 2027 edition."
+        - id: is-football-league-free
+          q: "Is Football League free?"
+          a: "Yes. Football League is free to download and play on iPhone, iPad and Android. There are optional in-app purchases, such as coin packs, official club kits and a one-time purchase that removes ads, but you don't have to buy anything to play."
+        - id: iphone-and-android
+          q: "Is Football League 2027 on iPhone and Android?"
+          a: "Yes. Football League is on the App Store for iPhone and iPad, and on Google Play for Android phones and tablets."
+        - id: is-football-league-suitable-for-kids
+          q: "Is Football League suitable for kids?"
+          a: "Football League is rated 4+ on the App Store, so it's suitable for all ages. Parents can switch off in-app purchases in the phone's settings."
+        - id: who-makes-football-league
+          q: "Who makes Football League?"
+          a: "Football League is developed and published by Mobile Soccer. It has more than 100 million downloads and ranks among the top 10 sports games in over 30 major markets."
+    - id: playing
+      title: "Playing"
+      items:
+        - id: can-you-play-football-league-offline
+          q: "Can you play Football League offline?"
+          a: "Yes. You can play Football League offline, without an internet connection, so it works on a plane, on the subway or whenever you don't want to use mobile data. Connect to the internet when you want to use the game's online features."
+        - id: play-with-friends
+          q: "Can I play Football League with friends?"
+          a: "Yes. Local PvP lets you go head-to-head with friends."
+        - id: game-modes
+          q: "What game modes are in Football League?"
+          a: "Player Career, Leagues, Cups and Friendlies, plus daily challenges, weekly live events and local PvP to go head-to-head with friends."
+        - id: career-mode
+          q: "Does Football League have a career mode?"
+          a: "Yes. Career Mode is at the centre of Football League 2027. Build your Player Career, then compete in leagues with new training and transfer systems and end-of-season rewards."
+        - id: controller-support
+          q: "Can I play Football League with a controller?"
+          a: "Yes. Football League supports game controllers. On a touch screen, you can also choose between custom control modes."
+        - id: live-events
+          q: "Are there live events in Football League?"
+          a: "Yes. New live events and challenges arrive every week, with exclusive rewards such as kits, players and coins. Check the News page to see what's on now."
+        - id: commentary-languages
+          q: "What languages is the commentary in?"
+          a: "Football League has match commentary in 16 languages and more than 100 million downloads in over 200 countries."
+    - id: teams
+      title: "Teams & competitions"
+      items:
+        - id: teams-and-players
+          q: "How many teams and players are in Football League?"
+          a: "Football League has more than 40,000 players, 1,500 clubs and 150 national teams. Manchester City and AS Monaco are officially licensed."
+        - id: leagues-and-cups
+          q: "Which leagues and cups can you play in Football League?"
+          a: "You can play club leagues from Europe, the Americas, Asia and Africa, or set up your own custom league. There are also continental club cups, and international tournaments for national teams with group stages and knockout rounds all the way to the final."
+    - id: fl27
+      title: "Football League 2027 (FL27)"
+      items:
+        - id: fl27-release-date
+          q: "When is Football League 2027 coming out?"
+          a: "Football League 2027 (FL27) is coming soon on iPhone and Android. Follow our News page, Instagram or Discord, or sign up to the newsletter, to hear the moment it launches."
+        - id: whats-new-in-fl27
+          q: "What's new in Football League 2027?"
+          a: "FL27 puts Career Mode at the centre with a fresh look, competitive leagues, new training and transfer systems and end-of-season rewards. It also brings improved collision physics, refined goalkeeper saves and a brand-new, state-of-the-art stadium."
+        - id: fl27-meaning
+          q: "Is FL27 the same as Football League 2027?"
+          a: "Yes. FL27 is the short name for Football League 2027, the 2027 edition of Football League, the free mobile soccer game from Mobile Soccer."
+        - id: fl27-vs-fl26
+          q: "How is FL27 different from FL26?"
+          a: "FL27 adds a redesigned Career Mode with competitive leagues, new training and transfer systems and end-of-season rewards, plus improved collision physics, refined goalkeeper saves, a brand-new stadium and a cleaner, more modern look."
+    - id: help
+      title: "Help"
+      items:
+        - id: player-support
+          q: "How do I get help with the game, my account or a purchase?"
+          a: "Email our player support team at footballleague2023@gmail.com, or ask the community on our Discord."

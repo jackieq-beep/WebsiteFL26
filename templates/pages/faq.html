@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+{% from "partials/macros.html" import store_buttons, section_head %}
+{% block title %}{{ t.faq_page.meta_title }}{% endblock %}
+{% block description %}{{ t.faq_page.meta_description }}{% endblock %}
+{% block content %}
+<section class="page-hero page-hero-compact">
+  <div class="page-hero-bg">{{ img('u27-stadium.jpg', '', '100vw', eager=True) }}</div>
+  <div class="container">
+    <h1 class="display display-xl"><span class="kicker h1-kicker">{{ site.brand }} · {{ t.faq_page.kicker }}</span>{{ t.faq_page.title_1 }} <span class="accent-pink">{{ t.faq_page.title_2 }}</span></h1>
+    <p class="lead">{{ t.faq_page.text }}</p>
+  </div>
+</section>
+
+<section class="game-facts" aria-labelledby="faq-facts-title">
+  <div class="container">
+    <h2 class="kicker" id="faq-facts-title">{{ t.faq_page.facts_title }}</h2>
+    <dl class="facts-list">
+      {% for f in t.faq_page.facts %}<div><dt>{{ f.label }}</dt><dd>{{ f.value }}</dd></div>{% endfor %}
+    </dl>
+  </div>
+</section>
+
+<section class="section faqp">
+  <div class="container faqp-grid">
+    <nav class="faqp-toc" aria-labelledby="faqp-toc-title">
+      <p class="kicker" id="faqp-toc-title">{{ t.faq_page.toc }}</p>
+      <ul role="list">
+        {% for g in t.faq_page.groups %}<li><a href="#{{ g.id }}">{{ g.title }}</a></li>{% endfor %}
+      </ul>
+    </nav>
+    <div class="faqp-body">
+      {% for g in t.faq_page.groups %}
+      <section class="faqp-group" id="{{ g.id }}" aria-labelledby="{{ g.id }}-title">
+        <h2 class="faqp-h2" id="{{ g.id }}-title">{{ g.title }}</h2>
+        {% for f in g['items'] %}
+        <article class="faqp-item" id="{{ f.id }}">
+          <h3><a href="#{{ f.id }}">{{ f.q }}</a></h3>
+          <p>{{ f.a }}</p>
+        </article>
+        {% endfor %}
+      </section>
+      {% endfor %}
+    </div>
+  </div>
+  <script type="application/ld+json">
+  {{ {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": lang.code, "mainEntity": t.faq_page.groups | map(attribute='items') | sum(start=[]) | map('faq_entity') | list} | tojson }}
+  </script>
+</section>
+
+<section class="section download" id="download" style="--bg-photo:url('{{ img_src('live-event.webp', 1440) }}')">
+  <div class="container download-grid">
+    <div class="download-copy">
+      {{ section_head(t.download.kicker, t.download.title_1, t.download.title_2, 'green') }}
+      <p class="lead">{{ t.download.text }}</p>
+      {{ store_buttons(t, site, icon) }}
+      <p class="dev-credit">{{ t.download.developer }}</p>
+    </div>
+    <div class="download-media">
+      {{ img('u27-main-menu.jpg', t.alts.menu, '(min-width: 1000px) 640px, 100vw') }}
+    </div>
+  </div>
+</section>
+{% endblock %}

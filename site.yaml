@@ -146,6 +146,7 @@ hero_slides:
 # Pages that exist but are not in the main menu (linked from the footer).
 extra_pages:
   - { key: media, path: media/ }
+  - { key: faq, path: faq/ }
 
 # News sections, in the order the tabs appear. A post picks one with "section:" in its file.
 news_sections: [announcements, updates, events, licenses]

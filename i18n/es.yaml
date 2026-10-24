@@ -10,6 +10,7 @@ nav:
   news: Noticias
   shop: Tienda
   media: Multimedia
+  faq: "Preguntas frecuentes"
   community: Comunidad
   contact: Contacto
   play_now: Juega ya
@@ -283,6 +284,8 @@ faq:
       a: "Football League está desarrollado y publicado por Mobile Soccer. Tiene más de 100 millones de descargas y está entre los 10 mejores juegos de deportes en más de 30 mercados principales."
     - q: "¿Football League es gratis?"
       a: "Sí. Football League se descarga y se juega gratis en iPhone, iPad y móviles y tablets Android."
+    - q: "¿Se puede jugar a Football League sin conexión?"
+      a: "Sí. Puedes jugar a Football League sin conexión a internet, así que funciona en un avión, en el metro o cuando no quieras gastar datos móviles. Conéctate a internet cuando quieras usar las funciones online del juego."
     - q: "¿Qué modos de juego tiene Football League?"
       a: "Carrera de Jugador, Ligas, Copas y Amistosos, además de desafíos diarios, eventos en vivo cada semana y PvP local para enfrentarte a tus amigos."
     - q: "¿Puedo jugar a Football League con amigos?"
@@ -365,3 +368,95 @@ media_page:
   beta_discord: "Únete a nuestro Discord"
   press_title: "Contacto de prensa"
   press_text: "Para entrevistas, códigos, materiales o propuestas de colaboración, escríbenos."
+
+# Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
+faq_page:
+  meta_title: "FAQ de Football League – Juego de fútbol gratis y sin conexión para iPhone y Android"
+  meta_description: "Respuestas sobre Football League, el juego de fútbol gratis para iPhone y Android: jugar sin conexión, PvP local con amigos, mandos, equipos, modos de juego y FL27."
+  kicker: "Preguntas frecuentes"
+  title_1: "Tus preguntas,"
+  title_2: "respondidas."
+  text: "Todo sobre Football League: precio, juego sin conexión, partidos con amigos, equipos y FL27."
+  facts_title: "Football League en resumen"
+  toc: "En esta página"
+  see_all: "Ver todas las preguntas"
+  facts:
+    - { label: "Plataformas", value: "iPhone, iPad y Android" }
+    - { label: "Precio", value: "Gratis, compras opcionales" }
+    - { label: "Sin conexión", value: "Sí" }
+    - { label: "Con amigos", value: "PvP local" }
+    - { label: "Clasificación por edad", value: "4+ (App Store)" }
+    - { label: "Descargas", value: "+100 M" }
+  groups:
+    - id: basics
+      title: "Lo básico"
+      items:
+        - id: what-is-football-league
+          q: "¿Qué es Football League?"
+          a: "Football League es un juego de fútbol gratis para iPhone, iPad y móviles y tablets Android, desarrollado y publicado por Mobile Soccer. Tiene más de 100 millones de descargas y está entre los 10 mejores juegos de deportes en más de 30 mercados. Football League 2027 (FL27) es la edición 2027."
+        - id: is-football-league-free
+          q: "¿Football League es gratis?"
+          a: "Sí. Football League se descarga y se juega gratis en iPhone, iPad y Android. Hay compras opcionales dentro de la app, como packs de monedas, equipaciones oficiales de clubes y una compra única para quitar los anuncios, pero no tienes que comprar nada para jugar."
+        - id: iphone-and-android
+          q: "¿Football League 2027 está en iPhone y Android?"
+          a: "Sí. Football League está en la App Store para iPhone y iPad, y en Google Play para teléfonos y tabletas Android."
+        - id: is-football-league-suitable-for-kids
+          q: "¿Football League es apto para niños?"
+          a: "Football League tiene una clasificación de 4+ en la App Store, así que es apto para todas las edades. Los padres pueden desactivar las compras dentro de la app en los ajustes del móvil."
+        - id: who-makes-football-league
+          q: "¿Quién hace Football League?"
+          a: "Football League está desarrollado y publicado por Mobile Soccer. Tiene más de 100 millones de descargas y está entre los 10 mejores juegos de deportes en más de 30 mercados principales."
+    - id: playing
+      title: "Cómo se juega"
+      items:
+        - id: can-you-play-football-league-offline
+          q: "¿Se puede jugar a Football League sin conexión?"
+          a: "Sí. Puedes jugar a Football League sin conexión a internet, así que funciona en un avión, en el metro o cuando no quieras gastar datos móviles. Conéctate a internet cuando quieras usar las funciones online del juego."
+        - id: play-with-friends
+          q: "¿Puedo jugar a Football League con amigos?"
+          a: "Sí. El PvP local te permite enfrentarte cara a cara con tus amigos."
+        - id: game-modes
+          q: "¿Qué modos de juego tiene Football League?"
+          a: "Carrera de Jugador, Ligas, Copas y Amistosos, además de desafíos diarios, eventos en vivo cada semana y PvP local para enfrentarte a tus amigos."
+        - id: career-mode
+          q: "¿Football League tiene modo carrera?"
+          a: "Sí. El Modo Carrera es el centro de Football League 2027. Crea tu Carrera de Jugador y compite en ligas con nuevos sistemas de entrenamiento y fichajes y recompensas de fin de temporada."
+        - id: controller-support
+          q: "¿Se puede jugar a Football League con mando?"
+          a: "Sí. Football League es compatible con mandos. En pantalla táctil también puedes elegir entre distintos modos de control personalizados."
+        - id: live-events
+          q: "¿Hay eventos en vivo en Football League?"
+          a: "Sí. Cada semana llegan nuevos eventos en vivo y desafíos, con recompensas exclusivas como equipaciones, jugadores y monedas. Mira la página de Noticias para ver qué hay ahora."
+        - id: commentary-languages
+          q: "¿En qué idiomas está la narración?"
+          a: "Football League tiene comentarios en 16 idiomas y más de 100 millones de descargas en más de 200 países."
+    - id: teams
+      title: "Equipos y competiciones"
+      items:
+        - id: teams-and-players
+          q: "¿Cuántos equipos y jugadores tiene Football League?"
+          a: "Football League tiene más de 40.000 jugadores, 1.500 clubes y 150 selecciones nacionales. El Manchester City y el AS Monaco tienen licencia oficial."
+        - id: leagues-and-cups
+          q: "¿Qué ligas y copas se pueden jugar en Football League?"
+          a: "Puedes jugar ligas de clubes de Europa, América, Asia y África, o crear tu propia liga personalizada. También hay copas continentales de clubes y torneos internacionales de selecciones, con fase de grupos y eliminatorias hasta la final."
+    - id: fl27
+      title: "Football League 2027 (FL27)"
+      items:
+        - id: fl27-release-date
+          q: "¿Cuándo sale Football League 2027?"
+          a: "Football League 2027 (FL27) llega muy pronto a iPhone y Android. Sigue nuestra página de Noticias, Instagram o Discord, o suscríbete a la newsletter, para enterarte en cuanto se lance."
+        - id: whats-new-in-fl27
+          q: "¿Qué novedades trae Football League 2027?"
+          a: "FL27 pone el Modo Carrera en el centro, con un aspecto renovado, ligas competitivas, nuevos sistemas de entrenamiento y fichajes y recompensas de fin de temporada. También trae física de colisiones mejorada, paradas de portero más pulidas y un estadio nuevo de última generación."
+        - id: fl27-meaning
+          q: "¿FL27 es lo mismo que Football League 2027?"
+          a: "Sí. FL27 es el nombre corto de Football League 2027, la edición 2027 de Football League, el juego de fútbol gratis para móvil de Mobile Soccer."
+        - id: fl27-vs-fl26
+          q: "¿En qué se diferencia FL27 de FL26?"
+          a: "FL27 añade un Modo Carrera rediseñado con ligas competitivas, nuevos sistemas de entrenamiento y fichajes y recompensas de fin de temporada, además de física de colisiones mejorada, paradas de portero más pulidas, un estadio nuevo y un aspecto más limpio y moderno."
+    - id: help
+      title: "Ayuda"
+      items:
+        - id: player-support
+          q: "¿Cómo consigo ayuda con el juego, mi cuenta o una compra?"
+          a: "Escribe a nuestro equipo de soporte en footballleague2023@gmail.com, o pregunta a la comunidad en nuestro Discord."

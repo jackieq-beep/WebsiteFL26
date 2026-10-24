@@ -149,6 +149,7 @@
     <div class="faq-head">
       <p class="kicker">{{ t.faq.kicker }}</p>
       <h2 class="display">{{ t.faq.title }}</h2>
+      <a class="text-link faq-all" href="{{ url('faq/') }}">{{ t.faq_page.see_all }} {{ icon('arrow-right') }}</a>
     </div>
     <div class="faq-list">
       {% for f in t.faq['items'] %}
