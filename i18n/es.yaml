@@ -26,7 +26,7 @@ hero:
   title_2a: vive
   title_2b: aquí
   tagline: Un juego global para todos.
-  body: "Football League es el juego de fútbol gratis para móvil pensado para fans de todo el mundo. Crea tu plantilla definitiva, reta a tus rivales online o juega sin conexión, donde quieras."
+  body: "Football League es el juego de fútbol gratis para móvil pensado para fans de todo el mundo. Crea tu plantilla definitiva, reta a tus rivales y juega donde quieras."
   cta_primary: Juega ya
   cta_trailer: Descubre el juego
   cta_explore: Descubre el juego
@@ -189,7 +189,6 @@ game_page:
     - { label: "Plataformas", value: "iPhone, iPad y Android" }
     - { label: "Precio", value: "Gratis" }
     - { label: "Desarrollador", value: "Mobile Soccer" }
-    - { label: "Sin conexión", value: "Sí" }
     - { label: "Comentarios", value: "16 idiomas" }
     - { label: "Jugadores", value: "+100 M en +200 países" }
   jump: "Novedades"
@@ -283,8 +282,6 @@ faq:
       a: "Football League está desarrollado y publicado por Mobile Soccer. Lo juegan más de 100 millones de personas en más de 200 países."
     - q: "¿Football League es gratis?"
       a: "Sí. Football League se descarga y se juega gratis en iPhone, iPad y móviles y tablets Android."
-    - q: "¿Puedo jugar a Football League sin conexión?"
-      a: "Sí. Puedes jugar sin conexión y sin wifi, y conectarte cuando quieras para los eventos en vivo y los desafíos."
     - q: "¿Qué modos de juego tiene Football League?"
       a: "Modo Carrera, amistosos entre dos clubes cualesquiera, desafíos de habilidad diarios, eventos en vivo y ligas y copas de todo el mundo."
     - q: "¿Hay eventos en vivo en Football League?"

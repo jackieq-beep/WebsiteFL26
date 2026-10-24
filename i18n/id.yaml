@@ -26,7 +26,7 @@ hero:
   title_2a: "Hidup"
   title_2b: "Di Sini"
   tagline: "Game global untuk semua."
-  body: "Football League adalah game sepak bola mobile gratis untuk para fan di mana saja. Bangun skuad terbaikmu, tantang rival secara online, atau main offline, kapan pun dan di mana pun."
+  body: "Football League adalah game sepak bola mobile gratis untuk para fan di mana saja. Bangun skuad terbaikmu, tantang rival, dan main kapan pun di mana pun."
   cta_primary: "Main Sekarang"
   cta_trailer: "Lihat gamenya"
   cta_explore: "Lihat gamenya"
@@ -189,7 +189,6 @@ game_page:
     - { label: "Platform", value: "iPhone, iPad & Android" }
     - { label: "Harga", value: "Gratis" }
     - { label: "Pengembang", value: "Mobile Soccer" }
-    - { label: "Main offline", value: "Ya" }
     - { label: "Komentar", value: "16 bahasa" }
     - { label: "Pemain", value: "100 jt+ di 200+ negara" }
   jump: "Apa yang baru"
@@ -283,8 +282,6 @@ faq:
       a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini dimainkan oleh lebih dari 100 juta orang di lebih dari 200 negara."
     - q: "Apakah Football League gratis?"
       a: "Ya. Football League gratis diunduh dan dimainkan di iPhone, iPad, serta ponsel dan tablet Android."
-    - q: "Bisakah Football League dimainkan offline?"
-      a: "Bisa. Kamu bisa bermain offline tanpa Wi-Fi, lalu online untuk event live dan tantangan."
     - q: "Mode permainan apa saja yang ada di Football League?"
       a: "Mode Karier, laga persahabatan antara dua klub mana saja, tantangan skill harian, event live, serta liga dan piala dari seluruh dunia."
     - q: "Apakah ada event live di Football League?"

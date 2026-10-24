@@ -945,7 +945,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 /* Game page: "at a glance" facts strip */
 .game-facts { border-block: 1px solid var(--line); background: var(--surface); padding-block: clamp(28px, 4vw, 44px); }
 .game-facts .kicker { margin-bottom: 18px; }
-.facts-list { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 20px 28px; margin: 0; }
+.facts-list { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 20px 28px; margin: 0; }
 .facts-list div { border-inline-start: 2px solid var(--pink); padding-inline-start: 14px; }
 .facts-list dt { font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
 .facts-list dd { margin: 0; font-weight: 700; font-size: 16px; line-height: 1.3; }

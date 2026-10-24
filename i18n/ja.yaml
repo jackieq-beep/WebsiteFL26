@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – 無料モバイルサッカーゲーム | iOS & Android"
-  home_description: "Football Leagueは、iPhoneとAndroidで遊べる無料のモバイルサッカーゲーム。最強チームを作り、キャリアモードや公式ライセンスのマンチェスター・シティをオンラインでもオフラインでも楽しめます。Football League 2027、まもなく登場！"
+  home_description: "Football Leagueは、iPhoneとAndroidで遊べる無料のモバイルサッカーゲーム。最強チームを作り、キャリアモードや公式ライセンスのマンチェスター・シティを楽しめます。Football League 2027、まもなく登場！"
 
 nav:
   home: ホーム
@@ -26,7 +26,7 @@ hero:
   title_2a: すべてが、
   title_2b: ここに。
   tagline: 世界中の、すべての人のサッカー。
-  body: "Football Leagueは、世界中のサッカーファンに贈る無料モバイルサッカーゲーム。最強チームを作り上げ、オンラインでライバルに挑むもよし、オフラインでいつでもどこでも遊ぶもよし。"
+  body: "Football Leagueは、世界中のサッカーファンに贈る無料モバイルサッカーゲーム。最強チームを作り上げ、ライバルに挑んで、いつでもどこでも楽しもう。"
   cta_primary: 今すぐプレイ
   cta_trailer: ゲームを見る
   cta_explore: ゲームを見る
@@ -189,7 +189,6 @@ game_page:
     - { label: "対応機種", value: "iPhone・iPad・Android" }
     - { label: "価格", value: "基本プレイ無料" }
     - { label: "開発", value: "Mobile Soccer" }
-    - { label: "オフラインプレイ", value: "対応" }
     - { label: "実況", value: "16言語" }
     - { label: "プレイヤー", value: "200以上の国と地域で1億人以上" }
   jump: "新要素を見る"
@@ -283,8 +282,6 @@ faq:
       a: "Football LeagueはMobile Soccerが開発・配信しています。200以上の国と地域で、1億人以上にプレイされています。"
     - q: "Football Leagueは無料ですか？"
       a: "はい。Football LeagueはiPhone、iPad、Androidのスマートフォン・タブレットで無料でダウンロードしてプレイできます。"
-    - q: "Football Leagueはオフラインで遊べますか？"
-      a: "はい。Wi-Fiなしのオフラインでもプレイでき、オンラインにつなげばライブイベントやチャレンジにも参加できます。"
     - q: "Football Leagueにはどんなゲームモードがありますか？"
       a: "キャリアモード、好きな2クラブで戦うフレンドリーマッチ、デイリースキルチャレンジ、ライブイベント、そして世界中のリーグやカップ戦があります。"
     - q: "Football Leagueにライブイベントはありますか？"

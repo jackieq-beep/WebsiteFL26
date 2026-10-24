@@ -26,7 +26,7 @@ hero:
   title_2a: "vit"
   title_2b: "ici"
   tagline: "Un jeu mondial, pour tout le monde."
-  body: "Football League, c'est le jeu de foot mobile gratuit pour tous les fans de ballon rond. Monte ton équipe de rêve, défie tes rivaux en ligne ou joue hors ligne, où que tu sois."
+  body: "Football League, c'est le jeu de foot mobile gratuit pour tous les fans de ballon rond. Monte ton équipe de rêve, défie tes rivaux et joue où que tu sois."
   cta_primary: "Jouer"
   cta_trailer: "Découvrir le jeu"
   cta_explore: "Découvrir le jeu"
@@ -189,7 +189,6 @@ game_page:
     - { label: "Plateformes", value: "iPhone, iPad et Android" }
     - { label: "Prix", value: "Gratuit" }
     - { label: "Développeur", value: "Mobile Soccer" }
-    - { label: "Jeu hors ligne", value: "Oui" }
     - { label: "Commentaires", value: "16 langues" }
     - { label: "Joueurs", value: "100 M+ dans 200+ pays" }
   jump: "Quoi de neuf"
@@ -283,8 +282,6 @@ faq:
       a: "Football League est développé et édité par Mobile Soccer. Plus de 100 millions de joueurs y jouent dans plus de 200 pays."
     - q: "Football League est-il gratuit ?"
       a: "Oui. Football League se télécharge et se joue gratuitement sur iPhone, iPad et sur les smartphones et tablettes Android."
-    - q: "Peut-on jouer à Football League hors ligne ?"
-      a: "Oui. Tu peux jouer hors ligne sans Wi-Fi, puis te connecter pour les événements live et les défis."
     - q: "Quels modes de jeu propose Football League ?"
       a: "Le mode Carrière, des matchs amicaux entre deux clubs au choix, des défis techniques quotidiens, des événements live, et des championnats et coupes du monde entier."
     - q: "Y a-t-il des événements live dans Football League ?"

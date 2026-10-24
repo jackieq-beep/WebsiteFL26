@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – 免费手机足球游戏 | iOS & Android"
-  home_description: "Football League 是一款适用于 iPhone 和 Android 的免费手机足球游戏。组建你的阵容，畅玩生涯模式，还有官方授权的 Manchester City，在线离线都能踢。Football League 2027 即将登场。"
+  home_description: "Football League 是一款适用于 iPhone 和 Android 的免费手机足球游戏。组建你的阵容，畅玩生涯模式，还有官方授权的 Manchester City。Football League 2027 即将登场。"
 
 nav:
   home: "首页"
@@ -26,7 +26,7 @@ hero:
   title_2a: "就在"
   title_2b: "这里"
   tagline: "属于每个人的全球足球游戏。"
-  body: "Football League 是为全世界球迷打造的免费手机足球游戏。组建你的梦之队，在线挑战对手，或随时随地离线开踢。"
+  body: "Football League 是为全世界球迷打造的免费手机足球游戏。组建你的梦之队，挑战对手，随时随地开踢。"
   cta_primary: "立即开玩"
   cta_trailer: "了解游戏"
   cta_explore: "了解游戏"
@@ -189,7 +189,6 @@ game_page:
     - { label: "平台", value: "iPhone、iPad 和 Android" }
     - { label: "价格", value: "免费畅玩" }
     - { label: "开发商", value: "Mobile Soccer" }
-    - { label: "离线游玩", value: "支持" }
     - { label: "解说", value: "16 种语言" }
     - { label: "玩家", value: "200 多个国家和地区，超 1 亿" }
   jump: "新内容一览"
@@ -283,8 +282,6 @@ faq:
       a: "Football League 由 Mobile Soccer 开发并发行，在 200 多个国家和地区拥有超过 1 亿玩家。"
     - q: "Football League 是免费的吗？"
       a: "是的。Football League 可在 iPhone、iPad 以及 Android 手机和平板上免费下载和游玩。"
-    - q: "Football League 可以离线玩吗？"
-      a: "可以。没有 Wi-Fi 也能离线游玩，联网后还能参加实时活动和挑战。"
     - q: "Football League 有哪些游戏模式？"
       a: "生涯模式、任选两队的友谊赛、每日技巧挑战、实时活动，以及来自世界各地的联赛和杯赛。"
     - q: "Football League 有实时活动吗？"
