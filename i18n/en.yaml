@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – Free Soccer Game for iOS & Android"
-  home_description: "Football League 2027: the free soccer game for iPhone & Android, played by 100M+ fans in 200+ countries, with officially licensed Manchester City."
+  home_description: "Football League 2027: the free soccer game for iPhone & Android. Top 10 sports game in 30+ markets, 100M+ downloads, officially licensed Manchester City."
 
 nav:
   home: Home
@@ -26,7 +26,7 @@ hero:
   title_2a: Lives
   title_2b: Here
   tagline: A global game for everyone.
-  body: "Football League is the free mobile football and soccer game played by over 100 million fans in more than 200 countries. Build your ultimate squad, take on rivals and play anywhere."
+  body: "Football League ranks among the top 10 sports games in over 30 major markets, with more than 100 million downloads. Build your ultimate squad, take on rivals and play anywhere."
   cta_primary: Play Now
   cta_trailer: See the game
   cta_explore: See the game
@@ -179,19 +179,19 @@ cookies:
 
 game_page:
   meta_title: "Football League 2027 – What's New in the Mobile Soccer Game"
-  meta_description: "Football League 2027 (FL27): refreshed UI and home screen, new Career Mode page, updated match visuals, a new stadium and daily challenges."
+  meta_description: "Football League 2027 (FL27): new Career Mode with leagues, training and transfers, local PvP with friends, better physics and keeper saves, and a new stadium."
   kicker: "What's new this season"
   title_1: The new season
   title_2: starts here.
-  text: "Football League 2027 (FL27) brings a cleaner, more modern look, a redesigned Career Mode, updated match visuals, a new stadium and new daily challenges."
+  text: "Football League 2027 (FL27) puts Career Mode at the centre, with competitive leagues, new training and transfer systems and end-of-season rewards. Plus local PvP with friends, improved physics, refined goalkeeper saves and a brand-new stadium."
   facts_title: "Football League 2027 at a glance"
   facts:
     - { label: "Platforms", value: "iPhone, iPad & Android" }
     - { label: "Price", value: "Free to play" }
     - { label: "Developer", value: "Mobile Soccer" }
     - { label: "Official license", value: "Manchester City" }
-    - { label: "Commentary", value: "16 languages" }
-    - { label: "Players", value: "100M+ in 200+ countries" }
+    - { label: "Ranking", value: "Top 10 sports game in 30+ markets" }
+    - { label: "Downloads", value: "100M+" }
   jump: "What's new"
   features:
     - key: ui
@@ -201,18 +201,18 @@ game_page:
       images: [u27-main-menu.jpg]
     - key: career
       label: "Career Mode"
-      title: "A new home for Career Mode"
-      text: "Career Mode has been redesigned in FL27, with a new dedicated page and further gameplay improvements that make the mode feel more complete and easier to navigate. It gives long-term progression a stronger identity in the game."
+      title: "Career Mode takes centre stage"
+      text: "Career Mode has a fresh look in FL27, with competitive leagues, new training and transfer systems, and end-of-season rewards. Build your Player Career, then take on Leagues, Cups and Friendlies."
       images: [u27-career.jpg]
     - key: visuals
       label: "Match day"
-      title: "Updated match visuals"
-      text: "FL27 upgrades how matches look: a redesigned pre-match loading experience, updated in-game buttons and UI, a new Goal Moment presentation and a new stadium environment. Together they make the match experience more polished and visually consistent."
+      title: "Better on the pitch"
+      text: "FL27 upgrades every match: improved collision physics, refined goalkeeper saves, a redesigned pre-match loading screen, updated in-game buttons and a new Goal Moment presentation."
       images: [u27-gameplay.jpg, u27-goal.jpg, u27-friendly.jpg]
     - key: stadium
       label: "New stadium"
-      title: "A newly designed stadium"
-      text: "As with every yearly edition, FL27 brings a newly designed stadium environment, with updated branding, new presentation elements and a stronger matchday atmosphere."
+      title: "A brand-new stadium"
+      text: "FL27 brings a brand-new, state-of-the-art stadium where all the action comes to life, with updated branding, new presentation elements and a stronger matchday atmosphere."
       images: [u27-stadium.jpg]
     - key: challenges
       label: "Daily challenges"
@@ -221,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: Ready for
   cta_title_2: kick-off?
-  cta_text: "Career Mode, friendlies, leagues and cups, daily challenges and weekly live events. Free to play on iOS and Android."
+  cta_text: "Player Career, Leagues, Cups, Friendlies, daily challenges, weekly live events and local PvP with friends. Free to play on iOS and Android."
 
 contact_page:
   meta_title: "Contact Football League – Player Support & Partnerships"
@@ -272,23 +272,25 @@ faq:
     - q: "When is Football League 2027 coming out?"
       a: "Football League 2027 (FL27) is coming soon on iPhone and Android. Follow our News page, Instagram or Discord, or sign up to the newsletter, to hear the moment it launches."
     - q: "What's new in Football League 2027?"
-      a: "FL27 brings a refreshed look and home screen, a new Career Mode page, updated match visuals including a new Goal Moment, a brand-new stadium, and new daily challenges with rewards."
+      a: "FL27 puts Career Mode at the centre with a fresh look, competitive leagues, new training and transfer systems and end-of-season rewards. It also brings improved collision physics, refined goalkeeper saves and a brand-new, state-of-the-art stadium."
     - q: "Is FL27 the same as Football League 2027?"
       a: "Yes. FL27 is the short name for Football League 2027, the 2027 edition of Football League, the free mobile soccer game from Mobile Soccer."
     - q: "How is FL27 different from FL26?"
-      a: "FL27 brings a refreshed look and home screen, a new Career Mode page, updated match visuals including a new Goal Moment, a brand-new stadium, and new daily challenges with rewards."
+      a: "FL27 adds a redesigned Career Mode with competitive leagues, new training and transfer systems and end-of-season rewards, plus improved collision physics, refined goalkeeper saves, a brand-new stadium and a cleaner, more modern look."
     - q: "Is Football League 2027 on iPhone and Android?"
       a: "Yes. Football League is on the App Store for iPhone and iPad, and on Google Play for Android phones and tablets."
     - q: "Who makes Football League?"
-      a: "Football League is developed and published by Mobile Soccer. It is played by over 100 million people in more than 200 countries."
+      a: "Football League is developed and published by Mobile Soccer. It has more than 100 million downloads and ranks among the top 10 sports games in over 30 major markets."
     - q: "Is Football League free?"
       a: "Yes. Football League is free to download and play on iPhone, iPad and Android phones and tablets."
     - q: "What game modes are in Football League?"
-      a: "Career Mode, friendlies between any two clubs, daily skill challenges, live events, and leagues and cups from around the world."
+      a: "Player Career, Leagues, Cups and Friendlies, plus daily challenges, weekly live events and local PvP to go head-to-head with friends."
+    - q: "Can I play Football League with friends?"
+      a: "Yes. Local PvP lets you go head-to-head with friends."
     - q: "Are there live events in Football League?"
       a: "Yes. New live events and challenges arrive every week, with exclusive rewards such as kits, players and coins. Check the News page to see what's on now."
     - q: "What languages is the commentary in?"
-      a: "Football League has match commentary in 16 languages, and the game is played by over 100 million people in more than 200 countries."
+      a: "Football League has match commentary in 16 languages and more than 100 million downloads in over 200 countries."
     - q: "How do I get help with the game, my account or a purchase?"
       a: "Email our player support team at footballleague2023@gmail.com, or ask the community on our Discord."
     - q: "Where can I buy official Football League merchandise?"

@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – Sepak Bola Gratis | iOS & Android"
-  home_description: "Football League 2027: game sepak bola gratis untuk iPhone dan Android, dimainkan 100 jt+ fan di 200+ negara, dengan lisensi resmi Manchester City."
+  home_description: "Football League 2027: game sepak bola gratis untuk iPhone dan Android. 10 besar game olahraga di 30+ pasar, 100 jt+ unduhan, lisensi resmi Manchester City."
 
 nav:
   home: "Beranda"
@@ -26,7 +26,7 @@ hero:
   title_2a: "Hidup"
   title_2b: "Di Sini"
   tagline: "Game global untuk semua."
-  body: "Football League adalah game sepak bola mobile gratis yang dimainkan lebih dari 100 juta fan di lebih dari 200 negara. Bangun skuad terbaikmu, tantang rival, dan main kapan pun di mana pun."
+  body: "Football League masuk 10 besar game olahraga di lebih dari 30 pasar utama, dengan lebih dari 100 juta unduhan. Bangun skuad terbaikmu, tantang rival, dan main kapan pun di mana pun."
   cta_primary: "Main Sekarang"
   cta_trailer: "Lihat gamenya"
   cta_explore: "Lihat gamenya"
@@ -179,19 +179,19 @@ cookies:
 
 game_page:
   meta_title: "Football League 2027 – Fitur Baru Game Sepak Bola Mobile"
-  meta_description: "Football League 2027 (FL27): UI baru, halaman Mode Karier baru, visual pertandingan yang diperbarui, stadion baru, dan tantangan harian."
+  meta_description: "Football League 2027 (FL27): Mode Karier baru dengan liga, latihan dan transfer, PvP lokal bareng teman, fisika dan penyelamatan kiper lebih baik, stadion baru."
   kicker: "Yang baru musim ini"
   title_1: "Musim baru"
   title_2: "dimulai di sini."
-  text: "Football League 2027 (FL27) hadir dengan tampilan yang lebih bersih dan modern, Mode Karier yang didesain ulang, visual pertandingan yang diperbarui, stadion baru, dan tantangan harian baru."
+  text: "Football League 2027 (FL27) menjadikan Mode Karier sebagai pusatnya, dengan liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim. Ditambah PvP lokal bareng teman, fisika yang lebih baik, penyelamatan kiper yang lebih halus, dan stadion baru."
   facts_title: "Sekilas Football League 2027"
   facts:
     - { label: "Platform", value: "iPhone, iPad & Android" }
     - { label: "Harga", value: "Gratis" }
     - { label: "Pengembang", value: "Mobile Soccer" }
     - { label: "Lisensi resmi", value: "Manchester City" }
-    - { label: "Komentar", value: "16 bahasa" }
-    - { label: "Pemain", value: "100 jt+ di 200+ negara" }
+    - { label: "Peringkat", value: "10 besar game olahraga di 30+ pasar" }
+    - { label: "Unduhan", value: "100 jt+" }
   jump: "Apa yang baru"
   features:
     - key: ui
@@ -201,18 +201,18 @@ game_page:
       images: [u27-main-menu.jpg]
     - key: career
       label: "Mode Karier"
-      title: "Halaman baru untuk Mode Karier"
-      text: "Di FL27, Mode Karier didesain ulang dengan halaman khusus yang baru serta peningkatan gameplay lebih lanjut, agar mode ini terasa lebih lengkap dan lebih mudah dinavigasi. Progres jangka panjang pun punya identitas yang lebih kuat di dalam game."
+      title: "Mode Karier jadi bintang utama"
+      text: "Mode Karier tampil baru di FL27, dengan liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim. Bangun Karier Pemain-mu, lalu taklukkan Liga, Piala, dan Laga Persahabatan."
       images: [u27-career.jpg]
     - key: visuals
       label: "Hari pertandingan"
-      title: "Visual pertandingan yang diperbarui"
-      text: "FL27 meningkatkan visual pertandingan: pengalaman loading sebelum laga yang didesain ulang, tombol dan elemen UI dalam game yang diperbarui, tampilan Goal Moment yang baru, dan lingkungan stadion baru. Semua ini membuat pengalaman bertanding terasa lebih rapi dan konsisten secara visual."
+      title: "Lebih seru di lapangan"
+      text: "FL27 meningkatkan setiap pertandingan: fisika tabrakan yang lebih baik, penyelamatan kiper yang lebih halus, layar loading pra-pertandingan yang didesain ulang, tombol dalam game yang diperbarui, dan tampilan Momen Gol yang baru."
       images: [u27-gameplay.jpg, u27-goal.jpg, u27-friendly.jpg]
     - key: stadium
       label: "Stadion baru"
-      title: "Stadion dengan desain baru"
-      text: "Seperti setiap edisi tahunan, FL27 menghadirkan lingkungan stadion dengan desain baru, branding yang diperbarui, elemen presentasi baru, dan suasana hari pertandingan yang lebih terasa."
+      title: "Stadion yang benar-benar baru"
+      text: "FL27 menghadirkan stadion baru yang canggih tempat semua aksi menjadi hidup, dengan branding yang diperbarui, elemen presentasi baru, dan suasana hari pertandingan yang lebih kuat."
       images: [u27-stadium.jpg]
     - key: challenges
       label: "Tantangan harian"
@@ -221,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "Siap untuk"
   cta_title_2: "kick-off?"
-  cta_text: "Mode Karier, laga persahabatan, liga dan piala, tantangan harian, dan event live setiap minggu. Gratis di iOS dan Android."
+  cta_text: "Karier Pemain, Liga, Piala, Laga Persahabatan, tantangan harian, event live setiap minggu, dan PvP lokal bareng teman. Gratis di iOS dan Android."
 
 contact_page:
   meta_title: "Hubungi Football League – Dukungan Pemain & Kemitraan"
@@ -272,23 +272,25 @@ faq:
     - q: "Kapan Football League 2027 rilis?"
       a: "Football League 2027 (FL27) segera hadir di iPhone dan Android. Ikuti halaman Berita, Instagram, atau Discord kami, atau daftar newsletter, untuk tahu begitu game ini rilis."
     - q: "Apa yang baru di Football League 2027?"
-      a: "FL27 menghadirkan tampilan dan layar utama baru, halaman Mode Karier baru, visual pertandingan yang diperbarui termasuk Goal Moment baru, stadion yang benar-benar baru, dan tantangan harian baru dengan hadiah."
+      a: "FL27 menjadikan Mode Karier sebagai pusatnya dengan tampilan baru, liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim. FL27 juga menghadirkan fisika tabrakan yang lebih baik, penyelamatan kiper yang lebih halus, dan stadion baru yang canggih."
     - q: "Apakah FL27 sama dengan Football League 2027?"
       a: "Ya. FL27 adalah nama singkat Football League 2027, edisi 2027 dari Football League, game sepak bola mobile gratis dari Mobile Soccer."
     - q: "Apa bedanya FL27 dengan FL26?"
-      a: "FL27 menghadirkan tampilan dan layar utama baru, halaman Mode Karier baru, visual pertandingan yang diperbarui termasuk Goal Moment baru, stadion yang benar-benar baru, dan tantangan harian baru dengan hadiah."
+      a: "FL27 menambahkan Mode Karier yang didesain ulang dengan liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim, plus fisika tabrakan yang lebih baik, penyelamatan kiper yang lebih halus, stadion baru, dan tampilan yang lebih bersih dan modern."
     - q: "Apakah Football League 2027 ada di iPhone dan Android?"
       a: "Ya. Football League tersedia di App Store untuk iPhone dan iPad, serta di Google Play untuk ponsel dan tablet Android."
     - q: "Siapa pembuat Football League?"
-      a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini dimainkan oleh lebih dari 100 juta orang di lebih dari 200 negara."
+      a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini sudah diunduh lebih dari 100 juta kali dan masuk 10 besar game olahraga di lebih dari 30 pasar utama."
     - q: "Apakah Football League gratis?"
       a: "Ya. Football League gratis diunduh dan dimainkan di iPhone, iPad, serta ponsel dan tablet Android."
     - q: "Mode permainan apa saja yang ada di Football League?"
-      a: "Mode Karier, laga persahabatan antara dua klub mana saja, tantangan skill harian, event live, serta liga dan piala dari seluruh dunia."
+      a: "Karier Pemain, Liga, Piala, dan Laga Persahabatan, ditambah tantangan harian, event live setiap minggu, dan PvP lokal untuk duel langsung dengan teman."
+    - q: "Bisakah main Football League bareng teman?"
+      a: "Bisa. PvP lokal memungkinkan kamu duel langsung dengan teman."
     - q: "Apakah ada event live di Football League?"
       a: "Ada. Event live dan tantangan baru hadir setiap minggu, dengan hadiah eksklusif seperti jersey, pemain, dan koin. Cek halaman Berita untuk melihat event yang sedang berlangsung."
     - q: "Komentar pertandingan tersedia dalam bahasa apa saja?"
-      a: "Football League punya komentar pertandingan dalam 16 bahasa, dan game ini dimainkan lebih dari 100 juta orang di lebih dari 200 negara."
+      a: "Football League punya komentar pertandingan dalam 16 bahasa dan lebih dari 100 juta unduhan di lebih dari 200 negara."
     - q: "Bagaimana cara mendapat bantuan soal game, akun, atau pembelian?"
       a: "Kirim email ke tim dukungan pemain kami di footballleague2023@gmail.com, atau tanya komunitas di Discord kami."
     - q: "Di mana membeli merchandise resmi Football League?"

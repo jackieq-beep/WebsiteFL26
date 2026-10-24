@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – Jeu de foot gratuit | iOS & Android"
-  home_description: "Football League 2027 : le jeu de foot gratuit sur iPhone et Android, 100 M+ de joueurs dans 200+ pays et Manchester City sous licence officielle."
+  home_description: "Football League 2027 : le jeu de foot gratuit sur iPhone et Android. Top 10 du sport dans 30+ marchés, 100 M+ de téléchargements, Manchester City sous licence."
 
 nav:
   home: "Accueil"
@@ -26,7 +26,7 @@ hero:
   title_2a: "vit"
   title_2b: "ici"
   tagline: "Un jeu mondial, pour tout le monde."
-  body: "Football League, c'est le jeu de foot mobile gratuit qui réunit plus de 100 millions de joueurs dans plus de 200 pays. Monte ton équipe de rêve, défie tes rivaux et joue où que tu sois."
+  body: "Football League se classe parmi les 10 meilleurs jeux de sport dans plus de 30 grands marchés, avec plus de 100 millions de téléchargements. Monte ton équipe de rêve, défie tes rivaux et joue où que tu sois."
   cta_primary: "Jouer"
   cta_trailer: "Découvrir le jeu"
   cta_explore: "Découvrir le jeu"
@@ -179,19 +179,19 @@ cookies:
 
 game_page:
   meta_title: "Football League 2027 – Les nouveautés du jeu de foot mobile"
-  meta_description: "Football League 2027 (FL27) : interface repensée, nouvelle page mode Carrière, visuels de match améliorés, nouveau stade et défis quotidiens."
+  meta_description: "Football League 2027 (FL27) : nouveau mode Carrière avec ligues, entraînement et transferts, PvP local entre amis, physique et arrêts améliorés, nouveau stade."
   kicker: "Les nouveautés de la saison"
   title_1: "La nouvelle saison"
   title_2: "commence ici."
-  text: "Football League 2027 (FL27) apporte un look plus épuré et moderne, un mode Carrière repensé, des visuels de match améliorés, un nouveau stade et de nouveaux défis quotidiens."
+  text: "Football League 2027 (FL27) met le mode Carrière au premier plan, avec des ligues compétitives, de nouveaux systèmes d'entraînement et de transferts et des récompenses de fin de saison. Et aussi : PvP local entre amis, physique améliorée, arrêts du gardien affinés et un tout nouveau stade."
   facts_title: "Football League 2027 en bref"
   facts:
     - { label: "Plateformes", value: "iPhone, iPad et Android" }
     - { label: "Prix", value: "Gratuit" }
     - { label: "Développeur", value: "Mobile Soccer" }
     - { label: "Licence officielle", value: "Manchester City" }
-    - { label: "Commentaires", value: "16 langues" }
-    - { label: "Joueurs", value: "100 M+ dans 200+ pays" }
+    - { label: "Classement", value: "Top 10 du sport dans 30+ marchés" }
+    - { label: "Téléchargements", value: "100 M+" }
   jump: "Quoi de neuf"
   features:
     - key: ui
@@ -201,18 +201,18 @@ game_page:
       images: [u27-main-menu.jpg]
     - key: career
       label: "Mode Carrière"
-      title: "Une nouvelle page pour le mode Carrière"
-      text: "Dans FL27, le mode Carrière a été repensé, avec une nouvelle page dédiée et d'autres améliorations de gameplay pour un mode plus complet et plus facile à parcourir. La progression sur le long terme gagne ainsi une identité plus forte dans le jeu."
+      title: "Le mode Carrière à l'honneur"
+      text: "Le mode Carrière fait peau neuve dans FL27, avec des ligues compétitives, de nouveaux systèmes d'entraînement et de transferts et des récompenses de fin de saison. Lance ta Carrière Joueur, puis enchaîne Ligues, Coupes et Matchs amicaux."
       images: [u27-career.jpg]
     - key: visuals
       label: "Jour de match"
-      title: "Des visuels de match améliorés"
-      text: "FL27 améliore l'aspect des matchs : un écran de chargement d'avant-match repensé, des boutons et éléments d'interface mis à jour, une nouvelle présentation du Moment But et un nouveau stade. Le tout rend l'expérience de match plus soignée et plus cohérente visuellement."
+      title: "Encore mieux sur le terrain"
+      text: "FL27 améliore chaque match : physique des collisions améliorée, arrêts du gardien affinés, écran de chargement d'avant-match repensé, boutons en jeu mis à jour et nouvelle présentation du Moment du But."
       images: [u27-gameplay.jpg, u27-goal.jpg, u27-friendly.jpg]
     - key: stadium
       label: "Nouveau stade"
-      title: "Un stade au nouveau design"
-      text: "Comme à chaque édition annuelle, FL27 propose un stade au nouveau design, avec un habillage mis à jour, de nouveaux éléments de présentation et une ambiance de jour de match plus marquée."
+      title: "Un tout nouveau stade"
+      text: "FL27 apporte un tout nouveau stade ultramoderne où toute l'action prend vie, avec une identité visuelle mise à jour, de nouveaux éléments de présentation et une ambiance de jour de match encore plus forte."
       images: [u27-stadium.jpg]
     - key: challenges
       label: "Défis quotidiens"
@@ -221,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "Prêt pour"
   cta_title_2: "le coup d'envoi ?"
-  cta_text: "Mode Carrière, matchs amicaux, ligues et coupes, défis quotidiens et événements live chaque semaine. Gratuit sur iOS et Android."
+  cta_text: "Carrière Joueur, Ligues, Coupes, Matchs amicaux, défis quotidiens, événements live chaque semaine et PvP local entre amis. Gratuit sur iOS et Android."
 
 contact_page:
   meta_title: "Contacter Football League – Support et partenariats"
@@ -272,23 +272,25 @@ faq:
     - q: "Quand sort Football League 2027 ?"
       a: "Football League 2027 (FL27) arrive bientôt sur iPhone et Android. Suis notre page Actus, Instagram ou Discord, ou inscris-toi à la newsletter, pour être prévenu dès sa sortie."
     - q: "Quoi de neuf dans Football League 2027 ?"
-      a: "FL27 apporte un look et un écran d'accueil repensés, une nouvelle page pour le mode Carrière, des visuels de match améliorés avec un nouveau Moment But, un tout nouveau stade et de nouveaux défis quotidiens avec récompenses."
+      a: "FL27 met le mode Carrière au premier plan avec un nouveau look, des ligues compétitives, de nouveaux systèmes d'entraînement et de transferts et des récompenses de fin de saison. Il apporte aussi une physique des collisions améliorée, des arrêts du gardien affinés et un tout nouveau stade ultramoderne."
     - q: "FL27, c'est la même chose que Football League 2027 ?"
       a: "Oui. FL27 est le nom court de Football League 2027, l'édition 2027 de Football League, le jeu de foot mobile gratuit de Mobile Soccer."
     - q: "Quelles différences entre FL27 et FL26 ?"
-      a: "FL27 apporte un look et un écran d'accueil repensés, une nouvelle page pour le mode Carrière, des visuels de match améliorés avec un nouveau Moment But, un tout nouveau stade et de nouveaux défis quotidiens avec récompenses."
+      a: "FL27 ajoute un mode Carrière repensé avec des ligues compétitives, de nouveaux systèmes d'entraînement et de transferts et des récompenses de fin de saison, ainsi qu'une physique des collisions améliorée, des arrêts du gardien affinés, un tout nouveau stade et un look plus épuré et moderne."
     - q: "Football League 2027 est-il disponible sur iPhone et Android ?"
       a: "Oui. Football League est disponible sur l'App Store pour iPhone et iPad, et sur Google Play pour les téléphones et tablettes Android."
     - q: "Qui développe Football League ?"
-      a: "Football League est développé et édité par Mobile Soccer. Plus de 100 millions de joueurs y jouent dans plus de 200 pays."
+      a: "Football League est développé et édité par Mobile Soccer. Il compte plus de 100 millions de téléchargements et se classe parmi les 10 meilleurs jeux de sport dans plus de 30 grands marchés."
     - q: "Football League est-il gratuit ?"
       a: "Oui. Football League se télécharge et se joue gratuitement sur iPhone, iPad et sur les smartphones et tablettes Android."
     - q: "Quels modes de jeu propose Football League ?"
-      a: "Le mode Carrière, des matchs amicaux entre deux clubs au choix, des défis techniques quotidiens, des événements live, et des championnats et coupes du monde entier."
+      a: "Carrière Joueur, Ligues, Coupes et Matchs amicaux, plus des défis quotidiens, des événements live chaque semaine et du PvP local pour affronter tes amis."
+    - q: "Peut-on jouer à Football League entre amis ?"
+      a: "Oui. Le PvP local te permet d'affronter tes amis en face à face."
     - q: "Y a-t-il des événements live dans Football League ?"
       a: "Oui. De nouveaux événements live et défis arrivent chaque semaine, avec des récompenses exclusives comme des maillots, des joueurs et des pièces. Consulte la page Actus pour voir ce qui se passe en ce moment."
     - q: "En quelles langues sont les commentaires ?"
-      a: "Football League propose des commentaires de match en 16 langues, et le jeu compte plus de 100 millions de joueurs dans plus de 200 pays."
+      a: "Football League propose des commentaires en 16 langues et compte plus de 100 millions de téléchargements dans plus de 200 pays."
     - q: "Comment obtenir de l'aide pour le jeu, mon compte ou un achat ?"
       a: "Écris à notre support joueurs à footballleague2023@gmail.com, ou pose ta question à la communauté sur notre Discord."
     - q: "Où acheter les produits officiels Football League ?"

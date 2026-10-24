@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – 免费手机足球游戏 | iOS & Android"
-  home_description: "Football League 是一款适用于 iPhone 和 Android 的免费手机足球游戏，在 200 多个国家和地区拥有超 1 亿玩家。畅玩生涯模式，还有官方授权的 Manchester City。Football League 2027 即将登场。"
+  home_description: "Football League 2027：适用于 iPhone 和 Android 的免费足球游戏。在 30 多个市场跻身体育游戏前 10，下载量超 1 亿，官方授权 Manchester City。"
 
 nav:
   home: "首页"
@@ -26,7 +26,7 @@ hero:
   title_2a: "就在"
   title_2b: "这里"
   tagline: "属于每个人的全球足球游戏。"
-  body: "Football League 是一款免费手机足球游戏，在 200 多个国家和地区拥有超过 1 亿玩家。组建你的梦之队，挑战对手，随时随地开踢。"
+  body: "Football League 在 30 多个主要市场跻身体育游戏前 10 名，下载量超过 1 亿次。组建你的梦之队，挑战对手，随时随地开踢。"
   cta_primary: "立即开玩"
   cta_trailer: "了解游戏"
   cta_explore: "了解游戏"
@@ -179,19 +179,19 @@ cookies:
 
 game_page:
   meta_title: "Football League 2027 (FL27) – 手机足球游戏全新内容"
-  meta_description: "Football League 2027（FL27）：焕新界面与主界面、全新生涯模式页面、升级的比赛画面、全新球场和每日挑战。"
+  meta_description: "Football League 2027（FL27）：全新生涯模式，包含联赛、训练与转会，与好友本地 PvP，更真实的物理效果与门将扑救，以及全新球场。"
   kicker: "本赛季新内容"
   title_1: "新赛季"
   title_2: "从这里开始。"
-  text: "Football League 2027（FL27）带来更简洁现代的外观、重新设计的生涯模式、升级的比赛画面、全新球场和新的每日挑战。"
+  text: "Football League 2027（FL27）以生涯模式为核心，带来激烈的联赛、全新的训练与转会系统，以及赛季末奖励。还有与好友的本地 PvP、升级的物理效果、更精准的门将扑救和一座全新球场。"
   facts_title: "Football League 2027 一览"
   facts:
     - { label: "平台", value: "iPhone、iPad 和 Android" }
     - { label: "价格", value: "免费畅玩" }
     - { label: "开发商", value: "Mobile Soccer" }
     - { label: "官方授权", value: "Manchester City" }
-    - { label: "解说", value: "16 种语言" }
-    - { label: "玩家", value: "200 多个国家和地区，超 1 亿" }
+    - { label: "排名", value: "30 多个市场体育游戏前 10" }
+    - { label: "下载量", value: "超 1 亿" }
   jump: "新内容一览"
   features:
     - key: ui
@@ -201,18 +201,18 @@ game_page:
       images: [u27-main-menu.jpg]
     - key: career
       label: "生涯模式"
-      title: "生涯模式全新页面"
-      text: "FL27 重新设计了生涯模式的呈现方式，新增专属页面，并进一步改进玩法，让这一模式更完整、更易于浏览。我们希望让长期养成类模式在游戏中拥有更鲜明的定位。"
+      title: "生涯模式成为主角"
+      text: "FL27 的生涯模式焕然一新，加入激烈的联赛、全新的训练与转会系统和赛季末奖励。打造你的球员生涯，再征战联赛、杯赛和友谊赛。"
       images: [u27-career.jpg]
     - key: visuals
       label: "比赛日"
-      title: "升级的比赛画面"
-      text: "FL27 对比赛画面做了多项升级，包括重新设计的赛前加载体验、更新的游戏内按钮和界面元素、进球时刻演出以及全新的球场环境，让整体比赛体验更精致、视觉风格更统一。"
+      title: "球场表现全面升级"
+      text: "FL27 升级了每一场比赛：改进的碰撞物理效果、更精准的门将扑救、重新设计的赛前加载画面、更新的游戏内按钮，以及全新的进球时刻演出。"
       images: [u27-gameplay.jpg, u27-goal.jpg, u27-friendly.jpg]
     - key: stadium
       label: "全新球场"
-      title: "全新设计的球场"
-      text: "和每一年的新版本一样，FL27 带来全新设计的球场环境，配有更新的品牌元素和展示元素，比赛日氛围更加浓厚。"
+      title: "一座全新球场"
+      text: "FL27 带来一座全新的顶尖球场，让所有精彩瞬间鲜活呈现，配有更新的品牌元素和全新展示元素，比赛日氛围更加浓厚。"
       images: [u27-stadium.jpg]
     - key: challenges
       label: "每日挑战"
@@ -221,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "准备好"
   cta_title_2: "开球了吗？"
-  cta_text: "生涯模式、友谊赛、联赛与杯赛、每日挑战和每周实时活动。在 iOS 和 Android 上免费畅玩。"
+  cta_text: "球员生涯、联赛、杯赛、友谊赛、每日挑战、每周实时活动，以及与好友的本地 PvP。在 iOS 和 Android 上免费畅玩。"
 
 contact_page:
   meta_title: "联系 Football League – 玩家支持与商务合作"
@@ -272,23 +272,25 @@ faq:
     - q: "Football League 2027 什么时候上线？"
       a: "Football League 2027（FL27）即将登陆 iPhone 和 Android。关注我们的新闻页面、Instagram 或 Discord，或订阅新闻通讯，第一时间获取上线消息。"
     - q: "Football League 2027 有哪些新内容？"
-      a: "FL27 带来焕新外观与主界面、全新生涯模式页面、包含全新进球时刻在内的升级比赛画面、全新球场，以及带奖励的新每日挑战。"
+      a: "FL27 以生涯模式为核心，带来全新外观、激烈的联赛、全新的训练与转会系统和赛季末奖励。同时还有改进的碰撞物理效果、更精准的门将扑救，以及一座全新的顶尖球场。"
     - q: "FL27 和 Football League 2027 是同一款游戏吗？"
       a: "是的。FL27 是 Football League 2027 的简称，即 Mobile Soccer 出品的免费手机足球游戏 Football League 的 2027 版本。"
     - q: "FL27 和 FL26 有什么不同？"
-      a: "FL27 带来焕新外观与主界面、全新生涯模式页面、包含全新进球时刻在内的升级比赛画面、全新球场，以及带奖励的新每日挑战。"
+      a: "FL27 带来重新设计的生涯模式，加入激烈的联赛、全新的训练与转会系统和赛季末奖励；此外还有改进的碰撞物理效果、更精准的门将扑救、全新球场，以及更简洁现代的外观。"
     - q: "Football League 2027 支持 iPhone 和 Android 吗？"
       a: "支持。Football League 已在 App Store 上架，支持 iPhone 和 iPad；也可在 Google Play 下载，支持 Android 手机和平板。"
     - q: "Football League 是谁开发的？"
-      a: "Football League 由 Mobile Soccer 开发并发行，在 200 多个国家和地区拥有超过 1 亿玩家。"
+      a: "Football League 由 Mobile Soccer 开发并发行，下载量超过 1 亿次，并在 30 多个主要市场跻身体育游戏前 10 名。"
     - q: "Football League 是免费的吗？"
       a: "是的。Football League 可在 iPhone、iPad 以及 Android 手机和平板上免费下载和游玩。"
     - q: "Football League 有哪些游戏模式？"
-      a: "生涯模式、任选两队的友谊赛、每日技巧挑战、实时活动，以及来自世界各地的联赛和杯赛。"
+      a: "球员生涯、联赛、杯赛和友谊赛，另有每日挑战、每周实时活动，以及与好友正面对决的本地 PvP。"
+    - q: "可以和好友一起玩 Football League 吗？"
+      a: "可以。本地 PvP 让你和好友正面对决。"
     - q: "Football League 有实时活动吗？"
       a: "有。每周都会推出新的实时活动和挑战，可赢取球衣、球员和金币等专属奖励。前往新闻页面查看正在进行的活动。"
     - q: "比赛解说支持哪些语言？"
-      a: "Football League 的比赛解说支持 16 种语言，全球 200 多个国家和地区的 1 亿多名玩家都在玩。"
+      a: "Football League 提供 16 种语言的比赛解说，在 200 多个国家和地区的下载量超过 1 亿次。"
     - q: "游戏、账号或购买遇到问题怎么办？"
       a: "请发送邮件至玩家支持团队 footballleague2023@gmail.com，或在我们的 Discord 社区提问。"
     - q: "在哪里购买 Football League 官方周边？"
