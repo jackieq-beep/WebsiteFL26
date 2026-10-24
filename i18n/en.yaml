@@ -438,7 +438,7 @@ faq_page:
           a: "Football League has more than 40,000 players, 1,500 clubs and 150 national teams. Manchester City and AS Monaco are officially licensed."
         - id: leagues-and-cups
           q: "Which leagues and cups can you play in Football League?"
-          a: "You can play club leagues from Europe, the Americas, Asia and Africa, or set up your own custom league. There are also continental club cups, and international tournaments for national teams with group stages and knockout rounds all the way to the final."
+          a: "You can play club leagues from Europe, the Americas, Asia and Africa, or set up your own custom league. There are also continental club cups and international cups for national teams."
     - id: fl27
       title: "Football League 2027 (FL27)"
       items:

@@ -438,7 +438,7 @@ faq_page:
           a: "Football League punya lebih dari 40.000 pemain, 1.500 klub, dan 150 tim nasional. Manchester City dan AS Monaco berlisensi resmi."
         - id: leagues-and-cups
           q: "Liga dan piala apa saja yang bisa dimainkan di Football League?"
-          a: "Kamu bisa memainkan liga klub dari Eropa, Amerika, Asia, dan Afrika, atau membuat liga kustom sendiri. Ada juga piala klub tingkat benua dan turnamen internasional untuk tim nasional, dengan fase grup dan babak gugur sampai final."
+          a: "Kamu bisa memainkan liga klub dari Eropa, Amerika, Asia, dan Afrika, atau membuat liga kustom sendiri. Ada juga piala klub tingkat benua dan piala internasional untuk tim nasional."
     - id: fl27
       title: "Football League 2027 (FL27)"
       items:

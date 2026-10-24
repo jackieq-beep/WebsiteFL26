@@ -438,7 +438,7 @@ faq_page:
           a: "O Football League tem mais de 40.000 jogadores, 1.500 clubes e 150 seleções. O Manchester City e o AS Monaco são licenciados oficialmente."
         - id: leagues-and-cups
           q: "Quais ligas e copas dá para jogar no Football League?"
-          a: "Você pode jogar ligas de clubes da Europa, das Américas, da Ásia e da África, ou criar sua própria liga personalizada. Também há copas continentais de clubes e torneios internacionais de seleções, com fase de grupos e mata-mata até a final."
+          a: "Você pode jogar ligas de clubes da Europa, das Américas, da Ásia e da África, ou criar sua própria liga personalizada. Também há copas continentais de clubes e copas internacionais de seleções."
     - id: fl27
       title: "Football League 2027 (FL27)"
       items:

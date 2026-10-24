@@ -438,7 +438,7 @@ faq_page:
           a: "Football League 拥有超过 40,000 名球员、1,500 家俱乐部和 150 支国家队。Manchester City 和 AS Monaco 为官方授权球队。"
         - id: leagues-and-cups
           q: "Football League 有哪些联赛和杯赛？"
-          a: "你可以参加来自欧洲、美洲、亚洲和非洲的俱乐部联赛，也可以创建自己的自定义联赛。此外还有各大洲的俱乐部杯赛，以及从小组赛一路打到决赛的国家队国际赛事。"
+          a: "你可以参加来自欧洲、美洲、亚洲和非洲的俱乐部联赛，也可以创建自己的自定义联赛。此外还有各大洲的俱乐部杯赛，以及国家队国际杯赛。"
     - id: fl27
       title: "Football League 2027（FL27）"
       items:
