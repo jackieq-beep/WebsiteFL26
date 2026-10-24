@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – لعبة كرة قدم مجانية | iOS و Android"
-  home_description: "Football League لعبة كرة قدم مجانية على الجوال لأجهزة iPhone و Android. كوّن تشكيلتك والعب وضع المسيرة. Football League 2027 قادمة قريبًا."
+  home_description: "Football League 2027: لعبة كرة قدم مجانية لأجهزة iPhone و Android، يلعبها أكثر من 100 مليون شخص في 200+ دولة، مع ترخيص رسمي لمانشستر سيتي."
 
 nav:
   home: "الرئيسية"
@@ -26,7 +26,7 @@ hero:
   title_2a: "تعيش"
   title_2b: "هنا"
   tagline: "لعبة عالمية للجميع."
-  body: "Football League هي لعبة كرة القدم المجانية على الجوال لعشاق الكرة في كل مكان. كوّن فريق أحلامك، وواجه منافسيك والعب أينما كنت."
+  body: "Football League هي لعبة كرة القدم المجانية على الجوال التي يلعبها أكثر من 100 مليون مشجع في أكثر من 200 دولة. كوّن فريق أحلامك، وواجه منافسيك والعب أينما كنت."
   cta_primary: "العب الآن"
   cta_trailer: "اكتشف اللعبة"
   cta_explore: "اكتشف اللعبة"
@@ -189,6 +189,7 @@ game_page:
     - { label: "المنصات", value: "iPhone وiPad وAndroid" }
     - { label: "السعر", value: "مجانية" }
     - { label: "المطوّر", value: "Mobile Soccer" }
+    - { label: "ترخيص رسمي", value: "مانشستر سيتي" }
     - { label: "التعليق", value: "16 لغة" }
     - { label: "اللاعبون", value: "+100 مليون في +200 دولة" }
   jump: "ما الجديد"
@@ -220,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "مستعد"
   cta_title_2: "لضربة البداية؟"
-  cta_text: "Football League مجانية على iOS و Android."
+  cta_text: "وضع المسيرة، والمباريات الودية، والدوريات والكؤوس، والتحديات اليومية، والفعاليات المباشرة كل أسبوع. مجانية على iOS و Android."
 
 contact_page:
   meta_title: "تواصل مع Football League – دعم اللاعبين والشراكات"

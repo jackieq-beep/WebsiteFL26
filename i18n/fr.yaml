@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – Jeu de foot gratuit | iOS & Android"
-  home_description: "Football League est un jeu de foot mobile gratuit sur iPhone et Android. Monte ton équipe et joue en mode Carrière. Football League 2027 arrive bientôt."
+  home_description: "Football League 2027 : le jeu de foot gratuit sur iPhone et Android, 100 M+ de joueurs dans 200+ pays et Manchester City sous licence officielle."
 
 nav:
   home: "Accueil"
@@ -26,7 +26,7 @@ hero:
   title_2a: "vit"
   title_2b: "ici"
   tagline: "Un jeu mondial, pour tout le monde."
-  body: "Football League, c'est le jeu de foot mobile gratuit pour tous les fans de ballon rond. Monte ton équipe de rêve, défie tes rivaux et joue où que tu sois."
+  body: "Football League, c'est le jeu de foot mobile gratuit qui réunit plus de 100 millions de joueurs dans plus de 200 pays. Monte ton équipe de rêve, défie tes rivaux et joue où que tu sois."
   cta_primary: "Jouer"
   cta_trailer: "Découvrir le jeu"
   cta_explore: "Découvrir le jeu"
@@ -189,6 +189,7 @@ game_page:
     - { label: "Plateformes", value: "iPhone, iPad et Android" }
     - { label: "Prix", value: "Gratuit" }
     - { label: "Développeur", value: "Mobile Soccer" }
+    - { label: "Licence officielle", value: "Manchester City" }
     - { label: "Commentaires", value: "16 langues" }
     - { label: "Joueurs", value: "100 M+ dans 200+ pays" }
   jump: "Quoi de neuf"
@@ -220,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "Prêt pour"
   cta_title_2: "le coup d'envoi ?"
-  cta_text: "Football League est gratuit sur iOS et Android."
+  cta_text: "Mode Carrière, matchs amicaux, ligues et coupes, défis quotidiens et événements live chaque semaine. Gratuit sur iOS et Android."
 
 contact_page:
   meta_title: "Contacter Football League – Support et partenariats"

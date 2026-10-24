@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – Futebol Grátis | iOS e Android"
-  home_description: "Football League é um jogo de futebol grátis para iPhone e Android. Monte seu elenco e jogue o Modo Carreira. Football League 2027 chega em breve."
+  home_description: "Football League 2027: futebol grátis para iPhone e Android, com 100 mi+ de jogadores em 200+ países e licença oficial do Manchester City."
 
 nav:
   home: Início
@@ -26,7 +26,7 @@ hero:
   title_2a: vive
   title_2b: aqui
   tagline: Um jogo global para todos.
-  body: "Football League é o jogo de futebol grátis para celular feito para quem ama futebol. Monte seu time dos sonhos, enfrente rivais e jogue onde quiser."
+  body: "Football League é o jogo de futebol grátis para celular jogado por mais de 100 milhões de fãs em mais de 200 países. Monte seu time dos sonhos, enfrente rivais e jogue onde quiser."
   cta_primary: Jogar agora
   cta_trailer: Conheça o jogo
   cta_explore: Conheça o jogo
@@ -189,6 +189,7 @@ game_page:
     - { label: "Plataformas", value: "iPhone, iPad e Android" }
     - { label: "Preço", value: "Grátis" }
     - { label: "Desenvolvedora", value: "Mobile Soccer" }
+    - { label: "Licença oficial", value: "Manchester City" }
     - { label: "Narração", value: "16 idiomas" }
     - { label: "Jogadores", value: "100 mi+ em 200+ países" }
   jump: "Novidades"
@@ -220,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: Pronto para
   cta_title_2: o apito inicial?
-  cta_text: "Football League é grátis para jogar no iOS e Android."
+  cta_text: "Modo Carreira, amistosos, ligas e copas, desafios diários e eventos ao vivo toda semana. Grátis no iOS e Android."
 
 contact_page:
   meta_title: "Contato do Football League – Suporte e parcerias"

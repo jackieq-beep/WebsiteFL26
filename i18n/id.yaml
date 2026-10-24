@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – Sepak Bola Gratis | iOS & Android"
-  home_description: "Football League adalah game sepak bola mobile gratis untuk iPhone dan Android. Bangun skuad dan mainkan Mode Karier. Football League 2027 segera hadir."
+  home_description: "Football League 2027: game sepak bola gratis untuk iPhone dan Android, dimainkan 100 jt+ fan di 200+ negara, dengan lisensi resmi Manchester City."
 
 nav:
   home: "Beranda"
@@ -26,7 +26,7 @@ hero:
   title_2a: "Hidup"
   title_2b: "Di Sini"
   tagline: "Game global untuk semua."
-  body: "Football League adalah game sepak bola mobile gratis untuk para fan di mana saja. Bangun skuad terbaikmu, tantang rival, dan main kapan pun di mana pun."
+  body: "Football League adalah game sepak bola mobile gratis yang dimainkan lebih dari 100 juta fan di lebih dari 200 negara. Bangun skuad terbaikmu, tantang rival, dan main kapan pun di mana pun."
   cta_primary: "Main Sekarang"
   cta_trailer: "Lihat gamenya"
   cta_explore: "Lihat gamenya"
@@ -189,6 +189,7 @@ game_page:
     - { label: "Platform", value: "iPhone, iPad & Android" }
     - { label: "Harga", value: "Gratis" }
     - { label: "Pengembang", value: "Mobile Soccer" }
+    - { label: "Lisensi resmi", value: "Manchester City" }
     - { label: "Komentar", value: "16 bahasa" }
     - { label: "Pemain", value: "100 jt+ di 200+ negara" }
   jump: "Apa yang baru"
@@ -220,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "Siap untuk"
   cta_title_2: "kick-off?"
-  cta_text: "Football League gratis dimainkan di iOS dan Android."
+  cta_text: "Mode Karier, laga persahabatan, liga dan piala, tantangan harian, dan event live setiap minggu. Gratis di iOS dan Android."
 
 contact_page:
   meta_title: "Hubungi Football League – Dukungan Pemain & Kemitraan"

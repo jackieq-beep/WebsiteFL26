@@ -2,7 +2,7 @@
 
 meta:
   home_title: "Football League 2027 – 免费手机足球游戏 | iOS & Android"
-  home_description: "Football League 是一款适用于 iPhone 和 Android 的免费手机足球游戏。组建你的阵容，畅玩生涯模式，还有官方授权的 Manchester City。Football League 2027 即将登场。"
+  home_description: "Football League 是一款适用于 iPhone 和 Android 的免费手机足球游戏，在 200 多个国家和地区拥有超 1 亿玩家。畅玩生涯模式，还有官方授权的 Manchester City。Football League 2027 即将登场。"
 
 nav:
   home: "首页"
@@ -26,7 +26,7 @@ hero:
   title_2a: "就在"
   title_2b: "这里"
   tagline: "属于每个人的全球足球游戏。"
-  body: "Football League 是为全世界球迷打造的免费手机足球游戏。组建你的梦之队，挑战对手，随时随地开踢。"
+  body: "Football League 是一款免费手机足球游戏，在 200 多个国家和地区拥有超过 1 亿玩家。组建你的梦之队，挑战对手，随时随地开踢。"
   cta_primary: "立即开玩"
   cta_trailer: "了解游戏"
   cta_explore: "了解游戏"
@@ -189,6 +189,7 @@ game_page:
     - { label: "平台", value: "iPhone、iPad 和 Android" }
     - { label: "价格", value: "免费畅玩" }
     - { label: "开发商", value: "Mobile Soccer" }
+    - { label: "官方授权", value: "Manchester City" }
     - { label: "解说", value: "16 种语言" }
     - { label: "玩家", value: "200 多个国家和地区，超 1 亿" }
   jump: "新内容一览"
@@ -220,7 +221,7 @@ game_page:
       images: [u27-penalty.jpg]
   cta_title_1: "准备好"
   cta_title_2: "开球了吗？"
-  cta_text: "Football League 在 iOS 和 Android 上免费畅玩。"
+  cta_text: "生涯模式、友谊赛、联赛与杯赛、每日挑战和每周实时活动。在 iOS 和 Android 上免费畅玩。"
 
 contact_page:
   meta_title: "联系 Football League – 玩家支持与商务合作"
