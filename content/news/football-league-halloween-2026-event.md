@@ -1,9 +1,9 @@
 ---
-title: "Halloween2026 is live! Join the challenge, unlock limited kits & players"
+title: "Football League Halloween 2026 event: limited kits & star players"
 section: events
 date: 2026-10-24
-image: halloween-2026.jpg
-summary: "The pitch has gone dark. Take on the spooky challenge to collect limited-edition kits and star players, and stack up bonus coins."
+image: football-league-halloween-2026.jpg
+summary: "The Halloween 2026 event is live. Take on the spooky challenge to collect limited-edition kits and star players, and stack up bonus coins."
 ---
 
 **Halloween2026 is here, and the pitch has gone dark.** The nights are longer and the stakes are higher.

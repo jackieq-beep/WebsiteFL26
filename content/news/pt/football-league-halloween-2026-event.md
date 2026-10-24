@@ -1,5 +1,5 @@
 ---
-title: "O Halloween2026 chegou! Entre no desafio e desbloqueie uniformes e jogadores limitados"
+title: "Evento de Halloween 2026 no Football League: uniformes e jogadores limitados"
 summary: "O campo ficou no escuro. Encare o desafio assustador para colecionar uniformes de edição limitada e jogadores estrela, e acumule moedas bônus."
 ---
 

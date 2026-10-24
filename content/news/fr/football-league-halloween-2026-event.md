@@ -1,5 +1,5 @@
 ---
-title: "Halloween2026 est lancé ! Relève le défi et débloque des maillots et joueurs en édition limitée"
+title: "Événement Halloween 2026 de Football League : maillots et joueurs en édition limitée"
 summary: "Le terrain est plongé dans le noir. Relève le défi d'Halloween pour collectionner des maillots en édition limitée et des joueurs stars, et cumule des pièces bonus."
 ---
 

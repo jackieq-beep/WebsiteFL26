@@ -1,5 +1,5 @@
 ---
-title: "Halloween2026 sudah hadir! Ikuti tantangannya, buka jersey dan pemain edisi terbatas"
+title: "Event Halloween 2026 Football League: jersey dan pemain edisi terbatas"
 summary: "Lapangan kini gelap gulita. Ikuti tantangan seram untuk mengoleksi jersey edisi terbatas dan pemain bintang, serta kumpulkan koin bonus."
 ---
 
