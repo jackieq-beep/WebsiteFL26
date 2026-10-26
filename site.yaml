@@ -8,6 +8,8 @@ brand: Football League
 brand_year: 2027
 company: Mobile Soccer
 contact_email: partnerships@mobilesoccer.net
+# Where the footer "Media" link goes.
+media_url: https://www.mobilesoccer.net/
 legal_email: support@footballleaguegame.com
 support_email: footballleague2023@gmail.com
 
