@@ -36,6 +36,17 @@
   </script>
 {% endblock %}
 {% block content %}
+{% if post.layout == 'press' %}
+<article class="press-post">
+  {% include post.include %}
+  <div class="container post-share press-share">
+    <span>{{ t.news.share }}</span>
+    <a href="https://twitter.com/intent/tweet?url={{ (site.site_url ~ url('news/' ~ post.slug ~ '/')) | urlencode }}&text={{ post.title | urlencode }}" target="_blank" rel="noopener" aria-label="X">{{ icon('x') }}</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ (site.site_url ~ url('news/' ~ post.slug ~ '/')) | urlencode }}" target="_blank" rel="noopener" aria-label="Facebook">{{ icon('facebook') }}</a>
+    <button type="button" data-copy-link data-copied="{{ t.news.copied }}">{{ icon('link') }}<span>{{ t.news.copy_link }}</span></button>
+  </div>
+</article>
+{% else %}
 <article class="post">
   <header class="post-hero">
     <div class="post-hero-bg">{{ img(post.image, '', '100vw', eager=True) }}</div>
@@ -58,6 +69,7 @@
     </div>
   </div>
 </article>
+{% endif %}
 
 {% if related %}
 <section class="section updates post-related">

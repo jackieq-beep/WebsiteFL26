@@ -848,6 +848,12 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .post-share a:hover, .post-share button:hover { border-color: var(--pink); color: #fff; }
 .post-share .icon { width: 18px; height: 18px; }
 .post-related { padding-top: 0; }
+/* press-release posts that embed a designed page (layout: press) */
+.press-post { padding-top: var(--header-h); }
+.press-embed a:hover { color: var(--pink-soft); }
+.press-embed :where(h4, dl, dd) { margin: 0; }
+@media (max-width: 700px) { .press-embed .fv { white-space: normal !important; } }
+.press-share { max-width: calc(var(--container) + var(--gutter) * 2); margin: 0 auto; padding-bottom: var(--section-y); border-top: 0; }
 
 /* ---------- community ---------- */
 .community-page { padding-top: clamp(32px, 4vw, 56px); }
