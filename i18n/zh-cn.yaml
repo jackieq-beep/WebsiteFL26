@@ -284,8 +284,6 @@ faq:
       a: "Football League 由 Mobile Soccer 开发并发行，下载量超过 1 亿次，并在 30 多个主要市场跻身体育游戏前 10 名。"
     - q: "Football League 是免费的吗？"
       a: "是的。Football League 可在 iPhone、iPad 以及 Android 手机和平板上免费下载和游玩。"
-    - q: "Football League 可以离线玩吗？"
-      a: "可以。Football League 支持离线游玩，无需联网，在飞机上、地铁里或不想消耗流量时都能玩。需要使用游戏的在线功能时再连接网络即可。"
     - q: "Football League 有哪些游戏模式？"
       a: "球员生涯、联赛、杯赛和友谊赛，另有每日挑战、每周实时活动，以及与好友正面对决的本地 PvP。"
     - q: "可以和好友一起玩 Football League 吗？"
@@ -371,19 +369,18 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "Football League 常见问题 – 免费离线足球手游 | iPhone 和 Android"
-  meta_description: "关于 Football League 免费足球手游的解答：离线游玩、和好友本地 PvP、手柄支持、球队、游戏模式以及 FL27。"
+  meta_title: "Football League 常见问题 – 免费足球手游 | iPhone 和 Android"
+  meta_description: "关于 Football League 免费足球手游的解答：和好友本地 PvP、手柄支持、球队、游戏模式以及 FL27。"
   kicker: "常见问题"
   title_1: "你问，"
   title_2: "我答。"
-  text: "关于 Football League 的一切：价格、离线游玩、和好友对战、球队以及 FL27。"
+  text: "关于 Football League 的一切：价格、和好友对战、球队以及 FL27。"
   facts_title: "Football League 速览"
   toc: "本页内容"
   see_all: "查看全部问题"
   facts:
     - { label: "平台", value: "iPhone、iPad 和 Android" }
     - { label: "价格", value: "免费，含可选内购" }
-    - { label: "离线游玩", value: "支持" }
     - { label: "好友对战", value: "本地 PvP" }
     - { label: "年龄分级", value: "4+（App Store）" }
     - { label: "下载量", value: "超 1 亿" }
@@ -409,9 +406,6 @@ faq_page:
     - id: playing
       title: "游戏玩法"
       items:
-        - id: can-you-play-football-league-offline
-          q: "Football League 可以离线玩吗？"
-          a: "可以。Football League 支持离线游玩，无需联网，在飞机上、地铁里或不想消耗流量时都能玩。需要使用游戏的在线功能时再连接网络即可。"
         - id: play-with-friends
           q: "可以和好友一起玩 Football League 吗？"
           a: "可以。本地 PvP 让你和好友正面对决。"

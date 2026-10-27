@@ -284,8 +284,6 @@ faq:
       a: "Football League est développé et édité par Mobile Soccer. Il compte plus de 100 millions de téléchargements et se classe parmi les 10 meilleurs jeux de sport dans plus de 30 grands marchés."
     - q: "Football League est-il gratuit ?"
       a: "Oui. Football League se télécharge et se joue gratuitement sur iPhone, iPad et sur les smartphones et tablettes Android."
-    - q: "Peut-on jouer à Football League hors ligne ?"
-      a: "Oui. Tu peux jouer à Football League hors ligne, sans connexion internet : en avion, dans le métro ou quand tu ne veux pas utiliser tes données mobiles. Connecte-toi à internet quand tu veux profiter des fonctions en ligne du jeu."
     - q: "Quels modes de jeu propose Football League ?"
       a: "Carrière Joueur, Ligues, Coupes et Matchs amicaux, plus des défis quotidiens, des événements live chaque semaine et du PvP local pour affronter tes amis."
     - q: "Peut-on jouer à Football League entre amis ?"
@@ -371,19 +369,18 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "FAQ Football League – Jeu de foot gratuit et hors ligne sur iPhone et Android"
-  meta_description: "Les réponses sur Football League, le jeu de foot gratuit sur iPhone et Android : jeu hors ligne, PvP local entre amis, manettes, équipes, modes de jeu et FL27."
+  meta_title: "FAQ Football League – Jeu de foot gratuit sur iPhone et Android"
+  meta_description: "Les réponses sur Football League, le jeu de foot gratuit sur iPhone et Android : PvP local entre amis, manettes, équipes, modes de jeu et FL27."
   kicker: "FAQ"
   title_1: "Vos questions,"
   title_2: "nos réponses."
-  text: "Tout sur Football League : prix, jeu hors ligne, matchs entre amis, équipes et FL27."
+  text: "Tout sur Football League : prix, matchs entre amis, équipes et FL27."
   facts_title: "Football League en bref"
   toc: "Sur cette page"
   see_all: "Voir toutes les questions"
   facts:
     - { label: "Plateformes", value: "iPhone, iPad et Android" }
     - { label: "Prix", value: "Gratuit, achats facultatifs" }
-    - { label: "Hors ligne", value: "Oui" }
     - { label: "Entre amis", value: "PvP local" }
     - { label: "Classification", value: "4+ (App Store)" }
     - { label: "Téléchargements", value: "100 M+" }
@@ -409,9 +406,6 @@ faq_page:
     - id: playing
       title: "Comment jouer"
       items:
-        - id: can-you-play-football-league-offline
-          q: "Peut-on jouer à Football League hors ligne ?"
-          a: "Oui. Tu peux jouer à Football League hors ligne, sans connexion internet : en avion, dans le métro ou quand tu ne veux pas utiliser tes données mobiles. Connecte-toi à internet quand tu veux profiter des fonctions en ligne du jeu."
         - id: play-with-friends
           q: "Peut-on jouer à Football League entre amis ?"
           a: "Oui. Le PvP local te permet d'affronter tes amis en face à face."

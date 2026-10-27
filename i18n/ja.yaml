@@ -284,8 +284,6 @@ faq:
       a: "Football LeagueはMobile Soccerが開発・配信しています。1億ダウンロードを突破し、30以上の主要市場でスポーツゲームのトップ10にランクインしています。"
     - q: "Football Leagueは無料ですか？"
       a: "はい。Football LeagueはiPhone、iPad、Androidのスマートフォン・タブレットで無料でダウンロードしてプレイできます。"
-    - q: "Football Leagueはオフラインで遊べますか？"
-      a: "はい。Football Leagueはインターネットに接続しなくてもオフラインで遊べるので、飛行機や電車の中、モバイルデータを使いたくないときにもプレイできます。オンライン機能を使うときはインターネットに接続してください。"
     - q: "Football Leagueにはどんなゲームモードがありますか？"
       a: "プレイヤーキャリア、リーグ、カップ、フレンドリーマッチに加え、デイリーチャレンジ、毎週のライブイベント、友だちと対戦できるローカルPvPがあります。"
     - q: "Football Leagueは友だちと遊べますか？"
@@ -371,19 +369,18 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "Football League よくある質問 – 無料・オフラインで遊べるサッカーゲーム（iPhone・Android）"
-  meta_description: "無料サッカーゲーム「Football League」のよくある質問：オフラインプレイ、友だちとのローカルPvP、コントローラー対応、チーム、ゲームモード、FL27。"
+  meta_title: "Football League よくある質問 – 無料サッカーゲーム（iPhone・Android）"
+  meta_description: "無料サッカーゲーム「Football League」のよくある質問：友だちとのローカルPvP、コントローラー対応、チーム、ゲームモード、FL27。"
   kicker: "FAQ"
   title_1: "よくある"
   title_2: "質問。"
-  text: "料金、オフラインプレイ、友だちとの対戦、チーム、FL27まで。Football Leagueのすべてにお答えします。"
+  text: "料金、友だちとの対戦、チーム、FL27まで。Football Leagueのすべてにお答えします。"
   facts_title: "Football League早わかり"
   toc: "このページの内容"
   see_all: "すべての質問を見る"
   facts:
     - { label: "対応機種", value: "iPhone・iPad・Android" }
     - { label: "価格", value: "基本プレイ無料（アプリ内課金あり）" }
-    - { label: "オフラインプレイ", value: "対応" }
     - { label: "友だちと対戦", value: "ローカルPvP" }
     - { label: "年齢区分", value: "4+（App Store）" }
     - { label: "ダウンロード数", value: "1億以上" }
@@ -409,9 +406,6 @@ faq_page:
     - id: playing
       title: "遊び方"
       items:
-        - id: can-you-play-football-league-offline
-          q: "Football Leagueはオフラインで遊べますか？"
-          a: "はい。Football Leagueはインターネットに接続しなくてもオフラインで遊べるので、飛行機や電車の中、モバイルデータを使いたくないときにもプレイできます。オンライン機能を使うときはインターネットに接続してください。"
         - id: play-with-friends
           q: "Football Leagueは友だちと遊べますか？"
           a: "はい。ローカルPvPで友だちと直接対戦できます。"

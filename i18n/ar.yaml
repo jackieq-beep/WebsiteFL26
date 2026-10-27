@@ -284,8 +284,6 @@ faq:
       a: "تطوّر Football League وتنشرها شركة Mobile Soccer. تجاوزت تنزيلاتها 100 مليون، وهي من بين أفضل 10 ألعاب رياضية في أكثر من 30 سوقًا رئيسية."
     - q: "هل Football League مجانية؟"
       a: "نعم. يمكن تنزيل Football League ولعبها مجانًا على iPhone و iPad وهواتف وأجهزة Android اللوحية."
-    - q: "هل يمكن لعب Football League بدون إنترنت؟"
-      a: "نعم. يمكنك لعب Football League بدون اتصال بالإنترنت، لذا تعمل على متن الطائرة أو في المترو أو عندما لا تريد استهلاك بيانات الجوال. اتصل بالإنترنت عندما تريد استخدام ميزات اللعبة عبر الإنترنت."
     - q: "ما أوضاع اللعب في Football League؟"
       a: "مسيرة اللاعب، والدوريات، والكؤوس، والمباريات الودية، إلى جانب التحديات اليومية والفعاليات المباشرة كل أسبوع ومباريات PvP محلية لمواجهة أصدقائك."
     - q: "هل يمكنني لعب Football League مع أصدقائي؟"
@@ -371,19 +369,18 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "الأسئلة الشائعة عن Football League – لعبة كرة قدم مجانية بدون إنترنت لـ iPhone وAndroid"
-  meta_description: "إجابات عن Football League، لعبة كرة القدم المجانية لـ iPhone وAndroid: اللعب بدون إنترنت، ومباريات PvP المحلية مع الأصدقاء، ويد التحكم، والفرق، وأوضاع اللعب، وFL27."
+  meta_title: "الأسئلة الشائعة عن Football League – لعبة كرة قدم مجانية لـ iPhone وAndroid"
+  meta_description: "إجابات عن Football League، لعبة كرة القدم المجانية لـ iPhone وAndroid: مباريات PvP المحلية مع الأصدقاء، ويد التحكم، والفرق، وأوضاع اللعب، وFL27."
   kicker: "الأسئلة الشائعة"
   title_1: "أسئلة"
   title_2: "وأجوبة."
-  text: "كل ما تريد معرفته عن Football League: السعر، واللعب بدون إنترنت، والمباريات مع الأصدقاء، والفرق، وFL27."
+  text: "كل ما تريد معرفته عن Football League: السعر، والمباريات مع الأصدقاء، والفرق، وFL27."
   facts_title: "Football League باختصار"
   toc: "في هذه الصفحة"
   see_all: "عرض كل الأسئلة"
   facts:
     - { label: "المنصات", value: "iPhone وiPad وAndroid" }
     - { label: "السعر", value: "مجانية، مع مشتريات اختيارية" }
-    - { label: "بدون إنترنت", value: "متاح" }
     - { label: "مع الأصدقاء", value: "PvP محلي" }
     - { label: "التصنيف العمري", value: "4+ (App Store)" }
     - { label: "التنزيلات", value: "+100 مليون" }
@@ -409,9 +406,6 @@ faq_page:
     - id: playing
       title: "طريقة اللعب"
       items:
-        - id: can-you-play-football-league-offline
-          q: "هل يمكن لعب Football League بدون إنترنت؟"
-          a: "نعم. يمكنك لعب Football League بدون اتصال بالإنترنت، لذا تعمل على متن الطائرة أو في المترو أو عندما لا تريد استهلاك بيانات الجوال. اتصل بالإنترنت عندما تريد استخدام ميزات اللعبة عبر الإنترنت."
         - id: play-with-friends
           q: "هل يمكنني لعب Football League مع أصدقائي؟"
           a: "نعم. تتيح لك مباريات PvP المحلية مواجهة أصدقائك وجهًا لوجه."
