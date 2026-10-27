@@ -284,8 +284,6 @@ faq:
       a: "Football League dikembangkan dan diterbitkan oleh Mobile Soccer. Game ini sudah diunduh lebih dari 100 juta kali dan masuk 10 besar game olahraga di lebih dari 30 pasar utama."
     - q: "Apakah Football League gratis?"
       a: "Ya. Football League gratis diunduh dan dimainkan di iPhone, iPad, serta ponsel dan tablet Android."
-    - q: "Bisakah main Football League secara offline?"
-      a: "Bisa. Kamu bisa main Football League secara offline tanpa koneksi internet, jadi tetap bisa dimainkan di pesawat, di kereta, atau saat tidak ingin memakai kuota. Sambungkan ke internet saat ingin memakai fitur online game."
     - q: "Mode permainan apa saja yang ada di Football League?"
       a: "Karier Pemain, Liga, Piala, dan Laga Persahabatan, ditambah tantangan harian, event live setiap minggu, dan PvP lokal untuk duel langsung dengan teman."
     - q: "Bisakah main Football League bareng teman?"
@@ -371,19 +369,18 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "FAQ Football League – Game Sepak Bola Gratis & Offline untuk iPhone dan Android"
-  meta_description: "Jawaban seputar Football League, game sepak bola gratis untuk iPhone dan Android: main offline, PvP lokal dengan teman, kontroler, tim, mode permainan, dan FL27."
+  meta_title: "FAQ Football League – Game Sepak Bola Gratis untuk iPhone dan Android"
+  meta_description: "Jawaban seputar Football League, game sepak bola gratis untuk iPhone dan Android: PvP lokal dengan teman, kontroler, tim, mode permainan, dan FL27."
   kicker: "FAQ"
   title_1: "Pertanyaan,"
   title_2: "terjawab."
-  text: "Semua tentang Football League: harga, main offline, duel dengan teman, tim, dan FL27."
+  text: "Semua tentang Football League: harga, duel dengan teman, tim, dan FL27."
   facts_title: "Sekilas Football League"
   toc: "Di halaman ini"
   see_all: "Lihat semua pertanyaan"
   facts:
     - { label: "Platform", value: "iPhone, iPad & Android" }
     - { label: "Harga", value: "Gratis, ada pembelian opsional" }
-    - { label: "Main offline", value: "Bisa" }
     - { label: "Main bareng teman", value: "PvP lokal" }
     - { label: "Rating usia", value: "4+ (App Store)" }
     - { label: "Unduhan", value: "100 jt+" }
@@ -409,9 +406,6 @@ faq_page:
     - id: playing
       title: "Cara bermain"
       items:
-        - id: can-you-play-football-league-offline
-          q: "Bisakah main Football League secara offline?"
-          a: "Bisa. Kamu bisa main Football League secara offline tanpa koneksi internet, jadi tetap bisa dimainkan di pesawat, di kereta, atau saat tidak ingin memakai kuota. Sambungkan ke internet saat ingin memakai fitur online game."
         - id: play-with-friends
           q: "Bisakah main Football League bareng teman?"
           a: "Bisa. PvP lokal memungkinkan kamu duel langsung dengan teman."

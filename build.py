@@ -314,7 +314,7 @@ def main():
         "shop": "Official Football League merchandise",
         "media": "Press kit, logos and screenshots",
         "contact": "Player support and partnerships",
-        "faq": "Answers to common questions: price, offline play, local PvP, controllers, teams, FL27",
+        "faq": "Answers to common questions: price, local PvP, controllers, teams, FL27",
     }
     lines = [
         f"# {site['name']}", "",
