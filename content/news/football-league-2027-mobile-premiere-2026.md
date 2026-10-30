@@ -28,7 +28,7 @@ The biggest changes are in Career Mode:
 
 ## About The Mobile Premiere 2026
 
-The Mobile Premiere is a new mobile gaming showcase run by GamingonPhone. Its first edition aired on October 28, 2026, just before the 6th GamingonPhone Awards. The show featured 22 reveals from 16 studios: 12 new games, 4 updates to existing games, and 6 titles from Indian indie developers.
+The Mobile Premiere is a new mobile gaming showcase run by GamingonPhone. Its first edition aired on October 28, 2026, just before the 6th GamingonPhone Awards. The show featured 22 reveals from 16 studios, including 12 new games and 4 updates to existing games.
 
 Read the full event round-up on [GamingonPhone](https://gamingonphone.com/news/the-mobile-premiere-2026-kicks-off-its-debut-edition-with-22-exclusive-reveals/). Image: GamingonPhone / The Mobile Premiere 2026.
 
