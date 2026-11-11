@@ -68,8 +68,9 @@ modes:
 
 clubs:
   kicker: "公式ライセンス"
-  title: "Manchester Cityでプレイ。公式ライセンス取得"
-  text: "Manchester CityはFootball Leagueの公式ライセンスを取得。ユニフォーム、エンブレム、クラブ名はすべて本物です。キャリアモードでも、フレンドリーマッチでも、ローカルPvPでも使えます。"
+  title_1: 公式クラブ。
+  title_2: 本物のカラー。
+  text: "マンチェスター・シティがFootball Leagueに公式ライセンスで登場。本物のユニフォーム、公式エンブレム、トップレベルのサッカー。スカイブルーに染まるシーズンを丸ごと楽しもう。"
   cta: 発表を読む
   badge: 公式ライセンス
 
@@ -81,8 +82,9 @@ updates:
 
 merch:
   kicker: "グッズ"
-  title: "公式シャツ、パーカーなど"
-  text: "Football Leagueのエンブレム入りシャツ、パーカー、ジャケット、キッズウェア、ステッカー。受注生産で世界中に発送します。"
+  title_1: ゲームを
+  title_2: 身にまとえ。
+  text: "Football League公式のシャツ、パーカー、アクセサリー。スタンドでも、街でも、ピッチでも映えるデザインです。"
   cta: ショップへ
 
 download:

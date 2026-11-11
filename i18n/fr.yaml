@@ -68,8 +68,9 @@ modes:
 
 clubs:
   kicker: "Licence officielle"
-  title: "Joue avec Manchester City, sous licence officielle"
-  text: "Manchester City est sous licence officielle dans Football League : les maillots, l'écusson et le nom du club sont authentiques. Emmène-les en Mode Carrière, en match amical ou en PvP local."
+  title_1: "Club officiel."
+  title_2: "Vraies couleurs."
+  text: "Manchester City est sous licence officielle dans Football League. Maillots authentiques, écusson officiel, foot de haut niveau et toute la saison en bleu ciel."
   cta: "Lire l'annonce"
   badge: "Licence officielle"
 
@@ -81,8 +82,9 @@ updates:
 
 merch:
   kicker: "Produits dérivés"
-  title: "Maillots, sweats et plus, officiels"
-  text: "Maillots, sweats à capuche, vestes, vêtements enfants et stickers avec l'écusson Football League. Fabriqués à la commande et livrés dans le monde entier."
+  title_1: "Porte"
+  title_2: "le jeu."
+  text: "Maillots, sweats à capuche et accessoires officiels Football League. Pensés pour les tribunes, la rue et le terrain."
   cta: "Voir la boutique"
 
 download:

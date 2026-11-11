@@ -68,8 +68,9 @@ modes:
 
 clubs:
   kicker: "Licença oficial"
-  title: "Jogue com o Manchester City, com licença oficial"
-  text: "O Manchester City tem licença oficial no Football League: uniformes, escudo e nome do clube são os de verdade. Leve o time para o Modo Carreira, um amistoso ou o PvP local."
+  title_1: Clube oficial.
+  title_2: Cores de verdade.
+  text: "O Manchester City tem licença oficial no Football League. Uniformes autênticos, o escudo oficial, futebol de elite e a temporada inteira em azul-celeste."
   cta: Leia o anúncio
   badge: Licença oficial
 
@@ -81,8 +82,9 @@ updates:
 
 merch:
   kicker: "Produtos oficiais"
-  title: "Camisas, moletons e mais, oficiais"
-  text: "Camisas, moletons, jaquetas, roupas infantis e adesivos com o escudo do Football League. Feitos sob encomenda e enviados para o mundo todo."
+  title_1: Vista
+  title_2: o jogo.
+  text: "Camisas, moletons e acessórios oficiais do Football League. Feitos para a arquibancada, a rua e o campo."
   cta: Visite a loja
 
 download:

@@ -68,8 +68,9 @@ modes:
 
 clubs:
   kicker: "官方授权"
-  title: "官方授权，化身 Manchester City"
-  text: "Manchester City 已在 Football League 中获得官方授权，球衣、队徽和俱乐部名称都是真实的。在生涯模式、友谊赛或本地 PvP 中都能使用。"
+  title_1: "官方俱乐部。"
+  title_2: "本色出战。"
+  text: "Manchester City 已正式授权入驻 Football League。正版球衣、官方队徽、顶级足球，整个赛季尽染天空蓝。"
   cta: "阅读公告"
   badge: "官方授权"
 
@@ -81,8 +82,9 @@ updates:
 
 merch:
   kicker: "周边商品"
-  title: "官方球衣、卫衣等周边"
-  text: "印有 Football League 队徽的球衣、卫衣、夹克、童装和贴纸。按需定制，全球配送。"
+  title_1: "穿上"
+  title_2: "这款游戏。"
+  text: "Football League 官方球衣、卫衣和配饰。看台、街头、球场，统统适合。"
   cta: "逛逛商城"
 
 download:

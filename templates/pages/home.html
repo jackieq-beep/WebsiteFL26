@@ -92,10 +92,10 @@
   </div>
 </section>
 
-<section class="section clubs" style="--bg-photo:url('{{ img_src('fl27-haaland-shot.jpg', 1440) }}')">
+<section class="section clubs" style="--bg-photo:url('{{ img_src('set-pieces.jpg', 1440) }}')">
   <div class="container clubs-grid">
     <div class="clubs-copy">
-      {{ section_head(t.clubs.kicker, t.clubs.title, sentence=True) }}
+      {{ section_head(t.clubs.kicker, t.clubs.title_1, t.clubs.title_2, 'cyan') }}
       <p class="lead">{{ t.clubs.text }}</p>
       <a class="btn btn-outline" href="{{ url('news/official-club-licenses/') }}">{{ t.clubs.cta }} {{ icon('arrow-right') }}</a>
     </div>
@@ -127,7 +127,7 @@
 <section class="section merch">
   <div class="container merch-card">
     <div class="merch-copy">
-      {{ section_head(t.merch.kicker, t.merch.title, sentence=True) }}
+      {{ section_head(t.merch.kicker, t.merch.title_1, t.merch.title_2) }}
       <p class="lead">{{ t.merch.text }}</p>
       {% if site.shop_url %}
       <a class="btn btn-primary" href="{{ site.shop_url }}" target="_blank" rel="noopener">{{ t.merch.cta }} {{ icon('arrow-up-right') }}</a>

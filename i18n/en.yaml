@@ -68,8 +68,9 @@ modes:
 
 clubs:
   kicker: "Official license"
-  title: "Play as Manchester City, officially licensed"
-  text: "Manchester City is officially licensed in Football League, so the kits, the badge and the club name are the real thing. Take them into Career Mode, a friendly or local PvP."
+  title_1: Official club.
+  title_2: True colors.
+  text: "Manchester City is officially licensed in Football League. Authentic kits, the official badge, elite football and the whole season in sky blue."
   cta: Read the announcement
   badge: Official license
 
@@ -81,8 +82,9 @@ updates:
 
 merch:
   kicker: "Merchandise"
-  title: "Official shirts, hoodies and more"
-  text: "Shirts, hoodies, jackets, kids' wear and stickers with the Football League crest. Made to order and shipped worldwide."
+  title_1: Wear
+  title_2: the game.
+  text: "Official Football League shirts, hoodies and accessories. Designed for the stands, the street and the pitch."
   cta: Visit the shop
 
 download:

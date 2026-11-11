@@ -68,8 +68,9 @@ modes:
 
 clubs:
   kicker: "Lisensi resmi"
-  title: "Main sebagai Manchester City, berlisensi resmi"
-  text: "Manchester City berlisensi resmi di Football League, jadi jersey, lambang, dan nama klubnya asli. Bawa mereka ke Mode Karier, laga persahabatan, atau PvP lokal."
+  title_1: "Klub resmi."
+  title_2: "Warna asli."
+  text: "Manchester City berlisensi resmi di Football League. Jersey autentik, lambang resmi, sepak bola elite, dan satu musim penuh dalam balutan biru langit."
   cta: "Baca pengumumannya"
   badge: "Lisensi resmi"
 
@@ -81,8 +82,9 @@ updates:
 
 merch:
   kicker: "Merchandise"
-  title: "Jersey, hoodie, dan lainnya, resmi"
-  text: "Kaus, hoodie, jaket, pakaian anak, dan stiker berlogo Football League. Dibuat sesuai pesanan dan dikirim ke seluruh dunia."
+  title_1: "Kenakan"
+  title_2: "gamenya."
+  text: "Kaus, hoodie, dan aksesori resmi Football League. Dirancang untuk tribun, jalanan, dan lapangan."
   cta: "Kunjungi toko"
 
 download:
