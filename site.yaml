@@ -141,8 +141,8 @@ languages:
 hero_slides:
   - { img: mancity-players.jpg, position: "100% 50%", mobile: "52% 15%", fit: contain }
   - { img: u27-gameplay.jpg, position: "60% 50%", mobile: "55% 50%" }
-  - { img: hero.png, position: "70% 30%", mobile: "64% 20%" }
-  - { img: free-kick.jpg, position: "60% 55%", mobile: "62% 55%" }
+  - { img: fl27-walkout.jpg, position: "50% 40%", mobile: "55% 40%" }
+  - { img: fl27-free-kick.jpg, position: "55% 55%", mobile: "60% 55%" }
   - { img: u27-stadium.jpg, position: "50% 40%", mobile: "50% 40%" }
 
 # Pages that exist but are not in the main menu (linked from the footer).

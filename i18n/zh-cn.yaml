@@ -27,7 +27,7 @@ hero:
   title_2a: "就在"
   title_2b: "这里"
   tagline: "属于每个人的全球足球游戏。"
-  body: "Football League 在 30 多个主要市场跻身体育游戏前 10 名，下载量超过 1 亿次。组建你的梦之队，挑战对手，随时随地开踢。"
+  body: "Football League 2027 现已上线，iPhone 和 Android 免费畅玩。本赛季的生涯模式新增竞争激烈的联赛、全新的训练与转会系统以及赛季末奖励，你还可以通过本地 PvP 与身边的好友对战。"
   cta_primary: "立即开玩"
   cta_trailer: "了解游戏"
   cta_explore: "了解游戏"
@@ -39,59 +39,57 @@ hero:
 
 ticker:
   - "Football League 2027 · 现已上线"
-  - "免费畅玩"
-  - "生涯模式全新页面"
-  - "每周实时活动"
-  - "联赛与杯赛"
-  - "为比赛日而生"
+  - "iPhone 和 Android 免费"
+  - "生涯模式竞技联赛"
+  - "全新训练与转会"
+  - "与好友本地 PvP"
+  - "每日挑战"
+  - "Manchester City 官方授权"
+  - "16 种语言解说"
 
 engine:
-  kicker: "次世代手机足球"
-  title_1: "真实足球。"
-  title_2: "战术深度。"
-  intro: "聪明的 AI、灵敏的操控和流畅的动画，让 Football League 在任何手机上都能踢出真实比赛的感觉。"
-  caption: "游戏实机画面"
+  kicker: "游戏玩法"
+  title: "更真实的碰撞，更聪明的门将"
+  intro: "在 FL27 中，球员之间的身体对抗更加真实，门将对你的射门反应也更到位。操作依旧简单：一个摇杆加四个按键，分别是传球、直塞、射门以及冲刺与技巧。"
+  caption: "FL27 实机画面"
   points:
-    - { num: "01", title: "动态比赛引擎", text: "聪明的 AI、灵敏的操控和流畅的动画贯穿每场比赛，从第一脚触球到终场哨响。" }
-    - { num: "02", title: "战术风格", text: "全新战术风格，各有专属比赛指令，让球队按你的思路去踢。" }
-    - { num: "03", title: "定位球升级", text: "任意球更具挑战、更加真实，点球重新平衡。每一次死球都是机会。" }
+    - { num: "01", title: "碰撞物理", text: "球员之间的接触更真实，从肩部对抗到滑铲都更加自然。" }
+    - { num: "02", title: "门将扑救", text: "门将扑救更加细腻，想要破门需要更好的射门。" }
+    - { num: "03", title: "任意球与点球", text: "更具挑战、更真实的任意球，以及重新平衡的点球。" }
 
 modes:
-  kicker: "2027 全新内容"
-  title_1: "每一场比赛。"
-  title_2: "每一个舞台。"
+  kicker: "游戏模式"
+  title: "全面革新的生涯模式"
   items:
-    - { img: u27-career.jpg, title: "球队生涯", text: "执掌俱乐部：转会、财务、董事会目标，外加完整的联赛赛季。" }
-    - { img: champions.jpg, title: "联赛与杯赛", text: "征战来自世界各地的联赛和杯赛。" }
+    - { img: "u27-career.jpg", title: "球队生涯", text: "在竞争激烈的联赛中步步攀升，用全新训练系统培养球员，在重做的转会市场上买进卖出，并在每个赛季结束时赢取奖励。" }
+    - { img: "champions.jpg", title: "联赛与杯赛", text: "涵盖欧洲、美洲、亚洲和非洲的俱乐部联赛，以及洲际杯赛和国际杯赛。" }
     - { img: u27-friendly.jpg, title: "友谊赛", text: "任选两支球队，挑好球衣和球场，即刻开球。" }
-    - { img: u27-penalty.jpg, title: "挑战与奖励", text: "完成技巧挑战目标，赢取宝石和金币。" }
+    - { img: "u27-penalty.jpg", title: "每日挑战", text: "每天都有新的小目标，完成即可赢得宝石和金币。" }
 
 clubs:
   kicker: "官方授权"
-  title_1: "官方俱乐部。"
-  title_2: "本色出战。"
-  text: "Manchester City 已正式授权入驻 Football League。正版球衣、官方队徽、顶级足球，整个赛季尽染天空蓝。"
+  title: "官方授权，化身 Manchester City"
+  text: "Manchester City 已在 Football League 中获得官方授权，球衣、队徽和俱乐部名称都是真实的。在生涯模式、友谊赛或本地 PvP 中都能使用。"
   cta: "阅读公告"
   badge: "官方授权"
 
 updates:
   kicker: "最新动态"
-  title: "新鲜内容"
+  title: "最新资讯"
   all: "全部新闻"
   read: "阅读更多"
 
 merch:
   kicker: "周边商品"
-  title_1: "穿上"
-  title_2: "这款游戏。"
-  text: "Football League 官方球衣、卫衣和配饰。看台、街头、球场，统统适合。"
+  title: "官方球衣、卫衣等周边"
+  text: "印有 Football League 队徽的球衣、卫衣、夹克、童装和贴纸。按需定制，全球配送。"
   cta: "逛逛商城"
 
 download:
   kicker: "iOS & Android 免费下载"
-  title_1: "加入 1亿+"
-  title_2: "玩家行列。"
-  text: "下载 Football League，这款 iOS 和 Android 免费足球游戏，本赛季由你书写传奇。"
+  title_1: "FL27"
+  title_2: "现已上线"
+  text: "Football League 下载量超过 1 亿次，在 30 多个市场跻身体育游戏前 10。FL27 在 App Store 和 Google Play 免费下载。"
   developer: "由 Mobile Soccer 开发"
   gp_small: "立即获取"
   gp_big: "Google Play"
@@ -268,9 +266,9 @@ news:
 
 faq:
   kicker: "常见问题"
-  title: "你问，我答。"
+  title: "常见问题"
   items:
-    - q: "Football League 2027 什么时候上线？"
+    - q: "Football League 2027 上线了吗？"
       a: "Football League 2027（FL27）现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载。"
     - q: "Football League 2027 有哪些新内容？"
       a: "FL27 以生涯模式为核心，带来全新外观、激烈的联赛、全新的训练与转会系统和赛季末奖励。同时还有改进的碰撞物理效果、更精准的门将扑救，以及一座全新的顶尖球场。"
@@ -303,7 +301,7 @@ alts:
   hoodie: "Football League 卫衣"
   hero: "Football League 2027 手机足球游戏"
   slides: "游戏截图"
-  engine: "Football League 比赛引擎实机画面，带屏幕操控按钮"
+  engine: "Football League 2027 实机画面，显示摇杆以及传球、直塞、射门和冲刺按键"
   goal: "Haaland 在 Football League 中为 Manchester City 破门"
   mancity: "Football League 中的 Manchester City 球员"
   menu: "Football League 主菜单，展示 Manchester City 球员"
@@ -319,8 +317,8 @@ coming:
 
 newsletter:
   kicker: "订阅资讯"
-  title: "抢先获取 FL27 消息。"
-  text: "发布日期、新功能、活动与独家奖励，第一时间发送到你的邮箱。"
+  title: "更新、活动和奖励，邮件通知"
+  text: "新版本更新、直播活动和游戏内奖励一上线，就第一时间通知你。"
   placeholder: "你的邮箱地址"
   name_placeholder: "你的名字"
   button: "订阅"
@@ -437,7 +435,7 @@ faq_page:
       title: "Football League 2027（FL27）"
       items:
         - id: fl27-release-date
-          q: "Football League 2027 什么时候上线？"
+          q: "Football League 2027 上线了吗？"
           a: "Football League 2027（FL27）现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载。"
         - id: whats-new-in-fl27
           q: "Football League 2027 有哪些新内容？"

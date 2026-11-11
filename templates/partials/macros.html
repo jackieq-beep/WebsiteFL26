@@ -11,9 +11,9 @@
 </div>
 {% endmacro %}
 
-{% macro section_head(kicker, title_1, title_2, accent='pink') %}
+{% macro section_head(kicker, title_1, title_2='', accent='pink', sentence=False) %}
 <p class="kicker">{{ kicker }}</p>
-<h2 class="display">{{ title_1 }}<br><span class="accent-{{ accent }}">{{ title_2 }}</span></h2>
+<h2 class="display{% if sentence %} display-sentence{% endif %}">{{ title_1 }}{% if title_2 %}<br><span class="accent-{{ accent }}">{{ title_2 }}</span>{% endif %}</h2>
 {% endmacro %}
 
 {% macro news_date(post, t) %}{% if post.date %}<time datetime="{{ post.date }}">{{ t.news.date_format | replace('D', post.date.day | string) | replace('M', t.news.months[post.date.month - 1]) | replace('Y', post.date.year | string) }}</time>{% endif %}{% endmacro %}

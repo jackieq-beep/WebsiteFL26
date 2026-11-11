@@ -27,7 +27,7 @@ hero:
   title_2a: vive
   title_2b: aquí
   tagline: Un juego global para todos.
-  body: "Football League está entre los 10 mejores juegos de deportes en más de 30 mercados principales, con más de 100 millones de descargas. Crea tu plantilla definitiva, reta a tus rivales y juega donde quieras."
+  body: "Football League 2027 ya está disponible, gratis en iPhone y Android. El Modo Carrera de esta temporada suma ligas competitivas, nuevos entrenamientos y fichajes y recompensas de fin de temporada, y ahora puedes jugar contra amigos cercanos en PvP local."
   cta_primary: Juega ya
   cta_trailer: Descubre el juego
   cta_explore: Descubre el juego
@@ -39,59 +39,57 @@ hero:
 
 ticker:
   - "Football League 2027 · Ya disponible"
-  - Gratis
-  - "Nueva página del Modo Carrera"
-  - Eventos en vivo cada semana
-  - Ligas y copas
-  - Hecho para el día de partido
+  - "Gratis en iPhone y Android"
+  - "Ligas competitivas en el Modo Carrera"
+  - "Nuevos entrenamientos y fichajes"
+  - "PvP local con amigos"
+  - "Desafíos diarios"
+  - "Licencia oficial del Manchester City"
+  - "Comentarios en 16 idiomas"
 
 engine:
-  kicker: "Fútbol móvil de nueva generación"
-  title_1: Fútbol realista.
-  title_2: Profundidad táctica.
-  intro: "IA inteligente, controles precisos y animaciones fluidas hacen de Football League un juego de fútbol para móvil que se siente como el de verdad, en cualquier teléfono."
-  caption: "Imágenes del juego"
+  kicker: "Jugabilidad"
+  title: "Físicas más precisas y porteros más listos"
+  intro: "En FL27 los choques entre jugadores son más realistas y los porteros reaccionan mejor a tus disparos. Los controles siguen siendo sencillos: un joystick y cuatro botones para pasar, filtrar, disparar y esprintar con regates."
+  caption: "Jugabilidad de FL27"
   points:
-    - { num: "01", title: "Motor de partido dinámico", text: "IA inteligente, controles precisos y animaciones fluidas en cada partido, desde el primer toque hasta el pitido final." }
-    - { num: "02", title: "Estilos tácticos", text: "Nuevos estilos tácticos con sus propias instrucciones de juego, para que tu equipo juegue como tú piensas." }
-    - { num: "03", title: "Balón parado mejorado", text: "Tiros libres más exigentes y realistas, y penaltis reequilibrados. Cada balón parado es una oportunidad." }
+    - { num: "01", title: "Físicas de contacto", text: "Mejor contacto entre jugadores: las cargas y las entradas deslizantes se resuelven de forma más realista." }
+    - { num: "02", title: "Paradas del portero", text: "Paradas más pulidas: para batir al portero hace falta un mejor disparo." }
+    - { num: "03", title: "Faltas y penaltis", text: "Tiros libres más exigentes y realistas, y penaltis reequilibrados." }
 
 modes:
-  kicker: "Novedades de 2027"
-  title_1: Cada partido.
-  title_2: Cada escenario.
+  kicker: "Modos de juego"
+  title: "El Modo Carrera, renovado"
   items:
-    - { img: u27-career.jpg, title: "Carrera de equipo", text: "Dirige el club: fichajes, finanzas, objetivos de la directiva y una temporada de liga completa." }
-    - { img: champions.jpg, title: "Ligas y copas", text: "Compite en ligas y copas de todo el mundo." }
+    - { img: "u27-career.jpg", title: "Carrera de equipo", text: "Escala ligas competitivas, desarrolla jugadores con el nuevo sistema de entrenamiento, compra y vende en el mercado de fichajes renovado y gana recompensas al final de cada temporada." }
+    - { img: "champions.jpg", title: "Ligas y copas", text: "Ligas de clubes de Europa, América, Asia y África, además de copas continentales e internacionales." }
     - { img: u27-friendly.jpg, title: "Amistosos", text: "Elige dos clubes cualesquiera, las equipaciones y el estadio, y a jugar." }
-    - { img: u27-penalty.jpg, title: "Desafíos y premios", text: "Cumple los objetivos de los desafíos de habilidad y gana gemas y monedas." }
+    - { img: "u27-penalty.jpg", title: "Desafíos diarios", text: "Nuevos objetivos cortos cada día. Cúmplelos para ganar gemas y monedas." }
 
 clubs:
   kicker: "Licencia oficial"
-  title_1: Club oficial.
-  title_2: Colores auténticos.
-  text: "El Manchester City cuenta con licencia oficial en Football League. Equipaciones auténticas, el escudo oficial, fútbol de élite y toda la temporada en azul celeste."
+  title: "Juega con el Manchester City, con licencia oficial"
+  text: "El Manchester City tiene licencia oficial en Football League: las equipaciones, el escudo y el nombre del club son los de verdad. Llévalo al Modo Carrera, a un amistoso o al PvP local."
   cta: Lee el anuncio
   badge: Licencia oficial
 
 updates:
   kicker: "Últimas novedades"
-  title: Novedades
+  title: "Últimas noticias"
   all: Todas las noticias
   read: Leer más
 
 merch:
   kicker: "Merchandising"
-  title_1: Viste
-  title_2: el juego.
-  text: "Camisetas, sudaderas y accesorios oficiales de Football League. Diseñados para la grada, la calle y el campo."
+  title: "Camisetas, sudaderas y más, oficiales"
+  text: "Camisetas, sudaderas, chaquetas, ropa infantil y pegatinas con el escudo de Football League. Hechas por encargo y con envío a todo el mundo."
   cta: Visita la tienda
 
 download:
   kicker: "Gratis en iOS y Android"
-  title_1: Únete a más de 100M
-  title_2: de jugadores.
-  text: "Descarga Football League, el juego de fútbol gratis para iOS y Android, y deja tu huella esta temporada."
+  title_1: "FL27 ya"
+  title_2: "disponible"
+  text: "Football League supera los 100 millones de descargas y está entre los 10 mejores juegos de deportes en más de 30 mercados. FL27 es gratis en la App Store y Google Play."
   developer: "Desarrollado por Mobile Soccer"
   gp_small: Disponible en
   gp_big: Google Play
@@ -268,9 +266,9 @@ news:
 
 faq:
   kicker: "Preguntas frecuentes"
-  title: Tus preguntas, respondidas.
+  title: "Preguntas frecuentes"
   items:
-    - q: "¿Cuándo sale Football League 2027?"
+    - q: "¿Ya ha salido Football League 2027?"
       a: "Football League 2027 (FL27) ya está disponible en iPhone y Android. Descárgalo gratis en la App Store o Google Play."
     - q: "¿Qué novedades trae Football League 2027?"
       a: "FL27 pone el Modo Carrera en el centro, con un aspecto renovado, ligas competitivas, nuevos sistemas de entrenamiento y fichajes y recompensas de fin de temporada. También trae física de colisiones mejorada, paradas de portero más pulidas y un estadio nuevo de última generación."
@@ -303,7 +301,7 @@ alts:
   hoodie: "Sudadera de Football League"
   hero: "Football League 2027, juego de fútbol para móvil"
   slides: Imágenes del juego
-  engine: "Jugabilidad del motor de partido de Football League con controles en pantalla"
+  engine: "Jugabilidad de Football League 2027 con el joystick y los botones de pase, pase al hueco, disparo y sprint"
   goal: "Haaland marca para el Manchester City en Football League"
   mancity: "Jugadores del Manchester City en Football League"
   menu: "Menú principal de Football League con jugadores del Manchester City"
@@ -319,8 +317,8 @@ coming:
 
 newsletter:
   kicker: "Newsletter"
-  title: "Entérate primero de FL27."
-  text: "Fechas de lanzamiento, novedades, eventos y recompensas exclusivas, directo a tu correo."
+  title: "Novedades, eventos y recompensas por email"
+  text: "Entérate de nuevas actualizaciones, eventos en vivo y recompensas del juego en cuanto estén disponibles."
   placeholder: "Tu correo electrónico"
   name_placeholder: "Tu nombre"
   button: "Suscribirme"
@@ -437,7 +435,7 @@ faq_page:
       title: "Football League 2027 (FL27)"
       items:
         - id: fl27-release-date
-          q: "¿Cuándo sale Football League 2027?"
+          q: "¿Ya ha salido Football League 2027?"
           a: "Football League 2027 (FL27) ya está disponible en iPhone y Android. Descárgalo gratis en la App Store o Google Play."
         - id: whats-new-in-fl27
           q: "¿Qué novedades trae Football League 2027?"
