@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 قادمة قريبًا"
+  eyebrow: "Football League 2027 متوفرة الآن"
   title_1: "كرة القدم"
   title_2a: "تعيش"
   title_2b: "هنا"
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "لغة تعليق" }
 
 ticker:
-  - "Football League 2027 · قريبًا"
+  - "Football League 2027 · متوفرة الآن"
   - "مجانية بالكامل"
   - "صفحة جديدة لوضع المسيرة"
   - "فعاليات مباشرة كل أسبوع"
@@ -271,7 +271,7 @@ faq:
   title: "أسئلة وأجوبة."
   items:
     - q: "متى تصدر Football League 2027؟"
-      a: "Football League 2027 (FL27) قادمة قريبًا على iPhone و Android. تابع صفحة الأخبار أو Instagram أو Discord، أو اشترك في النشرة البريدية، لتعرف لحظة إطلاقها."
+      a: "Football League 2027 (FL27) متوفرة الآن على iPhone و Android. حمّلها مجانًا من App Store أو Google Play."
     - q: "ما الجديد في Football League 2027؟"
       a: "تضع FL27 وضع المسيرة في الصدارة بمظهر جديد ودوريات تنافسية وأنظمة جديدة للتدريب والانتقالات ومكافآت نهاية الموسم. كما تقدّم فيزياء تصادم محسّنة وتصديات أدق لحارس المرمى وملعبًا جديدًا كليًا بأحدث المواصفات."
     - q: "هل FL27 هي نفسها Football League 2027؟"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "متى تصدر Football League 2027؟"
-          a: "Football League 2027 (FL27) قادمة قريبًا على iPhone و Android. تابع صفحة الأخبار أو Instagram أو Discord، أو اشترك في النشرة البريدية، لتعرف لحظة إطلاقها."
+          a: "Football League 2027 (FL27) متوفرة الآن على iPhone و Android. حمّلها مجانًا من App Store أو Google Play."
         - id: whats-new-in-fl27
           q: "ما الجديد في Football League 2027؟"
           a: "تضع FL27 وضع المسيرة في الصدارة بمظهر جديد ودوريات تنافسية وأنظمة جديدة للتدريب والانتقالات ومكافآت نهاية الموسم. كما تقدّم فيزياء تصادم محسّنة وتصديات أدق لحارس المرمى وملعبًا جديدًا كليًا بأحدث المواصفات."

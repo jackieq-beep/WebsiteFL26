@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 即将登场"
+  eyebrow: "Football League 2027 现已上线"
   title_1: "足球"
   title_2a: "就在"
   title_2b: "这里"
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "解说语言" }
 
 ticker:
-  - "Football League 2027 · 即将登场"
+  - "Football League 2027 · 现已上线"
   - "免费畅玩"
   - "生涯模式全新页面"
   - "每周实时活动"
@@ -271,7 +271,7 @@ faq:
   title: "你问，我答。"
   items:
     - q: "Football League 2027 什么时候上线？"
-      a: "Football League 2027（FL27）即将登陆 iPhone 和 Android。关注我们的新闻页面、Instagram 或 Discord，或订阅新闻通讯，第一时间获取上线消息。"
+      a: "Football League 2027（FL27）现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载。"
     - q: "Football League 2027 有哪些新内容？"
       a: "FL27 以生涯模式为核心，带来全新外观、激烈的联赛、全新的训练与转会系统和赛季末奖励。同时还有改进的碰撞物理效果、更精准的门将扑救，以及一座全新的顶尖球场。"
     - q: "FL27 和 Football League 2027 是同一款游戏吗？"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "Football League 2027 什么时候上线？"
-          a: "Football League 2027（FL27）即将登陆 iPhone 和 Android。关注我们的新闻页面、Instagram 或 Discord，或订阅新闻通讯，第一时间获取上线消息。"
+          a: "Football League 2027（FL27）现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载。"
         - id: whats-new-in-fl27
           q: "Football League 2027 有哪些新内容？"
           a: "FL27 以生涯模式为核心，带来全新外观、激烈的联赛、全新的训练与转会系统和赛季末奖励。同时还有改进的碰撞物理效果、更精准的门将扑救，以及一座全新的顶尖球场。"

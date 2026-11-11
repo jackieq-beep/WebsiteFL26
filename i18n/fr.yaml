@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 arrive bientôt"
+  eyebrow: "Football League 2027 disponible maintenant"
   title_1: "Le foot"
   title_2a: "vit"
   title_2b: "ici"
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "Langues de commentaire" }
 
 ticker:
-  - "Football League 2027 · Bientôt disponible"
+  - "Football League 2027 · Disponible maintenant"
   - "Gratuit"
   - "Nouvelle page mode Carrière"
   - "Événements live chaque semaine"
@@ -271,7 +271,7 @@ faq:
   title: "Vos questions, nos réponses."
   items:
     - q: "Quand sort Football League 2027 ?"
-      a: "Football League 2027 (FL27) arrive bientôt sur iPhone et Android. Suis notre page Actus, Instagram ou Discord, ou inscris-toi à la newsletter, pour être prévenu dès sa sortie."
+      a: "Football League 2027 (FL27) est disponible dès maintenant sur iPhone et Android. Télécharge-le gratuitement sur l'App Store ou Google Play."
     - q: "Quoi de neuf dans Football League 2027 ?"
       a: "FL27 met le mode Carrière au premier plan avec un nouveau look, des ligues compétitives, de nouveaux systèmes d'entraînement et de transferts et des récompenses de fin de saison. Il apporte aussi une physique des collisions améliorée, des arrêts du gardien affinés et un tout nouveau stade ultramoderne."
     - q: "FL27, c'est la même chose que Football League 2027 ?"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "Quand sort Football League 2027 ?"
-          a: "Football League 2027 (FL27) arrive bientôt sur iPhone et Android. Suis notre page Actus, Instagram ou Discord, ou inscris-toi à la newsletter, pour être prévenu dès sa sortie."
+          a: "Football League 2027 (FL27) est disponible dès maintenant sur iPhone et Android. Télécharge-le gratuitement sur l'App Store ou Google Play."
         - id: whats-new-in-fl27
           q: "Quoi de neuf dans Football League 2027 ?"
           a: "FL27 met le mode Carrière au premier plan avec un nouveau look, des ligues compétitives, de nouveaux systèmes d'entraînement et de transferts et des récompenses de fin de saison. Il apporte aussi une physique des collisions améliorée, des arrêts du gardien affinés et un tout nouveau stade ultramoderne."

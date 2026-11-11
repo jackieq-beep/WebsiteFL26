@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 coming soon"
+  eyebrow: "Football League 2027 out now"
   title_1: Football
   title_2a: Lives
   title_2b: Here
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "Commentary Languages" }
 
 ticker:
-  - Football League 2027 · Coming soon
+  - "Football League 2027 · Out now"
   - Free to play
   - "New Career Mode page"
   - Live events every week
@@ -271,7 +271,7 @@ faq:
   title: Questions, answered.
   items:
     - q: "When is Football League 2027 coming out?"
-      a: "Football League 2027 (FL27) is coming soon on iPhone and Android. Follow our News page, Instagram or Discord, or sign up to the newsletter, to hear the moment it launches."
+      a: "Football League 2027 (FL27) is out now on iPhone and Android. Download it free from the App Store or Google Play."
     - q: "What's new in Football League 2027?"
       a: "FL27 puts Career Mode at the centre with a fresh look, competitive leagues, new training and transfer systems and end-of-season rewards. It also brings improved collision physics, refined goalkeeper saves and a brand-new, state-of-the-art stadium."
     - q: "Is FL27 the same as Football League 2027?"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "When is Football League 2027 coming out?"
-          a: "Football League 2027 (FL27) is coming soon on iPhone and Android. Follow our News page, Instagram or Discord, or sign up to the newsletter, to hear the moment it launches."
+          a: "Football League 2027 (FL27) is out now on iPhone and Android. Download it free from the App Store or Google Play."
         - id: whats-new-in-fl27
           q: "What's new in Football League 2027?"
           a: "FL27 puts Career Mode at the centre with a fresh look, competitive leagues, new training and transfer systems and end-of-season rewards. It also brings improved collision physics, refined goalkeeper saves and a brand-new, state-of-the-art stadium."

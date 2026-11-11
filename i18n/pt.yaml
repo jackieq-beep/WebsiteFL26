@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 em breve"
+  eyebrow: "Football League 2027 já disponível"
   title_1: O futebol
   title_2a: vive
   title_2b: aqui
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "Idiomas de narração" }
 
 ticker:
-  - Football League 2027 · Em breve
+  - "Football League 2027 · Já disponível"
   - Grátis para jogar
   - "Nova página do Modo Carreira"
   - Eventos ao vivo toda semana
@@ -271,7 +271,7 @@ faq:
   title: Suas dúvidas, respondidas.
   items:
     - q: "Quando o Football League 2027 vai ser lançado?"
-      a: "O Football League 2027 (FL27) chega em breve ao iPhone e ao Android. Acompanhe a página de Notícias, o Instagram ou o Discord, ou assine a newsletter, para saber assim que for lançado."
+      a: "O Football League 2027 (FL27) já está disponível para iPhone e Android. Baixe grátis na App Store ou no Google Play."
     - q: "O que há de novo no Football League 2027?"
       a: "O FL27 coloca o Modo Carreira no centro, com visual renovado, ligas competitivas, novos sistemas de treino e transferências e recompensas de fim de temporada. Também traz física de colisão aprimorada, defesas de goleiro refinadas e um estádio novo de última geração."
     - q: "FL27 é a mesma coisa que Football League 2027?"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "Quando o Football League 2027 vai ser lançado?"
-          a: "O Football League 2027 (FL27) chega em breve ao iPhone e ao Android. Acompanhe a página de Notícias, o Instagram ou o Discord, ou assine a newsletter, para saber assim que for lançado."
+          a: "O Football League 2027 (FL27) já está disponível para iPhone e Android. Baixe grátis na App Store ou no Google Play."
         - id: whats-new-in-fl27
           q: "O que há de novo no Football League 2027?"
           a: "O FL27 coloca o Modo Carreira no centro, com visual renovado, ligas competitivas, novos sistemas de treino e transferências e recompensas de fim de temporada. Também traz física de colisão aprimorada, defesas de goleiro refinadas e um estádio novo de última geração."
