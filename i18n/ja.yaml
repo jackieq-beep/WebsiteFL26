@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 まもなく登場"
+  eyebrow: "Football League 2027 配信中"
   title_1: サッカーの
   title_2a: すべてが、
   title_2b: ここに。
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "実況言語" }
 
 ticker:
-  - Football League 2027 · まもなく登場
+  - "Football League 2027 · 配信中"
   - 基本プレイ無料
   - "キャリアモード新ページ"
   - 毎週ライブイベント開催
@@ -271,7 +271,7 @@ faq:
   title: よくある質問
   items:
     - q: "Football League 2027はいつリリースされますか？"
-      a: "Football League 2027（FL27）はiPhoneとAndroid向けにまもなく登場します。ニュースページ、Instagram、Discordをフォローするか、ニュースレターに登録して、リリース情報をいち早く受け取ってください。"
+      a: "Football League 2027（FL27）はiPhoneとAndroidで配信中です。App StoreまたはGoogle Playから無料でダウンロードできます。"
     - q: "Football League 2027の新要素は？"
       a: "FL27の主役はキャリアモード。新しい見た目、白熱のリーグ戦、新しいトレーニングと移籍システム、シーズン終了報酬が登場します。さらに、改良された衝突の物理挙動、磨きのかかったGKセーブ、最新鋭のまったく新しいスタジアムも加わります。"
     - q: "FL27とFootball League 2027は同じですか？"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "Football League 2027はいつリリースされますか？"
-          a: "Football League 2027（FL27）はiPhoneとAndroid向けにまもなく登場します。ニュースページ、Instagram、Discordをフォローするか、ニュースレターに登録して、リリース情報をいち早く受け取ってください。"
+          a: "Football League 2027（FL27）はiPhoneとAndroidで配信中です。App StoreまたはGoogle Playから無料でダウンロードできます。"
         - id: whats-new-in-fl27
           q: "Football League 2027の新要素は？"
           a: "FL27の主役はキャリアモード。新しい見た目、白熱のリーグ戦、新しいトレーニングと移籍システム、シーズン終了報酬が登場します。さらに、改良された衝突の物理挙動、磨きのかかったGKセーブ、最新鋭のまったく新しいスタジアムも加わります。"

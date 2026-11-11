@@ -22,7 +22,7 @@ nav:
 
 hero:
   eyebrow_brand: "Football League"
-  eyebrow: "Football League 2027 muy pronto"
+  eyebrow: "Football League 2027 ya disponible"
   title_1: El fútbol
   title_2a: vive
   title_2b: aquí
@@ -38,7 +38,7 @@ hero:
     - { value: "16", label: "Idiomas de narración" }
 
 ticker:
-  - Football League 2027 · Muy pronto
+  - "Football League 2027 · Ya disponible"
   - Gratis
   - "Nueva página del Modo Carrera"
   - Eventos en vivo cada semana
@@ -271,7 +271,7 @@ faq:
   title: Tus preguntas, respondidas.
   items:
     - q: "¿Cuándo sale Football League 2027?"
-      a: "Football League 2027 (FL27) llega muy pronto a iPhone y Android. Sigue nuestra página de Noticias, Instagram o Discord, o suscríbete a la newsletter, para enterarte en cuanto se lance."
+      a: "Football League 2027 (FL27) ya está disponible en iPhone y Android. Descárgalo gratis en la App Store o Google Play."
     - q: "¿Qué novedades trae Football League 2027?"
       a: "FL27 pone el Modo Carrera en el centro, con un aspecto renovado, ligas competitivas, nuevos sistemas de entrenamiento y fichajes y recompensas de fin de temporada. También trae física de colisiones mejorada, paradas de portero más pulidas y un estadio nuevo de última generación."
     - q: "¿FL27 es lo mismo que Football League 2027?"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "¿Cuándo sale Football League 2027?"
-          a: "Football League 2027 (FL27) llega muy pronto a iPhone y Android. Sigue nuestra página de Noticias, Instagram o Discord, o suscríbete a la newsletter, para enterarte en cuanto se lance."
+          a: "Football League 2027 (FL27) ya está disponible en iPhone y Android. Descárgalo gratis en la App Store o Google Play."
         - id: whats-new-in-fl27
           q: "¿Qué novedades trae Football League 2027?"
           a: "FL27 pone el Modo Carrera en el centro, con un aspecto renovado, ligas competitivas, nuevos sistemas de entrenamiento y fichajes y recompensas de fin de temporada. También trae física de colisiones mejorada, paradas de portero más pulidas y un estadio nuevo de última generación."
