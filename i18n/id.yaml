@@ -27,7 +27,7 @@ hero:
   title_2a: "Hidup"
   title_2b: "Di Sini"
   tagline: "Game global untuk semua."
-  body: "Football League masuk 10 besar game olahraga di lebih dari 30 pasar utama, dengan lebih dari 100 juta unduhan. Bangun skuad terbaikmu, tantang rival, dan main kapan pun di mana pun."
+  body: "Football League 2027 sudah tersedia, gratis di iPhone dan Android. Mode Karier musim ini menghadirkan liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim, dan kini kamu bisa melawan teman di dekatmu lewat PvP lokal."
   cta_primary: "Main Sekarang"
   cta_trailer: "Lihat gamenya"
   cta_explore: "Lihat gamenya"
@@ -39,32 +39,32 @@ hero:
 
 ticker:
   - "Football League 2027 · Sudah hadir"
-  - "Gratis dimainkan"
-  - "Halaman Mode Karier baru"
-  - "Event live setiap minggu"
-  - "Liga & piala"
-  - "Dibuat untuk hari pertandingan"
+  - "Gratis di iPhone & Android"
+  - "Liga kompetitif di Mode Karier"
+  - "Latihan & transfer baru"
+  - "PvP lokal bersama teman"
+  - "Tantangan harian"
+  - "Lisensi resmi Manchester City"
+  - "Komentar dalam 16 bahasa"
 
 engine:
-  kicker: "Sepak bola mobile generasi baru"
-  title_1: "Sepak bola realistis."
-  title_2: "Taktik mendalam."
-  intro: "AI cerdas, kontrol responsif, dan animasi mulus membuat Football League terasa seperti sepak bola sungguhan, di HP apa pun."
-  caption: "Cuplikan dalam game"
+  kicker: "Gameplay"
+  title: "Fisika lebih akurat, kiper lebih cerdas"
+  intro: "Di FL27, benturan antarpemain terasa lebih realistis dan kiper bereaksi lebih baik terhadap tendanganmu. Kontrolnya tetap sederhana: joystick dan empat tombol untuk umpan, umpan terobosan, tendangan, serta sprint & skill."
+  caption: "Gameplay FL27"
   points:
-    - { num: "01", title: "Mesin Pertandingan Dinamis", text: "AI cerdas, kontrol responsif, dan animasi mulus menghidupkan setiap laga, dari sentuhan pertama hingga peluit akhir." }
-    - { num: "02", title: "Gaya Taktik", text: "Gaya taktik baru dengan instruksi bermain masing-masing, jadi timmu bermain sesuai caramu berpikir." }
-    - { num: "03", title: "Bola Mati yang Lebih Baik", text: "Tendangan bebas yang lebih menantang dan realistis, plus penalti yang diseimbangkan ulang. Setiap bola mati adalah peluang." }
+    - { num: "01", title: "Fisika benturan", text: "Kontak antarpemain lebih realistis, dari adu bahu hingga sliding tackle." }
+    - { num: "02", title: "Penyelamatan kiper", text: "Penyelamatan kiper lebih halus, jadi butuh tendangan lebih baik untuk menaklukkannya." }
+    - { num: "03", title: "Tendangan bebas & penalti", text: "Tendangan bebas yang lebih menantang dan realistis, serta penalti yang diseimbangkan ulang." }
 
 modes:
-  kicker: "Baru di 2027"
-  title_1: "Setiap laga."
-  title_2: "Setiap panggung."
+  kicker: "Mode permainan"
+  title: "Mode Karier, dirombak"
   items:
-    - { img: u27-career.jpg, title: "Karier Tim", text: "Kelola klub: transfer, keuangan, target direksi, dan satu musim liga penuh." }
-    - { img: champions.jpg, title: "Liga & Piala", text: "Bertanding di liga dan piala dari seluruh dunia." }
+    - { img: "u27-career.jpg", title: "Karier Tim", text: "Naiki liga kompetitif, kembangkan pemain dengan sistem latihan baru, jual beli di pasar transfer yang dirombak, dan raih hadiah di akhir setiap musim." }
+    - { img: "champions.jpg", title: "Liga & Piala", text: "Liga klub dari Eropa, Amerika, Asia, dan Afrika, plus piala kontinental dan internasional." }
     - { img: u27-friendly.jpg, title: "Laga Persahabatan", text: "Pilih dua klub mana saja, tentukan jersey dan stadion, lalu kick-off." }
-    - { img: u27-penalty.jpg, title: "Tantangan & Hadiah", text: "Capai target di tantangan skill untuk memenangkan permata dan koin." }
+    - { img: "u27-penalty.jpg", title: "Tantangan harian", text: "Target singkat baru setiap hari. Capai targetnya untuk memenangkan permata dan koin." }
 
 clubs:
   kicker: "Lisensi resmi"
@@ -76,7 +76,7 @@ clubs:
 
 updates:
   kicker: "Update terbaru"
-  title: "Apa yang baru"
+  title: "Berita terbaru"
   all: "Semua berita"
   read: "Selengkapnya"
 
@@ -89,9 +89,9 @@ merch:
 
 download:
   kicker: "Gratis di iOS & Android"
-  title_1: "Gabung bersama 100 Jt+"
-  title_2: "pemain."
-  text: "Unduh Football League, game sepak bola gratis untuk iOS dan Android, dan tunjukkan kehebatanmu musim ini."
+  title_1: "FL27 sudah"
+  title_2: "hadir"
+  text: "Football League telah diunduh lebih dari 100 juta kali dan masuk 10 besar game olahraga di lebih dari 30 pasar. FL27 gratis di App Store dan Google Play."
   developer: "Dikembangkan oleh Mobile Soccer"
   gp_small: "Dapatkan di"
   gp_big: "Google Play"
@@ -268,9 +268,9 @@ news:
 
 faq:
   kicker: "FAQ"
-  title: "Pertanyaan, terjawab."
+  title: "Pertanyaan umum"
   items:
-    - q: "Kapan Football League 2027 rilis?"
+    - q: "Apakah Football League 2027 sudah rilis?"
       a: "Football League 2027 (FL27) sudah tersedia di iPhone dan Android. Unduh gratis di App Store atau Google Play."
     - q: "Apa yang baru di Football League 2027?"
       a: "FL27 menjadikan Mode Karier sebagai pusatnya dengan tampilan baru, liga kompetitif, sistem latihan dan transfer baru, serta hadiah akhir musim. FL27 juga menghadirkan fisika tabrakan yang lebih baik, penyelamatan kiper yang lebih halus, dan stadion baru yang canggih."
@@ -303,7 +303,7 @@ alts:
   hoodie: "Hoodie Football League"
   hero: "Football League 2027, game sepak bola mobile"
   slides: "Gambar game"
-  engine: "Gameplay mesin pertandingan Football League dengan kontrol di layar"
+  engine: "Gameplay Football League 2027 dengan joystick dan tombol umpan, umpan terobosan, tendang, serta sprint"
   goal: "Haaland mencetak gol untuk Manchester City di Football League"
   mancity: "Pemain Manchester City di Football League"
   menu: "Menu utama Football League dengan pemain Manchester City"
@@ -319,8 +319,8 @@ coming:
 
 newsletter:
   kicker: "Newsletter"
-  title: "Dapatkan kabar FL27 lebih dulu."
-  text: "Tanggal rilis, fitur baru, event, dan hadiah eksklusif, langsung ke email kamu."
+  title: "Update, event, dan hadiah lewat email"
+  text: "Dapatkan kabar update baru, event langsung, dan hadiah dalam game begitu dirilis."
   placeholder: "Alamat email kamu"
   name_placeholder: "Nama depan kamu"
   button: "Daftar"
@@ -437,7 +437,7 @@ faq_page:
       title: "Football League 2027 (FL27)"
       items:
         - id: fl27-release-date
-          q: "Kapan Football League 2027 rilis?"
+          q: "Apakah Football League 2027 sudah rilis?"
           a: "Football League 2027 (FL27) sudah tersedia di iPhone dan Android. Unduh gratis di App Store atau Google Play."
         - id: whats-new-in-fl27
           q: "Apa yang baru di Football League 2027?"

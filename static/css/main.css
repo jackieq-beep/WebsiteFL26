@@ -70,6 +70,8 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   font-size: clamp(36px, 5.4vw, 68px); line-height: .95; letter-spacing: -.02em;
 }
 .display-xl { font-size: clamp(52px, 9vw, 120px); }
+/* Sentence-case headlines: used on most sections so the page doesn't shout in capitals everywhere */
+.display-sentence { text-transform: none; font-size: clamp(32px, 4.4vw, 56px); line-height: 1.04; letter-spacing: -.025em; max-width: 18ch; }
 .accent-pink { color: var(--pink); }
 .accent-green { color: var(--green); }
 .accent-cyan { color: var(--cyan); }
