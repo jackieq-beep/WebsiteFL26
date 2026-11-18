@@ -65,7 +65,7 @@ def build_images():
                 if not cached.exists():
                     th = round(h * tw / w)
                     frame = im.convert("RGBA" if has_alpha else "RGB").resize((tw, th), Image.LANCZOS)
-                    frame.save(cached, "WEBP", quality=80, method=6)
+                    frame.save(cached, "WEBP", quality=90, method=6)
                 shutil.copy2(cached, out_dir / name)
                 variants.append((tw, name))
         catalog[src.name] = {"w": w, "h": h, "variants": variants}
