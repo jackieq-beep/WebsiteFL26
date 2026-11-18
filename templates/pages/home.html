@@ -58,7 +58,7 @@
       <p class="lead">{{ t.engine.intro }}</p>
     </div>
     <figure class="feature-shot">
-      {{ img('fl27-attack.jpg', t.alts.engine, '(min-width: 1240px) 1200px, 100vw') }}
+      {{ img('fl27-box.jpg', t.alts.engine, '(min-width: 1240px) 1200px, 100vw') }}
       <figcaption><span class="tag-dot"></span>{{ t.engine.caption }}</figcaption>
     </figure>
     <ol class="points" role="list">
@@ -116,7 +116,7 @@
     </div>
     <ul class="news-grid" role="list">
       {# Skip posts whose picture is already shown elsewhere on this page #}
-      {% set used = ['license-mancity.jpg', 'u27-goal.jpg', 'u27-main-menu.jpg', 'fl27-attack.jpg', 'champions.jpg'] + (site.hero_slides | map(attribute='img') | list) %}
+      {% set used = ['license-mancity.jpg', 'u27-goal.jpg', 'u27-main-menu.jpg', 'fl27-box.jpg', 'champions.jpg'] + (site.hero_slides | map(attribute='img') | list) %}
       {% for post in (news | rejectattr('image', 'in', used) | list)[:3] %}
       {{ news_card(post, t, url, img, icon) }}
       {% endfor %}
