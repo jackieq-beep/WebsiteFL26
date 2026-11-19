@@ -1,8 +1,8 @@
 # نصوص الموقع باللغة العربية.
 
 meta:
-  home_title: "Football League 2027 – لعبة كرة قدم مجانية | iOS و Android"
-  home_description: "Football League 2027: لعبة كرة قدم مجانية لأجهزة iPhone و Android. من أفضل 10 ألعاب رياضية في 30+ سوقًا، و100 مليون+ تنزيل، وترخيص رسمي لمانشستر سيتي."
+  home_title: "FL27 | Football League 2027 – لعبة كرة قدم مجانية"
+  home_description: "FL27 | Football League 2027: لعبة كرة قدم مجانية لأجهزة iPhone و Android. من أفضل 10 ألعاب رياضية في 30+ سوقًا، و100 مليون+ تنزيل، وترخيص رسمي لمانشستر سيتي."
 
 nav:
   home: "الرئيسية"
@@ -179,8 +179,8 @@ cookies:
   always_on: "مفعّلة دائمًا"
 
 game_page:
-  meta_title: "Football League 2027 – ما الجديد في لعبة كرة القدم للجوال"
-  meta_description: "Football League 2027 (FL27): وضع مسيرة جديد مع دوريات وتدريب وانتقالات، ومباريات PvP محلية مع الأصدقاء، وفيزياء وتصديات أفضل، وملعب جديد."
+  meta_title: "FL27 | Football League 2027 – ما الجديد في اللعبة"
+  meta_description: "FL27 | Football League 2027: وضع مسيرة جديد مع دوريات وتدريب وانتقالات، ومباريات PvP محلية مع الأصدقاء، وفيزياء وتصديات أفضل، وملعب جديد."
   kicker: "ما الجديد هذا الموسم"
   title_1: "الموسم الجديد"
   title_2: "يبدأ هنا."
@@ -243,7 +243,7 @@ contact_page:
   email_cta: "أرسل بريدًا إلكترونيًا"
 
 news:
-  meta_title: "أخبار Football League والتحديثات"
+  meta_title: "أخبار FL27 والتحديثات | Football League"
   meta_description: "تحديثات لعبة Football League والفعاليات المباشرة وتراخيص الأندية الجديدة وإعلانات لعبة كرة القدم على الجوال."
   kicker: "الأخبار والتحديثات"
   title_1: "آخر الأخبار"
@@ -434,7 +434,7 @@ faq_page:
           q: "ما الدوريات والكؤوس المتاحة في Football League؟"
           a: "يمكنك اللعب في دوريات أندية من أوروبا والأمريكتين وآسيا وأفريقيا، أو إنشاء دوري مخصّص خاص بك. وهناك أيضًا كؤوس قارية للأندية وكؤوس دولية للمنتخبات."
     - id: fl27
-      title: "Football League 2027 (FL27)"
+      title: "FL27 | Football League 2027"
       items:
         - id: fl27-release-date
           q: "هل صدرت Football League 2027؟"

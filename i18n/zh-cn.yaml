@@ -1,8 +1,8 @@
 # 网站简体中文文本
 
 meta:
-  home_title: "Football League 2027 – 免费手机足球游戏 | iOS & Android"
-  home_description: "Football League 2027：适用于 iPhone 和 Android 的免费足球游戏。在 30 多个市场跻身体育游戏前 10，下载量超 1 亿，官方授权 Manchester City。"
+  home_title: "FL27 | Football League 2027 – 免费手机足球游戏"
+  home_description: "FL27 | Football League 2027：适用于 iPhone 和 Android 的免费足球游戏。在 30 多个市场跻身体育游戏前 10，下载量超 1 亿，官方授权 Manchester City。"
 
 nav:
   home: "首页"
@@ -179,8 +179,8 @@ cookies:
   always_on: "始终开启"
 
 game_page:
-  meta_title: "Football League 2027 (FL27) – 手机足球游戏全新内容"
-  meta_description: "Football League 2027（FL27）：全新生涯模式，包含联赛、训练与转会，与好友本地 PvP，更真实的物理效果与门将扑救，以及全新球场。"
+  meta_title: "FL27 | Football League 2027 – 全新内容"
+  meta_description: "FL27 | Football League 2027：全新生涯模式，包含联赛、训练与转会，与好友本地 PvP，更真实的物理效果与门将扑救，以及全新球场。"
   kicker: "本赛季新内容"
   title_1: "新赛季"
   title_2: "从这里开始。"
@@ -243,7 +243,7 @@ contact_page:
   email_cta: "发送邮件"
 
 news:
-  meta_title: "Football League 新闻与更新"
+  meta_title: "FL27 新闻与更新 | Football League"
   meta_description: "Football League 手机足球游戏的版本更新、实时活动、新俱乐部授权及官方公告。"
   kicker: "新闻与更新"
   title_1: "来自球场的"
@@ -434,7 +434,7 @@ faq_page:
           q: "Football League 有哪些联赛和杯赛？"
           a: "你可以参加来自欧洲、美洲、亚洲和非洲的俱乐部联赛，也可以创建自己的自定义联赛。此外还有各大洲的俱乐部杯赛，以及国家队国际杯赛。"
     - id: fl27
-      title: "Football League 2027（FL27）"
+      title: "FL27 | Football League 2027"
       items:
         - id: fl27-release-date
           q: "Football League 2027 上线了吗？"
