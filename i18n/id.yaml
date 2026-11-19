@@ -1,8 +1,8 @@
 # Teks bahasa Indonesia untuk situs web.
 
 meta:
-  home_title: "Football League 2027 – Sepak Bola Gratis | iOS & Android"
-  home_description: "Football League 2027: game sepak bola gratis untuk iPhone dan Android. 10 besar game olahraga di 30+ pasar, 100 jt+ unduhan, lisensi resmi Manchester City."
+  home_title: "FL27 | Football League 2027 – Game Sepak Bola Gratis"
+  home_description: "FL27 | Football League 2027: game sepak bola gratis untuk iPhone dan Android. 10 besar game olahraga di 30+ pasar, 100 jt+ unduhan, lisensi resmi Manchester City."
 
 nav:
   home: "Beranda"
@@ -179,8 +179,8 @@ cookies:
   always_on: "Selalu aktif"
 
 game_page:
-  meta_title: "Football League 2027 – Fitur Baru Game Sepak Bola Mobile"
-  meta_description: "Football League 2027 (FL27): Mode Karier baru dengan liga, latihan dan transfer, PvP lokal bareng teman, fisika dan penyelamatan kiper lebih baik, stadion baru."
+  meta_title: "FL27 | Football League 2027 – Fitur Baru"
+  meta_description: "FL27 | Football League 2027: Mode Karier baru dengan liga, latihan dan transfer, PvP lokal bareng teman, fisika dan penyelamatan kiper lebih baik, stadion baru."
   kicker: "Yang baru musim ini"
   title_1: "Musim baru"
   title_2: "dimulai di sini."
@@ -243,7 +243,7 @@ contact_page:
   email_cta: "Kirim email"
 
 news:
-  meta_title: "Berita Football League – Update dan Event"
+  meta_title: "Berita FL27 – Update dan Event | Football League"
   meta_description: "Update game, event live, lisensi klub baru, dan pengumuman dari game sepak bola mobile Football League."
   kicker: "Berita & update"
   title_1: "Kabar terbaru"
@@ -434,7 +434,7 @@ faq_page:
           q: "Liga dan piala apa saja yang bisa dimainkan di Football League?"
           a: "Kamu bisa memainkan liga klub dari Eropa, Amerika, Asia, dan Afrika, atau membuat liga kustom sendiri. Ada juga piala klub tingkat benua dan piala internasional untuk tim nasional."
     - id: fl27
-      title: "Football League 2027 (FL27)"
+      title: "FL27 | Football League 2027"
       items:
         - id: fl27-release-date
           q: "Apakah Football League 2027 sudah rilis?"

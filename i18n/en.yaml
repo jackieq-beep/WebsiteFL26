@@ -1,8 +1,8 @@
 # English text for the website. Other languages copy this file and translate the values.
 
 meta:
-  home_title: "Football League 2027 – Free Soccer Game for iOS & Android"
-  home_description: "Football League 2027: the free soccer game for iPhone & Android. Top 10 sports game in 30+ markets, 100M+ downloads, officially licensed Manchester City."
+  home_title: "FL27 | Football League 2027 – Free Mobile Soccer Game"
+  home_description: "FL27 | Football League 2027: the free soccer game for iPhone & Android. Top 10 sports game in 30+ markets, 100M+ downloads, officially licensed Manchester City."
 
 nav:
   home: Home
@@ -179,8 +179,8 @@ cookies:
   always_on: Always on
 
 game_page:
-  meta_title: "Football League 2027 – What's New in the Mobile Soccer Game"
-  meta_description: "Football League 2027 (FL27): new Career Mode with leagues, training and transfers, local PvP with friends, better physics and keeper saves, and a new stadium."
+  meta_title: "FL27 | Football League 2027 – What's New"
+  meta_description: "FL27 | Football League 2027: new Career Mode with leagues, training and transfers, local PvP with friends, better physics and keeper saves, and a new stadium."
   kicker: "What's new this season"
   title_1: The new season
   title_2: starts here.
@@ -243,7 +243,7 @@ contact_page:
   email_cta: Send an email
 
 news:
-  meta_title: "Football League News & Updates"
+  meta_title: "FL27 News & Updates | Football League"
   meta_description: "Football League game updates, live events, new club licenses and announcements from the mobile soccer game."
   kicker: "News & updates"
   title_1: Latest
@@ -434,7 +434,7 @@ faq_page:
           q: "Which leagues and cups can you play in Football League?"
           a: "You can play club leagues from Europe, the Americas, Asia and Africa, or set up your own custom league. There are also continental club cups and international cups for national teams."
     - id: fl27
-      title: "Football League 2027 (FL27)"
+      title: "FL27 | Football League 2027"
       items:
         - id: fl27-release-date
           q: "Is Football League 2027 out?"

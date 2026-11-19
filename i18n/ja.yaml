@@ -1,8 +1,8 @@
 # ウェブサイトの日本語テキスト
 
 meta:
-  home_title: "Football League 2027 – 無料モバイルサッカーゲーム | iOS & Android"
-  home_description: "Football League 2027：iPhone・Android向け無料サッカーゲーム。30以上の主要市場でスポーツゲームのトップ10、1億ダウンロード突破、マンチェスター・シティ公式ライセンス。"
+  home_title: "FL27 | Football League 2027 – 無料モバイルサッカーゲーム"
+  home_description: "FL27 | Football League 2027：iPhone・Android向け無料サッカーゲーム。30以上の主要市場でスポーツゲームのトップ10、1億ダウンロード突破、マンチェスター・シティ公式ライセンス。"
 
 nav:
   home: ホーム
@@ -179,8 +179,8 @@ cookies:
   always_on: 常に有効
 
 game_page:
-  meta_title: "Football League 2027 (FL27) – モバイルサッカーゲームの新要素"
-  meta_description: "Football League 2027（FL27）：リーグ、トレーニング、移籍が加わった新キャリアモード、友だちとのローカルPvP、進化した物理挙動とGKセーブ、新スタジアム。"
+  meta_title: "FL27 | Football League 2027 – 新要素"
+  meta_description: "FL27 | Football League 2027：リーグ、トレーニング、移籍が加わった新キャリアモード、友だちとのローカルPvP、進化した物理挙動とGKセーブ、新スタジアム。"
   kicker: "今シーズンの新要素"
   title_1: 新シーズンは
   title_2: ここから始まる。
@@ -243,7 +243,7 @@ contact_page:
   email_cta: メールを送る
 
 news:
-  meta_title: "Football League ニュース・アップデート"
+  meta_title: "FL27 ニュース・アップデート | Football League"
   meta_description: "モバイルサッカーゲームFootball Leagueのアップデート、ライブイベント、新クラブライセンス、お知らせ。"
   kicker: "ニュース & アップデート"
   title_1: ピッチから
@@ -434,7 +434,7 @@ faq_page:
           q: "Football Leagueではどんなリーグやカップ戦を遊べますか？"
           a: "ヨーロッパ、南北アメリカ、アジア、アフリカのクラブリーグに参加したり、オリジナルのカスタムリーグを作ったりできます。大陸別のクラブカップ戦や、代表チームの国際カップ戦もあります。"
     - id: fl27
-      title: "Football League 2027（FL27）"
+      title: "FL27 | Football League 2027"
       items:
         - id: fl27-release-date
           q: "Football League 2027はもう配信されていますか？"

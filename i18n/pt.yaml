@@ -1,8 +1,8 @@
 # Textos do site em português (Brasil).
 
 meta:
-  home_title: "Football League 2027 – Futebol Grátis | iOS e Android"
-  home_description: "Football League 2027: futebol grátis para iPhone e Android. Top 10 de esportes em 30+ mercados, 100 mi+ de downloads e licença oficial do Manchester City."
+  home_title: "FL27 | Football League 2027 – Jogo de Futebol Grátis"
+  home_description: "FL27 | Football League 2027: futebol grátis para iPhone e Android. Top 10 de esportes em 30+ mercados, 100 mi+ de downloads e licença oficial do Manchester City."
 
 nav:
   home: Início
@@ -179,8 +179,8 @@ cookies:
   always_on: Sempre ativos
 
 game_page:
-  meta_title: "Football League 2027 – Novidades do Jogo de Futebol Mobile"
-  meta_description: "Football League 2027 (FL27): novo Modo Carreira com ligas, treino e transferências, PvP local com amigos, física e defesas melhores e um estádio novo."
+  meta_title: "FL27 | Football League 2027 – Novidades do Jogo"
+  meta_description: "FL27 | Football League 2027: novo Modo Carreira com ligas, treino e transferências, PvP local com amigos, física e defesas melhores e um estádio novo."
   kicker: "Novidades desta temporada"
   title_1: A nova temporada
   title_2: começa aqui.
@@ -243,7 +243,7 @@ contact_page:
   email_cta: Enviar e-mail
 
 news:
-  meta_title: "Notícias do Football League"
+  meta_title: "Notícias do FL27 | Football League"
   meta_description: "Atualizações, eventos ao vivo, novas licenças de clubes e anúncios do Football League, o jogo de futebol para celular."
   kicker: "Notícias e atualizações"
   title_1: Direto
@@ -434,7 +434,7 @@ faq_page:
           q: "Quais ligas e copas dá para jogar no Football League?"
           a: "Você pode jogar ligas de clubes da Europa, das Américas, da Ásia e da África, ou criar sua própria liga personalizada. Também há copas continentais de clubes e copas internacionais de seleções."
     - id: fl27
-      title: "Football League 2027 (FL27)"
+      title: "FL27 | Football League 2027"
       items:
         - id: fl27-release-date
           q: "O Football League 2027 já foi lançado?"
