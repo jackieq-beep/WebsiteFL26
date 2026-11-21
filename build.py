@@ -309,7 +309,7 @@ def main():
     # llms.txt: a plain-text summary of the site for AI search tools (https://llmstxt.org)
     root = f"{site['site_url']}{base}"
     page_notes = {
-        "game": f"What's new in {site['name']} ({site['short_name']})",
+        "game": f"What's new in {site['short_name']}, the 2027 edition of {site['brand']}",
         "news": "Updates, live events and announcements",
         "shop": "Official Football League merchandise",
         "media": "Press kit, logos and screenshots",
@@ -319,7 +319,7 @@ def main():
     lines = [
         f"# {site['name']}", "",
         f"> {english['meta']['home_description']}", "",
-        f"{site['name']} ({site['short_name']}) is the 2027 edition of {site['brand']}, a free mobile soccer game "
+        f"{site['short_name']} is {site['name']}, the 2027 edition of {site['brand']}, a free mobile soccer game "
         f"for iPhone, iPad and Android, developed and published by {site['company']}.", "",
         "## Main pages", "",
         f"- [Home]({root}/): {english['meta']['home_title']}",
