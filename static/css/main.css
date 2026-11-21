@@ -236,6 +236,8 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   display: flex; flex-direction: column;
 }
 .hero-title em { font-style: normal; color: var(--pink); }
+/* The label and headline together form the h1; the wrapper adds no box of its own */
+.hero-heading { display: contents; font: inherit; }
 /* Hero logo lockup: wordmark | year, the brand leads the page */
 .hero-lockup { display: flex; align-items: center; gap: clamp(14px, 2vw, 28px); margin-bottom: clamp(18px, 2.4vw, 26px); }
 .hero-lockup-word { height: clamp(54px, 7vw, 104px); width: auto; }
@@ -546,9 +548,9 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 @keyframes hero-zoom { from { transform: scale(1.14); } to { transform: scale(1); } }
 [dir="rtl"] .hero-img { animation-name: hero-zoom-rtl; }
 @keyframes hero-zoom-rtl { from { transform: scaleX(-1) scale(1.14); } to { transform: scaleX(-1) scale(1); } }
-.js .hero-inner > *, .js .hero-title > span { opacity: 0; transform: translateY(40px); }
+.js .hero-inner > *, .js .hero-heading > *, .js .hero-title > span { opacity: 0; transform: translateY(40px); }
 .js .hero-title > span { display: block; clip-path: inset(0 0 100% 0); }
-.is-loaded .hero-inner > *, .is-loaded .hero-title > span { animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+.is-loaded .hero-inner > *, .is-loaded .hero-heading > *, .is-loaded .hero-title > span { animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
 .is-loaded .hero-title > span { animation-name: rise-mask; }
 .is-loaded .hero-kicker { animation-delay: .15s; }
 .is-loaded .hero-title { opacity: 1; transform: none; animation: none; }
@@ -590,7 +592,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 .mode-card:hover, .news-card a:hover { box-shadow: 0 24px 50px -24px rgba(255, 0, 85, .45); }
 
 @media (prefers-reduced-motion: reduce) {
-  .js .hero-inner > *, .js .hero-title > span { opacity: 1 !important; transform: none !important; clip-path: none !important; }
+  .js .hero-inner > *, .js .hero-heading > *, .js .hero-title > span { opacity: 1 !important; transform: none !important; clip-path: none !important; }
   .ticker-track { animation: none; }
 }
 

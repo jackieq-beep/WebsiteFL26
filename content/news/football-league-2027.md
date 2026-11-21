@@ -1,5 +1,5 @@
 ---
-title: "Football League 2027 revealed"
+title: "FL27 revealed: first look at Football League 2027"
 section: announcements
 date: 2026-10-26
 layout: press

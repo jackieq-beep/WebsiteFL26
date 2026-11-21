@@ -1,5 +1,5 @@
 ---
-title: "Football League 2027 revealed at The Mobile Premiere 2026"
+title: "FL27 at The Mobile Premiere 2026: Football League 2027 revealed"
 section: announcements
 date: 2026-10-30
 image: the-mobile-premiere-2026.png
