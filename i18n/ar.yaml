@@ -23,7 +23,7 @@ nav:
 hero:
   eyebrow_brand: "Football League"
   eyebrow: "Football League 2027 متوفرة الآن"
-  title_1: "كرة القدم"
+  title_1: "FL27"
   title_2a: "تعيش"
   title_2b: "هنا"
   tagline: "لعبة عالمية للجميع."
@@ -184,7 +184,7 @@ game_page:
   kicker: "ما الجديد هذا الموسم"
   title_1: "الموسم الجديد"
   title_2: "يبدأ هنا."
-  text: "تضع Football League 2027 (FL27) وضع المسيرة في الصدارة، مع دوريات تنافسية وأنظمة جديدة للتدريب والانتقالات ومكافآت نهاية الموسم. إضافة إلى مباريات PvP محلية مع الأصدقاء، وفيزياء محسّنة، وتصديات أدق لحارس المرمى، وملعب جديد كليًا."
+  text: "تضع FL27 وضع المسيرة في الصدارة، مع دوريات تنافسية وأنظمة جديدة للتدريب والانتقالات ومكافآت نهاية الموسم. وتقدّم Football League 2027 أيضًا مباريات PvP محلية مع الأصدقاء، وفيزياء محسّنة، وتصديات أدق لحارس المرمى، وملعبًا جديدًا كليًا."
   facts_title: "Football League 2027 في لمحة"
   facts:
     - { label: "المنصات", value: "iPhone وiPad وAndroid" }
@@ -271,7 +271,7 @@ faq:
   title: "أسئلة شائعة"
   items:
     - q: "هل صدرت Football League 2027؟"
-      a: "Football League 2027 (FL27) متوفرة الآن على iPhone و Android. حمّلها مجانًا من App Store أو Google Play."
+      a: "FL27 متوفرة الآن على iPhone و Android. حمّل Football League 2027 مجانًا من App Store أو Google Play."
     - q: "ما الجديد في Football League 2027؟"
       a: "تضع FL27 وضع المسيرة في الصدارة بمظهر جديد ودوريات تنافسية وأنظمة جديدة للتدريب والانتقالات ومكافآت نهاية الموسم. كما تقدّم فيزياء تصادم محسّنة وتصديات أدق لحارس المرمى وملعبًا جديدًا كليًا بأحدث المواصفات."
     - q: "هل FL27 هي نفسها Football League 2027؟"
@@ -390,7 +390,7 @@ faq_page:
       items:
         - id: what-is-football-league
           q: "ما هي Football League؟"
-          a: "Football League لعبة كرة قدم مجانية لأجهزة iPhone وiPad وهواتف وأجهزة Android اللوحية، تطوّرها وتنشرها شركة Mobile Soccer. تجاوزت تنزيلاتها 100 مليون، وهي من بين أفضل 10 ألعاب رياضية في أكثر من 30 سوقًا. وFootball League 2027 (FL27) هي إصدار 2027 من اللعبة."
+          a: "Football League لعبة كرة قدم مجانية لأجهزة iPhone وiPad وهواتف وأجهزة Android اللوحية، تطوّرها وتنشرها شركة Mobile Soccer. تجاوزت تنزيلاتها 100 مليون، وهي من بين أفضل 10 ألعاب رياضية في أكثر من 30 سوقًا. وإصدار 2027 من اللعبة هو Football League 2027، المعروفة باسم FL27."
         - id: is-football-league-free
           q: "هل Football League مجانية؟"
           a: "نعم. يمكن تنزيل Football League ولعبها مجانًا على iPhone وiPad وAndroid. تتوفر مشتريات اختيارية داخل اللعبة، مثل حزم العملات وأطقم الأندية الرسمية وعملية شراء لمرة واحدة لإزالة الإعلانات، لكنك لست بحاجة إلى شراء أي شيء لتلعب."
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "هل صدرت Football League 2027؟"
-          a: "Football League 2027 (FL27) متوفرة الآن على iPhone و Android. حمّلها مجانًا من App Store أو Google Play."
+          a: "FL27 متوفرة الآن على iPhone و Android. حمّل Football League 2027 مجانًا من App Store أو Google Play."
         - id: whats-new-in-fl27
           q: "ما الجديد في Football League 2027؟"
           a: "تضع FL27 وضع المسيرة في الصدارة بمظهر جديد ودوريات تنافسية وأنظمة جديدة للتدريب والانتقالات ومكافآت نهاية الموسم. كما تقدّم فيزياء تصادم محسّنة وتصديات أدق لحارس المرمى وملعبًا جديدًا كليًا بأحدث المواصفات."

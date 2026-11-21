@@ -23,7 +23,7 @@ nav:
 hero:
   eyebrow_brand: "Football League"
   eyebrow: "Football League 2027 现已上线"
-  title_1: "足球"
+  title_1: "FL27"
   title_2a: "就在"
   title_2b: "这里"
   tagline: "属于每个人的全球足球游戏。"
@@ -184,7 +184,7 @@ game_page:
   kicker: "本赛季新内容"
   title_1: "新赛季"
   title_2: "从这里开始。"
-  text: "Football League 2027（FL27）以生涯模式为核心，带来激烈的联赛、全新的训练与转会系统，以及赛季末奖励。还有与好友的本地 PvP、升级的物理效果、更精准的门将扑救和一座全新球场。"
+  text: "FL27 以生涯模式为核心，带来激烈的联赛、全新的训练与转会系统，以及赛季末奖励。Football League 2027 还带来与好友的本地 PvP、升级的物理效果、更精准的门将扑救和一座全新球场。"
   facts_title: "Football League 2027 一览"
   facts:
     - { label: "平台", value: "iPhone、iPad 和 Android" }
@@ -271,7 +271,7 @@ faq:
   title: "常见问题"
   items:
     - q: "Football League 2027 上线了吗？"
-      a: "Football League 2027（FL27）现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载。"
+      a: "FL27 现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载 Football League 2027。"
     - q: "Football League 2027 有哪些新内容？"
       a: "FL27 以生涯模式为核心，带来全新外观、激烈的联赛、全新的训练与转会系统和赛季末奖励。同时还有改进的碰撞物理效果、更精准的门将扑救，以及一座全新的顶尖球场。"
     - q: "FL27 和 Football League 2027 是同一款游戏吗？"
@@ -390,7 +390,7 @@ faq_page:
       items:
         - id: what-is-football-league
           q: "Football League 是什么游戏？"
-          a: "Football League 是一款适用于 iPhone、iPad 以及 Android 手机和平板的免费足球游戏，由 Mobile Soccer 开发并发行。游戏下载量超过 1 亿次，并在 30 多个市场跻身体育游戏前 10 名。Football League 2027（FL27）是其 2027 版本。"
+          a: "Football League 是一款适用于 iPhone、iPad 以及 Android 手机和平板的免费足球游戏，由 Mobile Soccer 开发并发行。游戏下载量超过 1 亿次，并在 30 多个市场跻身体育游戏前 10 名。其 2027 版本为 Football League 2027，简称 FL27。"
         - id: is-football-league-free
           q: "Football League 是免费的吗？"
           a: "是的。Football League 可在 iPhone、iPad 和 Android 上免费下载和游玩。游戏提供可选的应用内购买，例如金币包、官方俱乐部球衣，以及一次性购买即可去除广告的选项，但无需购买任何内容也能游玩。"
@@ -438,7 +438,7 @@ faq_page:
       items:
         - id: fl27-release-date
           q: "Football League 2027 上线了吗？"
-          a: "Football League 2027（FL27）现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载。"
+          a: "FL27 现已登陆 iPhone 和 Android。前往 App Store 或 Google Play 免费下载 Football League 2027。"
         - id: whats-new-in-fl27
           q: "Football League 2027 有哪些新内容？"
           a: "FL27 以生涯模式为核心，带来全新外观、激烈的联赛、全新的训练与转会系统和赛季末奖励。同时还有改进的碰撞物理效果、更精准的门将扑救，以及一座全新的顶尖球场。"
