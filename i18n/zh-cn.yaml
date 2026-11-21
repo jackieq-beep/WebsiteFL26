@@ -332,7 +332,7 @@ newsletter:
   sending: "提交中…"
 
 media_page:
-  meta_title: "Football League 媒体资料与新闻"
+  meta_title: "FL27 媒体资料与新闻 | Football League"
   meta_description: "Football League 新闻资料包：游戏信息、官方标志、截图与媒体联系方式。品牌可通过 Mobile Soccer Media 在游戏中投放广告。"
   kicker: "媒体"
   title_1: "媒体与"
@@ -369,7 +369,7 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "Football League 常见问题 – 免费足球手游 | iPhone 和 Android"
+  meta_title: "FL27 常见问题 – Football League 2027 | iPhone 和 Android"
   meta_description: "关于 Football League 免费足球手游的解答：和好友本地 PvP、手柄支持、球队、游戏模式以及 FL27。"
   kicker: "常见问题"
   title_1: "你问，"

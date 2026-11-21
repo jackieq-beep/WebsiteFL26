@@ -332,7 +332,7 @@ newsletter:
   sending: "Enviando…"
 
 media_page:
-  meta_title: "Football League – Kit de imprensa e mídia"
+  meta_title: "FL27 – Kit de imprensa e mídia | Football League"
   meta_description: "Kit de imprensa do Football League: dados do jogo, logos oficiais, capturas e contato de imprensa. Anuncie no jogo com a Mobile Soccer Media."
   kicker: "Mídia"
   title_1: "Imprensa e"
@@ -369,7 +369,7 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "FAQ do Football League – Jogo de futebol grátis para iPhone e Android"
+  meta_title: "FAQ do FL27 – Football League 2027 para iPhone e Android"
   meta_description: "Respostas sobre o Football League, o jogo de futebol grátis para iPhone e Android: PvP local com amigos, controles, times, modos de jogo e FL27."
   kicker: "Perguntas frequentes"
   title_1: "Suas dúvidas,"

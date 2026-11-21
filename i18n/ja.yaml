@@ -332,7 +332,7 @@ newsletter:
   sending: "送信中…"
 
 media_page:
-  meta_title: "Football League プレスキット・メディア"
+  meta_title: "FL27 プレスキット・メディア | Football League"
   meta_description: "Football League のプレスキット：ゲーム概要、公式ロゴ、スクリーンショット、プレス窓口。Mobile Soccer Media でゲーム内広告も出稿できます。"
   kicker: "メディア"
   title_1: "プレス＆"
@@ -369,7 +369,7 @@ media_page:
 
 # Full FAQ page (/faq/). Each answer is written to be quoted on its own by search engines and AI tools.
 faq_page:
-  meta_title: "Football League よくある質問 – 無料サッカーゲーム（iPhone・Android）"
+  meta_title: "FL27 よくある質問 – Football League 2027（iPhone・Android）"
   meta_description: "無料サッカーゲーム「Football League」のよくある質問：友だちとのローカルPvP、コントローラー対応、チーム、ゲームモード、FL27。"
   kicker: "FAQ"
   title_1: "よくある"
